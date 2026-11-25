@@ -1,5 +1,5 @@
 {
- "version": 2026112502,
+ "version": 2026112501,
  "updatedAt": "2026-11-25",
  "terms": [
   [
@@ -13086,106 +13086,6 @@
    "律师函",
    "lawyer's letter",
    "法律合同"
-  ],
-  [
-   "合同解除",
-   "termination of contract",
-   "通用商务"
-  ],
-  [
-   "管辖法院",
-   "court of competent jurisdiction",
-   "通用商务"
-  ],
-  [
-   "排他性条款",
-   "exclusivity clause",
-   "通用商务"
-  ],
-  [
-   "合同变更单",
-   "change order",
-   "通用商务"
-  ],
-  [
-   "验收标准",
-   "acceptance criteria",
-   "通用商务"
-  ],
-  [
-   "交付里程碑",
-   "delivery milestone",
-   "通用商务"
-  ],
-  [
-   "项目章程",
-   "project charter",
-   "通用商务"
-  ],
-  [
-   "可行性研究",
-   "feasibility study",
-   "通用商务"
-  ],
-  [
-   "股权转让",
-   "equity transfer",
-   "通用商务"
-  ],
-  [
-   "股东大会",
-   "general meeting of shareholders",
-   "通用商务"
-  ],
-  [
-   "营业执照",
-   "business license",
-   "通用商务"
-  ],
-  [
-   "请付款通知",
-   "debit note",
-   "外贸"
-  ],
-  [
-   "贷记通知",
-   "credit note",
-   "外贸"
-  ],
-  [
-   "原产地规则",
-   "rules of origin",
-   "外贸"
-  ],
-  [
-   "一般原产地证",
-   "certificate of origin (general)",
-   "外贸"
-  ],
-  [
-   "检疫证书",
-   "quarantine certificate",
-   "外贸"
-  ],
-  [
-   "报关委托",
-   "customs declaration authorization",
-   "外贸"
-  ],
-  [
-   "滞箱费",
-   "detention charge",
-   "物流供应链"
-  ],
-  [
-   "箱号",
-   "container number",
-   "物流供应链"
-  ],
-  [
-   "封条号",
-   "seal number",
-   "物流供应链"
   ]
  ],
  "phrases": [
