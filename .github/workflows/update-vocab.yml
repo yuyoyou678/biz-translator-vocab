@@ -1,9 +1,9 @@
 name: 商务英语翻译器词库自动更新
 
-# 每天北京时间 09:00（UTC 01:00）云端自动运行，不依赖本地电脑
+# 每天北京时间 00:00（UTC 16:00）云端自动运行，凌晨完成，不依赖本地电脑
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 16 * * *'
   workflow_dispatch:  # 支持在 GitHub 页面手动触发
 
 permissions:
