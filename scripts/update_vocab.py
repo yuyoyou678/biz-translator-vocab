@@ -10,6 +10,7 @@ import json, os, sys, datetime, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 VOCAB_PATH = os.path.join(ROOT, 'vocab.json')
+VERSION_PATH = os.path.join(ROOT, 'version.json')
 POOL_PATH = os.path.join(ROOT, 'scripts', 'candidate_pool.json')
 RELEASE_N = int(os.environ.get('RELEASE_N', '20'))  # 每次释放条数
 
@@ -78,6 +79,11 @@ def main():
 
     with open(VOCAB_PATH, 'w', encoding='utf-8') as f:
         json.dump(vocab, f, ensure_ascii=False, indent=1)
+        f.write('\n')
+
+    # 同步轻量版本文件（网页据此先探测版本，未变则不下载词库正文）
+    with open(VERSION_PATH, 'w', encoding='utf-8') as f:
+        json.dump({'version': vocab['version']}, f, ensure_ascii=False)
         f.write('\n')
 
     print('UPDATED: 新增 %d 条' % len(batch))
