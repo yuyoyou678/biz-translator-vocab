@@ -1,5 +1,5 @@
 {
- "version": 2026112501,
+ "version": 2026112502,
  "updatedAt": "2026-11-25",
  "terms": [
   [
@@ -13086,6 +13086,496 @@
    "律师函",
    "lawyer's letter",
    "法律合同"
+  ],
+  [
+   "装运港船上交货",
+   "FOB|free on board",
+   "外贸"
+  ],
+  [
+   "成本加保险费加运费",
+   "CIF|cost, insurance and freight",
+   "外贸"
+  ],
+  [
+   "目的港码头交货",
+   "DEQ|delivered ex quay",
+   "外贸"
+  ],
+  [
+   "目的港船上交货",
+   "DES|delivered ex ship",
+   "外贸"
+  ],
+  [
+   "边境交货",
+   "DAF|delivered at frontier",
+   "外贸"
+  ],
+  [
+   "议付",
+   "negotiation",
+   "外贸"
+  ],
+  [
+   "承兑",
+   "acceptance",
+   "外贸"
+  ],
+  [
+   "拒付",
+   "dishonor",
+   "外贸"
+  ],
+  [
+   "追索权",
+   "right of recourse",
+   "外贸"
+  ],
+  [
+   "可转让信用证",
+   "transferable L/C",
+   "外贸"
+  ],
+  [
+   "原产地规则",
+   "rules of origin",
+   "外贸"
+  ],
+  [
+   "普惠制",
+   "GSP|generalized system of preferences",
+   "外贸"
+  ],
+  [
+   "受益人证明",
+   "beneficiary's certificate",
+   "单证"
+  ],
+  [
+   "载货清单",
+   "cargo manifest",
+   "单证"
+  ],
+  [
+   "整车运输",
+   "FTL|full truckload",
+   "物流供应链"
+  ],
+  [
+   "零担运输",
+   "LTL|less than truckload",
+   "物流供应链"
+  ],
+  [
+   "门到门",
+   "door to door",
+   "物流供应链"
+  ],
+  [
+   "船务代理",
+   "shipping agent",
+   "物流供应链"
+  ],
+  [
+   "20尺柜",
+   "20ft container|twenty-foot container",
+   "物流供应链"
+  ],
+  [
+   "40尺柜",
+   "40ft container|forty-foot container",
+   "物流供应链"
+  ],
+  [
+   "高柜",
+   "high cube container",
+   "物流供应链"
+  ],
+  [
+   "冷藏柜",
+   "reefer container|refrigerated container",
+   "物流供应链"
+  ],
+  [
+   "开顶柜",
+   "open top container",
+   "物流供应链"
+  ],
+  [
+   "框架柜",
+   "flat rack container",
+   "物流供应链"
+  ],
+  [
+   "滞箱费",
+   "detention|container demurrage",
+   "物流供应链"
+  ],
+  [
+   "铅封",
+   "seal",
+   "物流供应链"
+  ],
+  [
+   "进项税抵扣",
+   "input VAT deduction",
+   "金融财务"
+  ],
+  [
+   "会计科目",
+   "account title",
+   "金融财务"
+  ],
+  [
+   "试算平衡表",
+   "trial balance",
+   "金融财务"
+  ],
+  [
+   "银行对账单",
+   "bank statement",
+   "金融财务"
+  ],
+  [
+   "存货",
+   "inventory|stock",
+   "金融财务"
+  ],
+  [
+   "流动比率",
+   "current ratio",
+   "金融财务"
+  ],
+  [
+   "速动比率",
+   "quick ratio",
+   "金融财务"
+  ],
+  [
+   "资产负债率",
+   "debt-to-asset ratio",
+   "金融财务"
+  ],
+  [
+   "净资产收益率",
+   "ROE|return on equity",
+   "金融财务"
+  ],
+  [
+   "总资产收益率",
+   "ROA|return on assets",
+   "金融财务"
+  ],
+  [
+   "息税折旧摊销前利润",
+   "EBITDA",
+   "金融财务"
+  ],
+  [
+   "息税前利润",
+   "EBIT",
+   "金融财务"
+  ],
+  [
+   "营业利润率",
+   "operating margin",
+   "金融财务"
+  ],
+  [
+   "资本公积",
+   "capital reserve",
+   "金融财务"
+  ],
+  [
+   "盈余公积",
+   "surplus reserve",
+   "金融财务"
+  ],
+  [
+   "未分配利润",
+   "retained earnings",
+   "金融财务"
+  ],
+  [
+   "商誉",
+   "goodwill",
+   "金融财务"
+  ],
+  [
+   "递延收入",
+   "deferred revenue",
+   "金融财务"
+  ],
+  [
+   "应计费用",
+   "accrued expenses",
+   "金融财务"
+  ],
+  [
+   "对账",
+   "reconciliation",
+   "金融财务"
+  ],
+  [
+   "对价",
+   "consideration",
+   "法律合同"
+  ],
+  [
+   "解除合同",
+   "rescission",
+   "法律合同"
+  ],
+  [
+   "终止合同",
+   "termination",
+   "法律合同"
+  ],
+  [
+   "可撤销",
+   "voidable",
+   "法律合同"
+  ],
+  [
+   "无效合同",
+   "void contract",
+   "法律合同"
+  ],
+  [
+   "履约保证金",
+   "performance bond",
+   "法律合同"
+  ],
+  [
+   "投标保证金",
+   "bid bond",
+   "法律合同"
+  ],
+  [
+   "担保",
+   "guarantee",
+   "法律合同"
+  ],
+  [
+   "质押",
+   "pledge",
+   "法律合同"
+  ],
+  [
+   "留置权",
+   "lien",
+   "法律合同"
+  ],
+  [
+   "解雇",
+   "dismissal",
+   "人力资源"
+  ],
+  [
+   "经济补偿金",
+   "severance pay",
+   "人力资源"
+  ],
+  [
+   "五险一金",
+   "five insurances and one fund",
+   "人力资源"
+  ],
+  [
+   "个人所得税",
+   "individual income tax",
+   "人力资源"
+  ],
+  [
+   "年终奖",
+   "annual bonus",
+   "人力资源"
+  ],
+  [
+   "加班费",
+   "overtime pay",
+   "人力资源"
+  ],
+  [
+   "带薪年假",
+   "paid annual leave",
+   "人力资源"
+  ],
+  [
+   "产假",
+   "maternity leave",
+   "人力资源"
+  ],
+  [
+   "调岗",
+   "job transfer",
+   "人力资源"
+  ],
+  [
+   "组织架构",
+   "organizational structure",
+   "人力资源"
+  ],
+  [
+   "人才储备",
+   "talent pool",
+   "人力资源"
+  ],
+  [
+   "猎头",
+   "headhunter",
+   "人力资源"
+  ],
+  [
+   "品牌资产",
+   "brand equity",
+   "市场营销"
+  ],
+  [
+   "品牌认知",
+   "brand awareness",
+   "市场营销"
+  ],
+  [
+   "投资回报率",
+   "ROI|return on investment",
+   "市场营销"
+  ],
+  [
+   "复购率",
+   "repurchase rate",
+   "市场营销"
+  ],
+  [
+   "客户留存",
+   "customer retention",
+   "市场营销"
+  ],
+  [
+   "A/B测试",
+   "A/B testing",
+   "市场营销"
+  ],
+  [
+   "搜索引擎营销",
+   "SEM",
+   "市场营销"
+  ],
+  [
+   "千次展示成本",
+   "CPM|cost per thousand impressions",
+   "市场营销"
+  ],
+  [
+   "每次转化成本",
+   "CPA|cost per acquisition",
+   "市场营销"
+  ],
+  [
+   "营销自动化",
+   "marketing automation",
+   "市场营销"
+  ],
+  [
+   "销售渠道",
+   "sales channel",
+   "市场营销"
+  ],
+  [
+   "零售商",
+   "retailer",
+   "市场营销"
+  ],
+  [
+   "批发商",
+   "wholesaler",
+   "市场营销"
+  ],
+  [
+   "会员计划",
+   "loyalty program",
+   "市场营销"
+  ],
+  [
+   "影响者营销",
+   "influencer marketing",
+   "市场营销"
+  ],
+  [
+   "私域流量",
+   "private domain traffic",
+   "市场营销"
+  ],
+  [
+   "技术债",
+   "technical debt",
+   "软件"
+  ],
+  [
+   "重构",
+   "refactoring",
+   "软件"
+  ],
+  [
+   "热修复",
+   "hotfix",
+   "软件"
+  ],
+  [
+   "区块链",
+   "blockchain",
+   "网络"
+  ],
+  [
+   "沙箱",
+   "sandbox",
+   "网络"
+  ],
+  [
+   "激光切割",
+   "laser cutting",
+   "机械设备"
+  ],
+  [
+   "价目表",
+   "price list",
+   "通用商务"
+  ],
+  [
+   "产品目录",
+   "catalogue|catalog",
+   "通用商务"
+  ],
+  [
+   "订单确认书",
+   "order confirmation",
+   "通用商务"
+  ],
+  [
+   "销售合同",
+   "sales contract",
+   "通用商务"
+  ],
+  [
+   "付款条件",
+   "payment terms",
+   "通用商务"
+  ],
+  [
+   "最小起订量",
+   "MOQ|minimum order quantity",
+   "通用商务"
+  ],
+  [
+   "质保期",
+   "warranty period",
+   "通用商务"
+  ],
+  [
+   "售后服务",
+   "after-sales service",
+   "通用商务"
   ]
  ],
  "phrases": [
@@ -13588,6 +14078,156 @@
    "付款后将立即发货。",
    "Goods will be shipped immediately after payment.",
    "商务谈判"
+  ],
+  [
+   "请提供报价有效期。",
+   "Please state the validity period of the quotation.",
+   "商务谈判"
+  ],
+  [
+   "我方接受贵方报价。",
+   "We accept your quotation.",
+   "商务谈判"
+  ],
+  [
+   "价格以美元计价。",
+   "Prices are quoted in US dollars.",
+   "商务谈判"
+  ],
+  [
+   "请确认付款条件。",
+   "Please confirm the payment terms.",
+   "商务谈判"
+  ],
+  [
+   "货物须符合样品质量。",
+   "The goods must conform to the quality of the samples.",
+   "商务谈判"
+  ],
+  [
+   "我方保留拒绝任何报价的权利。",
+   "We reserve the right to reject any quotation.",
+   "商务谈判"
+  ],
+  [
+   "订单已确认。",
+   "The order has been confirmed.",
+   "商务谈判"
+  ],
+  [
+   "订单正在处理中。",
+   "The order is being processed.",
+   "商务谈判"
+  ],
+  [
+   "货物已备妥待运。",
+   "The goods are ready for shipment.",
+   "商务谈判"
+  ],
+  [
+   "由于缺货，交货期将延迟。",
+   "The delivery will be delayed due to a shortage of stock.",
+   "商务谈判"
+  ],
+  [
+   "请确认修改后的交货期。",
+   "Please confirm the revised delivery date.",
+   "商务谈判"
+  ],
+  [
+   "我们会尽快安排发货。",
+   "We will arrange shipment as soon as possible.",
+   "商务谈判"
+  ],
+  [
+   "请查收发票。",
+   "Please find the invoice attached.",
+   "商务谈判"
+  ],
+  [
+   "发票已寄出。",
+   "The invoice has been sent.",
+   "商务谈判"
+  ],
+  [
+   "货款尚未收到。",
+   "Payment has not yet been received.",
+   "商务谈判"
+  ],
+  [
+   "请核对账单。",
+   "Please check the statement.",
+   "商务谈判"
+  ],
+  [
+   "我们对质量不满意。",
+   "We are not satisfied with the quality.",
+   "商务谈判"
+  ],
+  [
+   "货物在运输途中受损。",
+   "The goods were damaged in transit.",
+   "商务谈判"
+  ],
+  [
+   "请提出索赔。",
+   "Please lodge a claim.",
+   "商务谈判"
+  ],
+  [
+   "索赔已提交。",
+   "The claim has been submitted.",
+   "商务谈判"
+  ],
+  [
+   "请提供索赔证明文件。",
+   "Please provide the supporting documents for the claim.",
+   "商务谈判"
+  ],
+  [
+   "我们会考虑赔偿。",
+   "We will consider compensation.",
+   "商务谈判"
+  ],
+  [
+   "请确认收到货物。",
+   "Please confirm receipt of the goods.",
+   "商务谈判"
+  ],
+  [
+   "请提供最优惠报价及交货期。",
+   "Please provide your best quotation and delivery time.",
+   "商务谈判"
+  ],
+  [
+   "盼复。",
+   "Looking forward to your reply.",
+   "邮件沟通"
+  ],
+  [
+   "特此函告。",
+   "We are writing to inform you that...",
+   "邮件沟通"
+  ],
+  [
+   "请知悉。",
+   "Please be advised.",
+   "邮件沟通"
+  ],
+  [
+   "随函附上报价单。",
+   "Enclosed please find the quotation.",
+   "邮件沟通"
+  ],
+  [
+   "如需协助，请告知。",
+   "Please let me know if you need any assistance.",
+   "邮件沟通"
+  ],
+  [
+   "对此造成的不便，我们深表歉意。",
+   "We apologize for any inconvenience caused.",
+   "邮件沟通"
   ]
  ],
  "sources": [
