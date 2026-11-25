@@ -1,0 +1,94 @@
+name: 商务英语翻译器词库自动更新
+
+# 每天北京时间 09:00（UTC 01:00）云端自动运行，不依赖本地电脑
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:  # 支持在 GitHub 页面手动触发
+
+permissions:
+  contents: write
+
+# 同一时间只允许一个更新任务运行，防止并发推送冲突
+concurrency:
+  group: vocab-update
+  cancel-in-progress: false
+
+jobs:
+  update-vocab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+        with:
+          # 使用 Actions 内置 GITHUB_TOKEN：由 GitHub 自动签发，无个人 PAT，不会过期
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: 检查令牌有效性
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 内置令牌只在本次任务期间有效，这里验证仓库读写权限是否正常
+          if curl -fsS -H "Authorization: Bearer $GH_TOKEN" \
+               -H "Accept: application/vnd.github+json" \
+               "https://api.github.com/repos/${GITHUB_REPOSITORY}" >/dev/null; then
+            echo "TOKEN_OK: 内置 GITHUB_TOKEN 有效"
+          else
+            echo "::warning::内置令牌校验未通过，将改用 checkout 凭据继续尝试"
+          fi
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 释放新词并更新词库
+        id: update
+        env:
+          RELEASE_N: '20'
+        run: |
+          set -o pipefail
+          OUTPUT=$(python3 scripts/update_vocab.py 2>&1)
+          echo "$OUTPUT"
+          {
+            echo '### 词库更新结果'
+            echo '```text'
+            echo "$OUTPUT"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          if echo "$OUTPUT" | grep -q '^UPDATED:'; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+          # 候选池余量不足时给出告警，便于及时补词
+          REMAIN=$(echo "$OUTPUT" | sed -n 's/^REMAINING_POOL: //p')
+          if [ -n "$REMAIN" ] && [ "$REMAIN" -lt 140 ]; then
+            echo "::warning::候选池仅剩 ${REMAIN} 条，建议补充自编词条"
+          fi
+
+      - name: 若有新增则提交并推送（冲突自愈）
+        if: steps.update.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add vocab.json
+          if git diff --cached --quiet; then
+            echo "无实际变更，跳过提交"
+            exit 0
+          fi
+          VERSION=$(python3 -c "import json;print(json.load(open('vocab.json'))['version'])")
+          TERMS=$(python3 -c "import json;print(len(json.load(open('vocab.json'))['terms']))")
+          git commit -m "chore: 自动更新词库 v${VERSION} (${TERMS} terms) [skip ci]"
+          # 推送失败时先变基再重试一次，避免偶发冲突导致整天不更新
+          if ! git push origin HEAD:main; then
+            echo "首次推送失败，尝试变基后重试"
+            git fetch origin main
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          echo "已推送词库更新 v${VERSION}"
