@@ -1,0 +1,13596 @@
+{
+ "version": 2026112501,
+ "updatedAt": "2026-11-25",
+ "terms": [
+  [
+   "快递",
+   "express delivery",
+   "交通运输"
+  ],
+  [
+   "海运",
+   "sea freight|ocean shipping",
+   "交通运输"
+  ],
+  [
+   "空运",
+   "air freight",
+   "交通运输"
+  ],
+  [
+   "船期",
+   "shipping schedule",
+   "交通运输"
+  ],
+  [
+   "货运代理",
+   "freight forwarder",
+   "交通运输"
+  ],
+  [
+   "运输",
+   "transportation",
+   "交通运输"
+  ],
+  [
+   "陆运",
+   "land transport",
+   "交通运输"
+  ],
+  [
+   "集装箱",
+   "container",
+   "交通运输"
+  ],
+  [
+   "人力资源",
+   "human resources|HR",
+   "人力资源"
+  ],
+  [
+   "人才",
+   "talent",
+   "人力资源"
+  ],
+  [
+   "企业文化",
+   "corporate culture",
+   "人力资源"
+  ],
+  [
+   "入职",
+   "onboarding",
+   "人力资源"
+  ],
+  [
+   "公积金",
+   "housing fund",
+   "人力资源"
+  ],
+  [
+   "加班",
+   "overtime",
+   "人力资源"
+  ],
+  [
+   "劳动合同",
+   "labor contract",
+   "人力资源"
+  ],
+  [
+   "培训",
+   "training",
+   "人力资源"
+  ],
+  [
+   "岗位",
+   "position",
+   "人力资源"
+  ],
+  [
+   "工会",
+   "trade union",
+   "人力资源"
+  ],
+  [
+   "年假",
+   "annual leave",
+   "人力资源"
+  ],
+  [
+   "招聘",
+   "recruitment",
+   "人力资源"
+  ],
+  [
+   "晋升",
+   "promotion",
+   "人力资源"
+  ],
+  [
+   "社保",
+   "social insurance",
+   "人力资源"
+  ],
+  [
+   "福利",
+   "benefits",
+   "人力资源"
+  ],
+  [
+   "离职",
+   "resignation|turnover",
+   "人力资源"
+  ],
+  [
+   "简历",
+   "resume|CV",
+   "人力资源"
+  ],
+  [
+   "组织",
+   "organization",
+   "人力资源"
+  ],
+  [
+   "绩效",
+   "performance",
+   "人力资源"
+  ],
+  [
+   "绩效考核",
+   "performance appraisal",
+   "人力资源"
+  ],
+  [
+   "职位描述",
+   "job description",
+   "人力资源"
+  ],
+  [
+   "职责",
+   "responsibility",
+   "人力资源"
+  ],
+  [
+   "薪酬",
+   "compensation|salary",
+   "人力资源"
+  ],
+  [
+   "裁员",
+   "layoff",
+   "人力资源"
+  ],
+  [
+   "面试",
+   "interview",
+   "人力资源"
+  ],
+  [
+   "领导力",
+   "leadership",
+   "人力资源"
+  ],
+  [
+   "云计算",
+   "cloud computing",
+   "信息技术"
+  ],
+  [
+   "人工智能",
+   "artificial intelligence|AI",
+   "信息技术"
+  ],
+  [
+   "信息安全",
+   "information security",
+   "信息技术"
+  ],
+  [
+   "加密",
+   "encryption",
+   "信息技术"
+  ],
+  [
+   "升级",
+   "upgrade",
+   "信息技术"
+  ],
+  [
+   "协议",
+   "protocol",
+   "信息技术"
+  ],
+  [
+   "备份",
+   "backup",
+   "信息技术"
+  ],
+  [
+   "大数据",
+   "big data",
+   "信息技术"
+  ],
+  [
+   "客户端",
+   "client",
+   "信息技术"
+  ],
+  [
+   "带宽",
+   "bandwidth",
+   "信息技术"
+  ],
+  [
+   "开发",
+   "development",
+   "信息技术"
+  ],
+  [
+   "恢复",
+   "recovery",
+   "信息技术"
+  ],
+  [
+   "接口",
+   "API|interface|port",
+   "信息技术"
+  ],
+  [
+   "故障",
+   "fault|failure",
+   "信息技术"
+  ],
+  [
+   "数据库",
+   "database",
+   "信息技术"
+  ],
+  [
+   "日志",
+   "log",
+   "信息技术"
+  ],
+  [
+   "更新",
+   "update",
+   "信息技术"
+  ],
+  [
+   "服务器",
+   "server",
+   "信息技术"
+  ],
+  [
+   "机器学习",
+   "machine learning",
+   "信息技术"
+  ],
+  [
+   "测试",
+   "testing",
+   "信息技术"
+  ],
+  [
+   "版本",
+   "version",
+   "信息技术"
+  ],
+  [
+   "用户体验",
+   "user experience|UX",
+   "信息技术"
+  ],
+  [
+   "用户界面",
+   "user interface|UI",
+   "信息技术"
+  ],
+  [
+   "硬件",
+   "hardware",
+   "信息技术"
+  ],
+  [
+   "算法",
+   "algorithm",
+   "信息技术"
+  ],
+  [
+   "系统",
+   "system",
+   "信息技术"
+  ],
+  [
+   "网络",
+   "network",
+   "信息技术"
+  ],
+  [
+   "网络安全",
+   "cybersecurity|network security",
+   "信息技术"
+  ],
+  [
+   "软件",
+   "software",
+   "信息技术"
+  ],
+  [
+   "运维",
+   "operations and maintenance|O&M",
+   "信息技术"
+  ],
+  [
+   "部署",
+   "deployment",
+   "信息技术"
+  ],
+  [
+   "GPS",
+   "GPS|global positioning system",
+   "军事安防"
+  ],
+  [
+   "人脸识别",
+   "face recognition",
+   "军事安防"
+  ],
+  [
+   "侦察",
+   "reconnaissance",
+   "军事安防"
+  ],
+  [
+   "军事",
+   "military",
+   "军事安防"
+  ],
+  [
+   "军事演习",
+   "military exercise",
+   "军事安防"
+  ],
+  [
+   "军队",
+   "armed forces|military",
+   "军事安防"
+  ],
+  [
+   "加密通信",
+   "encrypted communication",
+   "军事安防"
+  ],
+  [
+   "北斗",
+   "BeiDou",
+   "军事安防"
+  ],
+  [
+   "卫星",
+   "satellite",
+   "军事安防"
+  ],
+  [
+   "后勤",
+   "logistics",
+   "军事安防"
+  ],
+  [
+   "国家安全",
+   "national security",
+   "军事安防"
+  ],
+  [
+   "国防",
+   "national defense",
+   "军事安防"
+  ],
+  [
+   "安检",
+   "security check",
+   "军事安防"
+  ],
+  [
+   "安防",
+   "security",
+   "军事安防"
+  ],
+  [
+   "导弹",
+   "missile",
+   "军事安防"
+  ],
+  [
+   "导航",
+   "navigation",
+   "军事安防"
+  ],
+  [
+   "巡逻",
+   "patrol",
+   "军事安防"
+  ],
+  [
+   "弹药",
+   "ammunition",
+   "军事安防"
+  ],
+  [
+   "报警系统",
+   "alarm system",
+   "军事安防"
+  ],
+  [
+   "指纹识别",
+   "fingerprint recognition",
+   "军事安防"
+  ],
+  [
+   "数据加密",
+   "data encryption",
+   "军事安防"
+  ],
+  [
+   "无人机",
+   "UAV|unmanned aerial vehicle|drone",
+   "军事安防"
+  ],
+  [
+   "机密",
+   "secret|confidential",
+   "军事安防"
+  ],
+  [
+   "武器",
+   "weapon",
+   "军事安防"
+  ],
+  [
+   "海军",
+   "navy",
+   "军事安防"
+  ],
+  [
+   "涉密",
+   "classified",
+   "军事安防"
+  ],
+  [
+   "火箭军",
+   "rocket force",
+   "军事安防"
+  ],
+  [
+   "监视",
+   "surveillance",
+   "军事安防"
+  ],
+  [
+   "空军",
+   "air force",
+   "军事安防"
+  ],
+  [
+   "考勤",
+   "attendance",
+   "军事安防"
+  ],
+  [
+   "装备",
+   "equipment",
+   "军事安防"
+  ],
+  [
+   "访客管理",
+   "visitor management",
+   "军事安防"
+  ],
+  [
+   "证件",
+   "ID document|credential",
+   "军事安防"
+  ],
+  [
+   "身份认证",
+   "identity authentication",
+   "军事安防"
+  ],
+  [
+   "通信",
+   "communication",
+   "军事安防"
+  ],
+  [
+   "门禁",
+   "access control",
+   "军事安防"
+  ],
+  [
+   "闭路电视",
+   "CCTV",
+   "军事安防"
+  ],
+  [
+   "陆军",
+   "army",
+   "军事安防"
+  ],
+  [
+   "ABS树脂",
+   "ABS resin",
+   "化工材料"
+  ],
+  [
+   "pH值",
+   "pH value",
+   "化工材料"
+  ],
+  [
+   "三废处理",
+   "three wastes treatment",
+   "化工材料"
+  ],
+  [
+   "不锈钢",
+   "stainless steel",
+   "化工材料"
+  ],
+  [
+   "储罐",
+   "storage tank",
+   "化工材料"
+  ],
+  [
+   "催化剂",
+   "catalyst",
+   "化工材料"
+  ],
+  [
+   "冷凝",
+   "condensation",
+   "化工材料"
+  ],
+  [
+   "冷凝器",
+   "condenser",
+   "化工材料"
+  ],
+  [
+   "冷却",
+   "cooling",
+   "化工材料"
+  ],
+  [
+   "分子式",
+   "molecular formula",
+   "化工材料"
+  ],
+  [
+   "加热",
+   "heating",
+   "化工材料"
+  ],
+  [
+   "助剂",
+   "auxiliary agent",
+   "化工材料"
+  ],
+  [
+   "化学反应",
+   "chemical reaction",
+   "化工材料"
+  ],
+  [
+   "化学方程式",
+   "chemical equation",
+   "化工材料"
+  ],
+  [
+   "化工",
+   "chemical industry",
+   "化工材料"
+  ],
+  [
+   "半导体材料",
+   "semiconductor material",
+   "化工材料"
+  ],
+  [
+   "单体",
+   "monomer",
+   "化工材料"
+  ],
+  [
+   "危险化学品",
+   "hazardous chemical",
+   "化工材料"
+  ],
+  [
+   "反应器",
+   "reactor",
+   "化工材料"
+  ],
+  [
+   "反应釜",
+   "reaction kettle",
+   "化工材料"
+  ],
+  [
+   "合成橡胶",
+   "synthetic rubber",
+   "化工材料"
+  ],
+  [
+   "合成纤维",
+   "synthetic fiber",
+   "化工材料"
+  ],
+  [
+   "合金",
+   "alloy",
+   "化工材料"
+  ],
+  [
+   "吸收",
+   "absorption",
+   "化工材料"
+  ],
+  [
+   "吸附",
+   "adsorption",
+   "化工材料"
+  ],
+  [
+   "固废处理",
+   "solid waste treatment",
+   "化工材料"
+  ],
+  [
+   "塑料",
+   "plastic",
+   "化工材料"
+  ],
+  [
+   "复合材料",
+   "composite material",
+   "化工材料"
+  ],
+  [
+   "天然橡胶",
+   "natural rubber",
+   "化工材料"
+  ],
+  [
+   "安全生产",
+   "work safety|production safety",
+   "化工材料"
+  ],
+  [
+   "密封",
+   "seal",
+   "化工材料"
+  ],
+  [
+   "密度",
+   "density",
+   "化工材料"
+  ],
+  [
+   "干燥",
+   "drying",
+   "化工材料"
+  ],
+  [
+   "干燥机",
+   "dryer",
+   "化工材料"
+  ],
+  [
+   "废气处理",
+   "waste gas treatment",
+   "化工材料"
+  ],
+  [
+   "废水处理",
+   "wastewater treatment",
+   "化工材料"
+  ],
+  [
+   "换热器",
+   "heat exchanger",
+   "化工材料"
+  ],
+  [
+   "排放",
+   "emission|discharge",
+   "化工材料"
+  ],
+  [
+   "搅拌",
+   "agitation|stirring",
+   "化工材料"
+  ],
+  [
+   "摩尔",
+   "mole",
+   "化工材料"
+  ],
+  [
+   "摩尔浓度",
+   "molarity",
+   "化工材料"
+  ],
+  [
+   "树脂",
+   "resin",
+   "化工材料"
+  ],
+  [
+   "橡胶",
+   "rubber",
+   "化工材料"
+  ],
+  [
+   "氧化剂",
+   "oxidant",
+   "化工材料"
+  ],
+  [
+   "沸点",
+   "boiling point",
+   "化工材料"
+  ],
+  [
+   "油墨",
+   "ink",
+   "化工材料"
+  ],
+  [
+   "油漆",
+   "paint",
+   "化工材料"
+  ],
+  [
+   "浓度",
+   "concentration",
+   "化工材料"
+  ],
+  [
+   "涂料",
+   "coating|paint",
+   "化工材料"
+  ],
+  [
+   "混合",
+   "mixing",
+   "化工材料"
+  ],
+  [
+   "添加剂",
+   "additive",
+   "化工材料"
+  ],
+  [
+   "溶剂",
+   "solvent",
+   "化工材料"
+  ],
+  [
+   "溶解度",
+   "solubility",
+   "化工材料"
+  ],
+  [
+   "熔点",
+   "melting point",
+   "化工材料"
+  ],
+  [
+   "玻璃纤维",
+   "glass fiber",
+   "化工材料"
+  ],
+  [
+   "盐",
+   "salt",
+   "化工材料"
+  ],
+  [
+   "硅胶",
+   "silicone",
+   "化工材料"
+  ],
+  [
+   "碱",
+   "alkali",
+   "化工材料"
+  ],
+  [
+   "碳纤维",
+   "carbon fiber",
+   "化工材料"
+  ],
+  [
+   "碳钢",
+   "carbon steel",
+   "化工材料"
+  ],
+  [
+   "离心机",
+   "centrifuge",
+   "化工材料"
+  ],
+  [
+   "管道",
+   "pipeline",
+   "化工材料"
+  ],
+  [
+   "粉碎",
+   "crushing",
+   "化工材料"
+  ],
+  [
+   "粘度",
+   "viscosity",
+   "化工材料"
+  ],
+  [
+   "精馏",
+   "rectification|distillation",
+   "化工材料"
+  ],
+  [
+   "纤维",
+   "fiber",
+   "化工材料"
+  ],
+  [
+   "纯度",
+   "purity",
+   "化工材料"
+  ],
+  [
+   "纳米材料",
+   "nanomaterial",
+   "化工材料"
+  ],
+  [
+   "结晶",
+   "crystallization",
+   "化工材料"
+  ],
+  [
+   "结构式",
+   "structural formula",
+   "化工材料"
+  ],
+  [
+   "职业健康",
+   "occupational health",
+   "化工材料"
+  ],
+  [
+   "聚丙烯",
+   "polypropylene|PP",
+   "化工材料"
+  ],
+  [
+   "聚乙烯",
+   "polyethylene|PE",
+   "化工材料"
+  ],
+  [
+   "聚合物",
+   "polymer",
+   "化工材料"
+  ],
+  [
+   "聚氯乙烯",
+   "polyvinyl chloride|PVC",
+   "化工材料"
+  ],
+  [
+   "聚苯乙烯",
+   "polystyrene|PS",
+   "化工材料"
+  ],
+  [
+   "胶黏剂",
+   "adhesive",
+   "化工材料"
+  ],
+  [
+   "腐蚀",
+   "corrosion",
+   "化工材料"
+  ],
+  [
+   "萃取",
+   "extraction",
+   "化工材料"
+  ],
+  [
+   "蒸发",
+   "evaporation",
+   "化工材料"
+  ],
+  [
+   "蒸发器",
+   "evaporator",
+   "化工材料"
+  ],
+  [
+   "蒸馏",
+   "distillation",
+   "化工材料"
+  ],
+  [
+   "表面活性剂",
+   "surfactant",
+   "化工材料"
+  ],
+  [
+   "试剂",
+   "reagent",
+   "化工材料"
+  ],
+  [
+   "质量分数",
+   "mass fraction",
+   "化工材料"
+  ],
+  [
+   "过滤",
+   "filtration",
+   "化工材料"
+  ],
+  [
+   "还原剂",
+   "reducing agent",
+   "化工材料"
+  ],
+  [
+   "酸",
+   "acid",
+   "化工材料"
+  ],
+  [
+   "钛合金",
+   "titanium alloy",
+   "化工材料"
+  ],
+  [
+   "铜合金",
+   "copper alloy",
+   "化工材料"
+  ],
+  [
+   "铝合金",
+   "aluminum alloy",
+   "化工材料"
+  ],
+  [
+   "闪点",
+   "flash point",
+   "化工材料"
+  ],
+  [
+   "防爆",
+   "explosion-proof",
+   "化工材料"
+  ],
+  [
+   "防腐",
+   "anticorrosion",
+   "化工材料"
+  ],
+  [
+   "降解",
+   "degradation",
+   "化工材料"
+  ],
+  [
+   "陶瓷",
+   "ceramics",
+   "化工材料"
+  ],
+  [
+   "B超",
+   "ultrasound|B-ultrasound",
+   "医疗健康"
+  ],
+  [
+   "CT",
+   "CT|computed tomography",
+   "医疗健康"
+  ],
+  [
+   "GCP",
+   "GCP|good clinical practice",
+   "医疗健康"
+  ],
+  [
+   "GLP",
+   "GLP|good laboratory practice",
+   "医疗健康"
+  ],
+  [
+   "GMP",
+   "GMP|good manufacturing practice",
+   "医疗健康"
+  ],
+  [
+   "GSP",
+   "GSP|good supply practice",
+   "医疗健康"
+  ],
+  [
+   "X光",
+   "X-ray",
+   "医疗健康"
+  ],
+  [
+   "一期临床",
+   "Phase I clinical trial",
+   "医疗健康"
+  ],
+  [
+   "一次性使用",
+   "single-use|disposable",
+   "医疗健康"
+  ],
+  [
+   "三期临床",
+   "Phase III clinical trial",
+   "医疗健康"
+  ],
+  [
+   "不良反应",
+   "adverse reaction",
+   "医疗健康"
+  ],
+  [
+   "中药",
+   "traditional Chinese medicine|TCM",
+   "医疗健康"
+  ],
+  [
+   "临床",
+   "clinical",
+   "医疗健康"
+  ],
+  [
+   "临床试验",
+   "clinical trial",
+   "医疗健康"
+  ],
+  [
+   "二期临床",
+   "Phase II clinical trial",
+   "医疗健康"
+  ],
+  [
+   "仿制药",
+   "generic drug",
+   "医疗健康"
+  ],
+  [
+   "传染病",
+   "infectious disease",
+   "医疗健康"
+  ],
+  [
+   "伦理委员会",
+   "ethics committee",
+   "医疗健康"
+  ],
+  [
+   "体外诊断",
+   "IVD|in vitro diagnostics",
+   "医疗健康"
+  ],
+  [
+   "体征",
+   "sign",
+   "医疗健康"
+  ],
+  [
+   "体温",
+   "body temperature",
+   "医疗健康"
+  ],
+  [
+   "健康",
+   "health",
+   "医疗健康"
+  ],
+  [
+   "公共卫生",
+   "public health",
+   "医疗健康"
+  ],
+  [
+   "创新药",
+   "innovative drug",
+   "医疗健康"
+  ],
+  [
+   "制剂",
+   "formulation|preparation",
+   "医疗健康"
+  ],
+  [
+   "剂量",
+   "dosage|dose",
+   "医疗健康"
+  ],
+  [
+   "副作用",
+   "side effect",
+   "医疗健康"
+  ],
+  [
+   "化验",
+   "lab test|laboratory test",
+   "医疗健康"
+  ],
+  [
+   "医保",
+   "medical insurance",
+   "医疗健康"
+  ],
+  [
+   "医生",
+   "physician|doctor",
+   "医疗健康"
+  ],
+  [
+   "医疗",
+   "medical",
+   "医疗健康"
+  ],
+  [
+   "医疗保险",
+   "medical insurance",
+   "医疗健康"
+  ],
+  [
+   "医疗器械",
+   "medical device",
+   "医疗健康"
+  ],
+  [
+   "医疗费用",
+   "medical expense",
+   "医疗健康"
+  ],
+  [
+   "医院",
+   "hospital",
+   "医疗健康"
+  ],
+  [
+   "半衰期",
+   "half-life",
+   "医疗健康"
+  ],
+  [
+   "原料药",
+   "API|active pharmaceutical ingredient",
+   "医疗健康"
+  ],
+  [
+   "呼吸机",
+   "ventilator",
+   "医疗健康"
+  ],
+  [
+   "处方",
+   "prescription",
+   "医疗健康"
+  ],
+  [
+   "处方药",
+   "prescription drug",
+   "医疗健康"
+  ],
+  [
+   "尿常规",
+   "urinalysis",
+   "医疗健康"
+  ],
+  [
+   "康复",
+   "rehabilitation",
+   "医疗健康"
+  ],
+  [
+   "影像",
+   "imaging",
+   "医疗健康"
+  ],
+  [
+   "影像设备",
+   "imaging equipment",
+   "医疗健康"
+  ],
+  [
+   "心率",
+   "heart rate",
+   "医疗健康"
+  ],
+  [
+   "急救",
+   "first aid",
+   "医疗健康"
+  ],
+  [
+   "感染",
+   "infection",
+   "医疗健康"
+  ],
+  [
+   "慢性病",
+   "chronic disease",
+   "医疗健康"
+  ],
+  [
+   "手术",
+   "surgery",
+   "医疗健康"
+  ],
+  [
+   "手术器械",
+   "surgical instrument",
+   "医疗健康"
+  ],
+  [
+   "抗生素",
+   "antibiotic",
+   "医疗健康"
+  ],
+  [
+   "护理",
+   "nursing",
+   "医疗健康"
+  ],
+  [
+   "服用",
+   "take|administer",
+   "医疗健康"
+  ],
+  [
+   "核磁共振",
+   "MRI|magnetic resonance imaging",
+   "医疗健康"
+  ],
+  [
+   "检查",
+   "examination|check",
+   "医疗健康"
+  ],
+  [
+   "植入物",
+   "implant",
+   "医疗健康"
+  ],
+  [
+   "每日一次",
+   "once a day|QD",
+   "医疗健康"
+  ],
+  [
+   "每日两次",
+   "twice a day|BID",
+   "医疗健康"
+  ],
+  [
+   "治疗",
+   "treatment",
+   "医疗健康"
+  ],
+  [
+   "流行病",
+   "epidemic",
+   "医疗健康"
+  ],
+  [
+   "流行病学",
+   "epidemiology",
+   "医疗健康"
+  ],
+  [
+   "炎症",
+   "inflammation",
+   "医疗健康"
+  ],
+  [
+   "生物药",
+   "biologic|biopharmaceutical",
+   "医疗健康"
+  ],
+  [
+   "疫情防控",
+   "epidemic prevention and control",
+   "医疗健康"
+  ],
+  [
+   "疫苗",
+   "vaccine",
+   "医疗健康"
+  ],
+  [
+   "病人",
+   "patient",
+   "医疗健康"
+  ],
+  [
+   "病例",
+   "case",
+   "医疗健康"
+  ],
+  [
+   "病史",
+   "medical history",
+   "医疗健康"
+  ],
+  [
+   "症状",
+   "symptom",
+   "医疗健康"
+  ],
+  [
+   "癌症",
+   "cancer",
+   "医疗健康"
+  ],
+  [
+   "监护仪",
+   "monitor",
+   "医疗健康"
+  ],
+  [
+   "知情同意",
+   "informed consent",
+   "医疗健康"
+  ],
+  [
+   "禁忌",
+   "contraindication",
+   "医疗健康"
+  ],
+  [
+   "糖尿病",
+   "diabetes",
+   "医疗健康"
+  ],
+  [
+   "给药",
+   "administration",
+   "医疗健康"
+  ],
+  [
+   "耐药性",
+   "drug resistance",
+   "医疗健康"
+  ],
+  [
+   "耗材",
+   "consumable",
+   "医疗健康"
+  ],
+  [
+   "肿瘤",
+   "tumor|tumour",
+   "医疗健康"
+  ],
+  [
+   "药代动力学",
+   "pharmacokinetics",
+   "医疗健康"
+  ],
+  [
+   "药品",
+   "drug|medication|medicine",
+   "医疗健康"
+  ],
+  [
+   "药品批准文号",
+   "drug approval number",
+   "医疗健康"
+  ],
+  [
+   "药品注册",
+   "drug registration",
+   "医疗健康"
+  ],
+  [
+   "药效学",
+   "pharmacodynamics",
+   "医疗健康"
+  ],
+  [
+   "药物相互作用",
+   "drug interaction",
+   "医疗健康"
+  ],
+  [
+   "血压",
+   "blood pressure",
+   "医疗健康"
+  ],
+  [
+   "血常规",
+   "complete blood count|CBC",
+   "医疗健康"
+  ],
+  [
+   "血糖",
+   "blood glucose",
+   "医疗健康"
+  ],
+  [
+   "诊断",
+   "diagnosis",
+   "医疗健康"
+  ],
+  [
+   "辅料",
+   "excipient|trims|accessories",
+   "医疗健康"
+  ],
+  [
+   "输液泵",
+   "infusion pump",
+   "医疗健康"
+  ],
+  [
+   "过敏",
+   "allergy",
+   "医疗健康"
+  ],
+  [
+   "适应症",
+   "indication",
+   "医疗健康"
+  ],
+  [
+   "除颤器",
+   "defibrillator",
+   "医疗健康"
+  ],
+  [
+   "非处方药",
+   "OTC|over-the-counter drug",
+   "医疗健康"
+  ],
+  [
+   "预防",
+   "prevention",
+   "医疗健康"
+  ],
+  [
+   "饭前",
+   "before meals",
+   "医疗健康"
+  ],
+  [
+   "饭后",
+   "after meals",
+   "医疗健康"
+  ],
+  [
+   "高血压",
+   "hypertension",
+   "医疗健康"
+  ],
+  [
+   "上光",
+   "varnishing|UV coating",
+   "印刷包装"
+  ],
+  [
+   "不干胶",
+   "self-adhesive label|sticker",
+   "印刷包装"
+  ],
+  [
+   "丝网印刷",
+   "screen printing",
+   "印刷包装"
+  ],
+  [
+   "凹印",
+   "gravure printing",
+   "印刷包装"
+  ],
+  [
+   "制版",
+   "plate making",
+   "印刷包装"
+  ],
+  [
+   "包装测试",
+   "packaging testing",
+   "印刷包装"
+  ],
+  [
+   "包装设计",
+   "packaging design",
+   "印刷包装"
+  ],
+  [
+   "卡纸",
+   "cardboard",
+   "印刷包装"
+  ],
+  [
+   "印刷",
+   "printing",
+   "印刷包装"
+  ],
+  [
+   "印刷机",
+   "printing press",
+   "印刷包装"
+  ],
+  [
+   "压纹",
+   "embossing",
+   "印刷包装"
+  ],
+  [
+   "可降解包装",
+   "biodegradable packaging",
+   "印刷包装"
+  ],
+  [
+   "塑料袋",
+   "plastic bag",
+   "印刷包装"
+  ],
+  [
+   "复合袋",
+   "laminated bag",
+   "印刷包装"
+  ],
+  [
+   "平装",
+   "paperback|softcover",
+   "印刷包装"
+  ],
+  [
+   "彩盒",
+   "color box",
+   "印刷包装"
+  ],
+  [
+   "抗压测试",
+   "compression test",
+   "印刷包装"
+  ],
+  [
+   "拼版",
+   "imposition",
+   "印刷包装"
+  ],
+  [
+   "收缩膜",
+   "shrink film",
+   "印刷包装"
+  ],
+  [
+   "数字印刷",
+   "digital printing",
+   "印刷包装"
+  ],
+  [
+   "条码标签",
+   "barcode label",
+   "印刷包装"
+  ],
+  [
+   "柔印",
+   "flexographic printing",
+   "印刷包装"
+  ],
+  [
+   "模切",
+   "die cutting",
+   "印刷包装"
+  ],
+  [
+   "橡皮布",
+   "blanket",
+   "印刷包装"
+  ],
+  [
+   "气泡膜",
+   "bubble wrap",
+   "印刷包装"
+  ],
+  [
+   "泡沫",
+   "foam",
+   "印刷包装"
+  ],
+  [
+   "烫金",
+   "hot stamping|foil stamping",
+   "印刷包装"
+  ],
+  [
+   "版材",
+   "printing plate",
+   "印刷包装"
+  ],
+  [
+   "牛皮纸",
+   "kraft paper",
+   "印刷包装"
+  ],
+  [
+   "环保油墨",
+   "eco-friendly ink",
+   "印刷包装"
+  ],
+  [
+   "瓦楞纸",
+   "corrugated paper",
+   "印刷包装"
+  ],
+  [
+   "白板纸",
+   "white board",
+   "印刷包装"
+  ],
+  [
+   "礼盒",
+   "gift box",
+   "印刷包装"
+  ],
+  [
+   "精装",
+   "hardcover|case binding",
+   "印刷包装"
+  ],
+  [
+   "纸张",
+   "paper",
+   "印刷包装"
+  ],
+  [
+   "纸盒",
+   "paper box|carton",
+   "印刷包装"
+  ],
+  [
+   "纸箱",
+   "carton|corrugated box",
+   "印刷包装"
+  ],
+  [
+   "绿色包装",
+   "green packaging",
+   "印刷包装"
+  ],
+  [
+   "缓冲材料",
+   "cushioning material",
+   "印刷包装"
+  ],
+  [
+   "缠绕膜",
+   "stretch film",
+   "印刷包装"
+  ],
+  [
+   "胶印",
+   "offset printing",
+   "印刷包装"
+  ],
+  [
+   "胶带",
+   "adhesive tape",
+   "印刷包装"
+  ],
+  [
+   "胶版纸",
+   "offset paper",
+   "印刷包装"
+  ],
+  [
+   "装订",
+   "binding",
+   "印刷包装"
+  ],
+  [
+   "裱糊",
+   "mounting|lining",
+   "印刷包装"
+  ],
+  [
+   "覆膜",
+   "lamination",
+   "印刷包装"
+  ],
+  [
+   "说明书",
+   "instruction manual|user manual",
+   "印刷包装"
+  ],
+  [
+   "跌落测试",
+   "drop test",
+   "印刷包装"
+  ],
+  [
+   "过度包装",
+   "excessive packaging",
+   "印刷包装"
+  ],
+  [
+   "运输包装",
+   "transport packaging",
+   "印刷包装"
+  ],
+  [
+   "铜版纸",
+   "coated paper|art paper",
+   "印刷包装"
+  ],
+  [
+   "销售包装",
+   "sales packaging",
+   "印刷包装"
+  ],
+  [
+   "防伪标签",
+   "anti-counterfeit label",
+   "印刷包装"
+  ],
+  [
+   "HS编码",
+   "HS code",
+   "外贸"
+  ],
+  [
+   "不可抗力条款",
+   "force majeure clause",
+   "外贸"
+  ],
+  [
+   "不可撤销信用证",
+   "irrevocable L/C|irrevocable letter of credit",
+   "外贸"
+  ],
+  [
+   "不清洁提单",
+   "unclean bill of lading",
+   "外贸"
+  ],
+  [
+   "中转港",
+   "port of transshipment",
+   "外贸"
+  ],
+  [
+   "中间商",
+   "middleman|intermediary",
+   "外贸"
+  ],
+  [
+   "争议解决",
+   "dispute resolution",
+   "外贸"
+  ],
+  [
+   "交单",
+   "presentation of documents",
+   "外贸"
+  ],
+  [
+   "交单期",
+   "presentation period",
+   "外贸"
+  ],
+  [
+   "产地证明书",
+   "certificate of origin",
+   "外贸"
+  ],
+  [
+   "从价税",
+   "ad valorem duty",
+   "外贸"
+  ],
+  [
+   "从量税",
+   "specific duty",
+   "外贸"
+  ],
+  [
+   "付款交单",
+   "documents against payment|D/P",
+   "外贸"
+  ],
+  [
+   "付款行",
+   "paying bank",
+   "外贸"
+  ],
+  [
+   "代理出口",
+   "agent export",
+   "外贸"
+  ],
+  [
+   "代理商",
+   "agent",
+   "外贸"
+  ],
+  [
+   "仲裁条款",
+   "arbitration clause",
+   "外贸"
+  ],
+  [
+   "价格条款",
+   "price terms",
+   "外贸"
+  ],
+  [
+   "佣金",
+   "commission",
+   "外贸"
+  ],
+  [
+   "保兑信用证",
+   "confirmed letter of credit",
+   "外贸"
+  ],
+  [
+   "保兑行",
+   "confirming bank",
+   "外贸"
+  ],
+  [
+   "保税仓库",
+   "bonded warehouse",
+   "外贸"
+  ],
+  [
+   "保税区",
+   "bonded zone",
+   "外贸"
+  ],
+  [
+   "保险凭证",
+   "insurance certificate",
+   "外贸"
+  ],
+  [
+   "保险单",
+   "insurance policy",
+   "外贸"
+  ],
+  [
+   "保险条款",
+   "insurance clauses",
+   "外贸"
+  ],
+  [
+   "保障措施",
+   "safeguard measure",
+   "外贸"
+  ],
+  [
+   "信汇",
+   "mail transfer|M/T",
+   "外贸"
+  ],
+  [
+   "信用证不符点",
+   "discrepancy under L/C",
+   "外贸"
+  ],
+  [
+   "信用证修改书",
+   "L/C amendment",
+   "外贸"
+  ],
+  [
+   "偿付行",
+   "reimbursing bank",
+   "外贸"
+  ],
+  [
+   "允许分批",
+   "partial shipments allowed",
+   "外贸"
+  ],
+  [
+   "光票托收",
+   "clean collection",
+   "外贸"
+  ],
+  [
+   "免责条款",
+   "exemption clauses",
+   "外贸"
+  ],
+  [
+   "全套单据",
+   "full set of documents",
+   "外贸"
+  ],
+  [
+   "净价",
+   "net price",
+   "外贸"
+  ],
+  [
+   "出口加工区",
+   "export processing zone",
+   "外贸"
+  ],
+  [
+   "出口许可证",
+   "export license",
+   "外贸"
+  ],
+  [
+   "出口退税",
+   "export tax rebate",
+   "外贸"
+  ],
+  [
+   "出口配额",
+   "export quota",
+   "外贸"
+  ],
+  [
+   "分提单",
+   "separate bill of lading",
+   "外贸"
+  ],
+  [
+   "分期付款",
+   "installment payment",
+   "外贸"
+  ],
+  [
+   "到岸价",
+   "CIF|cost insurance and freight",
+   "外贸"
+  ],
+  [
+   "加工贸易",
+   "processing trade",
+   "外贸"
+  ],
+  [
+   "单价",
+   "unit price",
+   "外贸"
+  ],
+  [
+   "单据",
+   "documents",
+   "外贸"
+  ],
+  [
+   "卫生证书",
+   "sanitary certificate",
+   "外贸"
+  ],
+  [
+   "卸货",
+   "unloading|discharge",
+   "外贸"
+  ],
+  [
+   "原产地证",
+   "certificate of origin|CO",
+   "外贸"
+  ],
+  [
+   "参考价",
+   "reference price",
+   "外贸"
+  ],
+  [
+   "反倾销税",
+   "anti-dumping duty",
+   "外贸"
+  ],
+  [
+   "反补贴税",
+   "countervailing duty",
+   "外贸"
+  ],
+  [
+   "发盘",
+   "offer",
+   "外贸"
+  ],
+  [
+   "发货",
+   "shipment|dispatch",
+   "外贸"
+  ],
+  [
+   "受益人",
+   "beneficiary",
+   "外贸"
+  ],
+  [
+   "可撤销信用证",
+   "revocable L/C",
+   "外贸"
+  ],
+  [
+   "含佣价",
+   "price including commission",
+   "外贸"
+  ],
+  [
+   "品质证书",
+   "certificate of quality",
+   "外贸"
+  ],
+  [
+   "商业发票",
+   "commercial invoice",
+   "外贸"
+  ],
+  [
+   "商业承兑汇票",
+   "commercial acceptance bill",
+   "外贸"
+  ],
+  [
+   "商务谈判",
+   "business negotiation",
+   "外贸"
+  ],
+  [
+   "国民待遇",
+   "national treatment",
+   "外贸"
+  ],
+  [
+   "国际市场调研",
+   "international market research",
+   "外贸"
+  ],
+  [
+   "国际贸易",
+   "international trade",
+   "外贸"
+  ],
+  [
+   "备用信用证",
+   "standby L/C|standby letter of credit",
+   "外贸"
+  ],
+  [
+   "备运提单",
+   "received for shipment bill of lading",
+   "外贸"
+  ],
+  [
+   "复合税",
+   "compound duty",
+   "外贸"
+  ],
+  [
+   "外贸",
+   "foreign trade|international trade",
+   "外贸"
+  ],
+  [
+   "外贸公司",
+   "trading company",
+   "外贸"
+  ],
+  [
+   "外贸经营权",
+   "foreign trade right",
+   "外贸"
+  ],
+  [
+   "外贸综合服务",
+   "foreign trade comprehensive service",
+   "外贸"
+  ],
+  [
+   "多式联运单据",
+   "multimodal transport document",
+   "外贸"
+  ],
+  [
+   "完税价格",
+   "dutiable value",
+   "外贸"
+  ],
+  [
+   "完税后交货",
+   "DDP|delivered duty paid",
+   "外贸"
+  ],
+  [
+   "实盘",
+   "firm offer",
+   "外贸"
+  ],
+  [
+   "对外贸易",
+   "foreign trade",
+   "外贸"
+  ],
+  [
+   "尺码单",
+   "measurement list",
+   "外贸"
+  ],
+  [
+   "尾款",
+   "balance payment",
+   "外贸"
+  ],
+  [
+   "履约",
+   "performance of contract",
+   "外贸"
+  ],
+  [
+   "工厂交货",
+   "EXW|ex works",
+   "外贸"
+  ],
+  [
+   "已装船提单",
+   "on board bill of lading",
+   "外贸"
+  ],
+  [
+   "市场价格",
+   "market price",
+   "外贸"
+  ],
+  [
+   "市场准入",
+   "market access",
+   "外贸"
+  ],
+  [
+   "市场采购贸易",
+   "market procurement trade",
+   "外贸"
+  ],
+  [
+   "并提单",
+   "omitted bill of lading",
+   "外贸"
+  ],
+  [
+   "底价",
+   "floor price|reservation price",
+   "外贸"
+  ],
+  [
+   "开证申请人",
+   "applicant",
+   "外贸"
+  ],
+  [
+   "开证行",
+   "issuing bank",
+   "外贸"
+  ],
+  [
+   "归类",
+   "classification",
+   "外贸"
+  ],
+  [
+   "形式发票",
+   "proforma invoice|PI",
+   "外贸"
+  ],
+  [
+   "循环信用证",
+   "revolving letter of credit",
+   "外贸"
+  ],
+  [
+   "总价",
+   "total price",
+   "外贸"
+  ],
+  [
+   "成本加运费",
+   "CFR|cost and freight",
+   "外贸"
+  ],
+  [
+   "承兑交单",
+   "documents against acceptance|D/A",
+   "外贸"
+  ],
+  [
+   "承兑行",
+   "accepting bank",
+   "外贸"
+  ],
+  [
+   "承诺",
+   "acceptance",
+   "外贸"
+  ],
+  [
+   "技术性贸易壁垒",
+   "technical barrier to trade|TBT",
+   "外贸"
+  ],
+  [
+   "折扣",
+   "discount",
+   "外贸"
+  ],
+  [
+   "折扣价",
+   "discount price",
+   "外贸"
+  ],
+  [
+   "报价单",
+   "quotation sheet|price list",
+   "外贸"
+  ],
+  [
+   "报关单",
+   "customs declaration",
+   "外贸"
+  ],
+  [
+   "报关行",
+   "customs broker",
+   "外贸"
+  ],
+  [
+   "押金",
+   "security deposit",
+   "外贸"
+  ],
+  [
+   "指示提单",
+   "order bill of lading",
+   "外贸"
+  ],
+  [
+   "接受",
+   "acceptance",
+   "外贸"
+  ],
+  [
+   "支付条款",
+   "payment terms",
+   "外贸"
+  ],
+  [
+   "支票",
+   "check|cheque",
+   "外贸"
+  ],
+  [
+   "易货贸易",
+   "barter trade",
+   "外贸"
+  ],
+  [
+   "普惠制产地证",
+   "GSP certificate of origin",
+   "外贸"
+  ],
+  [
+   "普遍优惠制",
+   "generalized system of preferences|GSP",
+   "外贸"
+  ],
+  [
+   "最惠国待遇",
+   "most-favored-nation treatment|MFN",
+   "外贸"
+  ],
+  [
+   "最迟装运期",
+   "latest shipment date",
+   "外贸"
+  ],
+  [
+   "未完税交货",
+   "DDU|delivered duty unpaid",
+   "外贸"
+  ],
+  [
+   "本票",
+   "promissory note",
+   "外贸"
+  ],
+  [
+   "来料加工",
+   "processing with supplied materials",
+   "外贸"
+  ],
+  [
+   "检验条款",
+   "inspection clauses",
+   "外贸"
+  ],
+  [
+   "检验检疫证书",
+   "inspection certificate",
+   "外贸"
+  ],
+  [
+   "检验证书",
+   "inspection certificate",
+   "外贸"
+  ],
+  [
+   "毁约",
+   "breach of contract",
+   "外贸"
+  ],
+  [
+   "海关估价",
+   "customs valuation",
+   "外贸"
+  ],
+  [
+   "海关放行",
+   "customs release",
+   "外贸"
+  ],
+  [
+   "海外仓",
+   "overseas warehouse",
+   "外贸"
+  ],
+  [
+   "海运单",
+   "sea waybill",
+   "外贸"
+  ],
+  [
+   "消费税",
+   "consumption tax",
+   "外贸"
+  ],
+  [
+   "清洁提单",
+   "clean bill of lading",
+   "外贸"
+  ],
+  [
+   "熏蒸证书",
+   "fumigation certificate",
+   "外贸"
+  ],
+  [
+   "独家代理",
+   "exclusive agent|exclusive agency",
+   "外贸"
+  ],
+  [
+   "理赔",
+   "settlement of claim|claims settlement",
+   "外贸"
+  ],
+  [
+   "电汇",
+   "telegraphic transfer|T/T",
+   "外贸"
+  ],
+  [
+   "目的港",
+   "port of destination",
+   "外贸"
+  ],
+  [
+   "目的港交货",
+   "DES|delivered ex ship",
+   "外贸"
+  ],
+  [
+   "票汇",
+   "demand draft|D/D",
+   "外贸"
+  ],
+  [
+   "禁止转运",
+   "transshipment prohibited",
+   "外贸"
+  ],
+  [
+   "离岸价",
+   "FOB|free on board",
+   "外贸"
+  ],
+  [
+   "空白提单",
+   "blank bill of lading",
+   "外贸"
+  ],
+  [
+   "空运单",
+   "air waybill|AWB",
+   "外贸"
+  ],
+  [
+   "经销商",
+   "distributor|dealer",
+   "外贸"
+  ],
+  [
+   "结关",
+   "customs closure",
+   "外贸"
+  ],
+  [
+   "绿色贸易壁垒",
+   "green trade barrier",
+   "外贸"
+  ],
+  [
+   "背书",
+   "endorsement",
+   "外贸"
+  ],
+  [
+   "自动出口限制",
+   "voluntary export restraint|VER",
+   "外贸"
+  ],
+  [
+   "自由贸易",
+   "free trade",
+   "外贸"
+  ],
+  [
+   "自由贸易区",
+   "free trade zone|FTZ",
+   "外贸"
+  ],
+  [
+   "自营出口",
+   "self-operated export",
+   "外贸"
+  ],
+  [
+   "航空运单",
+   "air waybill|AWB",
+   "外贸"
+  ],
+  [
+   "虚盘",
+   "non-firm offer",
+   "外贸"
+  ],
+  [
+   "补偿贸易",
+   "compensation trade",
+   "外贸"
+  ],
+  [
+   "装船",
+   "loading",
+   "外贸"
+  ],
+  [
+   "装运条款",
+   "shipment terms",
+   "外贸"
+  ],
+  [
+   "装运港",
+   "port of loading",
+   "外贸"
+  ],
+  [
+   "装运通知",
+   "shipping advice",
+   "外贸"
+  ],
+  [
+   "要约",
+   "offer",
+   "外贸"
+  ],
+  [
+   "议付行",
+   "negotiating bank",
+   "外贸"
+  ],
+  [
+   "记名提单",
+   "straight bill of lading",
+   "外贸"
+  ],
+  [
+   "询盘",
+   "inquiry|enquiry",
+   "外贸"
+  ],
+  [
+   "货交承运人",
+   "FCA|free carrier",
+   "外贸"
+  ],
+  [
+   "贸易保护",
+   "trade protection",
+   "外贸"
+  ],
+  [
+   "贸易商",
+   "trader",
+   "外贸"
+  ],
+  [
+   "贸易平衡",
+   "trade balance",
+   "外贸"
+  ],
+  [
+   "贸易救济",
+   "trade remedy",
+   "外贸"
+  ],
+  [
+   "贸易谈判",
+   "trade negotiation",
+   "外贸"
+  ],
+  [
+   "赊销",
+   "open account",
+   "外贸"
+  ],
+  [
+   "跟单信用证",
+   "documentary letter of credit",
+   "外贸"
+  ],
+  [
+   "跟单托收",
+   "documentary collection",
+   "外贸"
+  ],
+  [
+   "跨境电商",
+   "cross-border e-commerce",
+   "外贸"
+  ],
+  [
+   "转关",
+   "customs transit",
+   "外贸"
+  ],
+  [
+   "转口贸易",
+   "entrepot trade",
+   "外贸"
+  ],
+  [
+   "边境贸易",
+   "border trade",
+   "外贸"
+  ],
+  [
+   "过境贸易",
+   "transit trade",
+   "外贸"
+  ],
+  [
+   "返利",
+   "rebate",
+   "外贸"
+  ],
+  [
+   "还盘",
+   "counter-offer|counteroffer",
+   "外贸"
+  ],
+  [
+   "进出口总值",
+   "total import and export value",
+   "外贸"
+  ],
+  [
+   "进出口权",
+   "import and export right",
+   "外贸"
+  ],
+  [
+   "进口许可证",
+   "import license",
+   "外贸"
+  ],
+  [
+   "进口配额",
+   "import quota",
+   "外贸"
+  ],
+  [
+   "进口附加税",
+   "import surcharge",
+   "外贸"
+  ],
+  [
+   "进料加工",
+   "processing with imported materials",
+   "外贸"
+  ],
+  [
+   "违约条款",
+   "breach clauses",
+   "外贸"
+  ],
+  [
+   "退税",
+   "tax refund|drawback",
+   "外贸"
+  ],
+  [
+   "通关",
+   "customs clearance",
+   "外贸"
+  ],
+  [
+   "通知行",
+   "advising bank",
+   "外贸"
+  ],
+  [
+   "配额",
+   "quota",
+   "外贸"
+  ],
+  [
+   "重量单",
+   "weight list",
+   "外贸"
+  ],
+  [
+   "重量证书",
+   "certificate of weight",
+   "外贸"
+  ],
+  [
+   "铁路运单",
+   "railway bill",
+   "外贸"
+  ],
+  [
+   "银行承兑汇票",
+   "banker's acceptance bill",
+   "外贸"
+  ],
+  [
+   "预付款",
+   "advance payment",
+   "外贸"
+  ],
+  [
+   "会议",
+   "conference",
+   "学术研究"
+  ],
+  [
+   "假设",
+   "hypothesis",
+   "学术研究"
+  ],
+  [
+   "关键词",
+   "keywords",
+   "学术研究"
+  ],
+  [
+   "参考文献",
+   "references",
+   "学术研究"
+  ],
+  [
+   "发表",
+   "publish",
+   "学术研究"
+  ],
+  [
+   "同行评审",
+   "peer review",
+   "学术研究"
+  ],
+  [
+   "学位",
+   "degree",
+   "学术研究"
+  ],
+  [
+   "学术",
+   "academic",
+   "学术研究"
+  ],
+  [
+   "学者",
+   "scholar",
+   "学术研究"
+  ],
+  [
+   "实验",
+   "experiment",
+   "学术研究"
+  ],
+  [
+   "引用",
+   "citation",
+   "学术研究"
+  ],
+  [
+   "影响因子",
+   "impact factor",
+   "学术研究"
+  ],
+  [
+   "摘要",
+   "abstract",
+   "学术研究"
+  ],
+  [
+   "教授",
+   "professor",
+   "学术研究"
+  ],
+  [
+   "文献",
+   "literature",
+   "学术研究"
+  ],
+  [
+   "方法",
+   "methodology",
+   "学术研究"
+  ],
+  [
+   "期刊",
+   "journal",
+   "学术研究"
+  ],
+  [
+   "理论",
+   "theory",
+   "学术研究"
+  ],
+  [
+   "研究",
+   "research",
+   "学术研究"
+  ],
+  [
+   "研讨会",
+   "seminar",
+   "学术研究"
+  ],
+  [
+   "结果",
+   "result",
+   "学术研究"
+  ],
+  [
+   "结论",
+   "conclusion",
+   "学术研究"
+  ],
+  [
+   "综述",
+   "review",
+   "学术研究"
+  ],
+  [
+   "讨论",
+   "discussion",
+   "学术研究"
+  ],
+  [
+   "论文",
+   "paper|thesis",
+   "学术研究"
+  ],
+  [
+   "公差",
+   "tolerance",
+   "工程制造"
+  ],
+  [
+   "六西格玛",
+   "Six Sigma",
+   "工程制造"
+  ],
+  [
+   "制造",
+   "manufacturing",
+   "工程制造"
+  ],
+  [
+   "加工",
+   "machining",
+   "工程制造"
+  ],
+  [
+   "合格率",
+   "pass rate",
+   "工程制造"
+  ],
+  [
+   "喷涂",
+   "coating|spray coating|spray painting",
+   "工程制造"
+  ],
+  [
+   "图纸",
+   "drawing|blueprint",
+   "工程制造"
+  ],
+  [
+   "安全",
+   "safety",
+   "工程制造"
+  ],
+  [
+   "工程",
+   "engineering",
+   "工程制造"
+  ],
+  [
+   "工艺",
+   "process|craft",
+   "工程制造"
+  ],
+  [
+   "废品",
+   "scrap",
+   "工程制造"
+  ],
+  [
+   "机器人",
+   "robot",
+   "工程制造"
+  ],
+  [
+   "材料",
+   "material",
+   "工程制造"
+  ],
+  [
+   "模具",
+   "mold|mould|die",
+   "工程制造"
+  ],
+  [
+   "流水线",
+   "assembly line|pipeline",
+   "工程制造"
+  ],
+  [
+   "热处理",
+   "heat treatment",
+   "工程制造"
+  ],
+  [
+   "焊接",
+   "welding|soldering",
+   "工程制造"
+  ],
+  [
+   "环保",
+   "environmental protection",
+   "工程制造"
+  ],
+  [
+   "生产",
+   "production",
+   "工程制造"
+  ],
+  [
+   "精益生产",
+   "lean manufacturing",
+   "工程制造"
+  ],
+  [
+   "维修",
+   "maintenance|repair",
+   "工程制造"
+  ],
+  [
+   "自动化",
+   "automation",
+   "工程制造"
+  ],
+  [
+   "良品率",
+   "yield",
+   "工程制造"
+  ],
+  [
+   "表面处理",
+   "surface treatment",
+   "工程制造"
+  ],
+  [
+   "装配",
+   "assembly",
+   "工程制造"
+  ],
+  [
+   "规格",
+   "specification",
+   "工程制造"
+  ],
+  [
+   "认证",
+   "certification",
+   "工程制造"
+  ],
+  [
+   "设备",
+   "equipment",
+   "工程制造"
+  ],
+  [
+   "设计",
+   "design",
+   "工程制造"
+  ],
+  [
+   "质量检验",
+   "quality inspection",
+   "工程制造"
+  ],
+  [
+   "铸造",
+   "casting",
+   "工程制造"
+  ],
+  [
+   "锻造",
+   "forging",
+   "工程制造"
+  ],
+  [
+   "产品",
+   "product",
+   "市场营销"
+  ],
+  [
+   "促销",
+   "promotion",
+   "市场营销"
+  ],
+  [
+   "公关",
+   "public relations|PR",
+   "市场营销"
+  ],
+  [
+   "内容营销",
+   "content marketing",
+   "市场营销"
+  ],
+  [
+   "口碑",
+   "word of mouth",
+   "市场营销"
+  ],
+  [
+   "品牌推广",
+   "brand promotion",
+   "市场营销"
+  ],
+  [
+   "定价",
+   "pricing",
+   "市场营销"
+  ],
+  [
+   "客户关系管理",
+   "CRM",
+   "市场营销"
+  ],
+  [
+   "客户满意度",
+   "customer satisfaction",
+   "市场营销"
+  ],
+  [
+   "展会",
+   "trade show|exhibition",
+   "市场营销"
+  ],
+  [
+   "市场份额",
+   "market share",
+   "市场营销"
+  ],
+  [
+   "市场定位",
+   "positioning",
+   "市场营销"
+  ],
+  [
+   "市场细分",
+   "market segmentation",
+   "市场营销"
+  ],
+  [
+   "市场调研",
+   "market research",
+   "市场营销"
+  ],
+  [
+   "广告",
+   "advertising",
+   "市场营销"
+  ],
+  [
+   "忠诚度",
+   "loyalty",
+   "市场营销"
+  ],
+  [
+   "搜索引擎优化",
+   "SEO",
+   "市场营销"
+  ],
+  [
+   "服务",
+   "service",
+   "市场营销"
+  ],
+  [
+   "流量",
+   "traffic",
+   "市场营销"
+  ],
+  [
+   "消费者",
+   "consumer",
+   "市场营销"
+  ],
+  [
+   "渠道",
+   "channel",
+   "市场营销"
+  ],
+  [
+   "潜在客户",
+   "leads|prospective customers",
+   "市场营销"
+  ],
+  [
+   "目标市场",
+   "target market",
+   "市场营销"
+  ],
+  [
+   "社交媒体",
+   "social media",
+   "市场营销"
+  ],
+  [
+   "营销",
+   "marketing",
+   "市场营销"
+  ],
+  [
+   "营销活动",
+   "marketing campaign",
+   "市场营销"
+  ],
+  [
+   "赞助",
+   "sponsorship",
+   "市场营销"
+  ],
+  [
+   "转化率",
+   "conversion rate",
+   "市场营销"
+  ],
+  [
+   "BIM",
+   "BIM|building information modeling",
+   "建筑工程"
+  ],
+  [
+   "交付",
+   "handover",
+   "建筑工程"
+  ],
+  [
+   "保温",
+   "insulation",
+   "建筑工程"
+  ],
+  [
+   "停车场",
+   "parking lot",
+   "建筑工程"
+  ],
+  [
+   "决算",
+   "final accounts",
+   "建筑工程"
+  ],
+  [
+   "吊顶",
+   "ceiling",
+   "建筑工程"
+  ],
+  [
+   "土木工程",
+   "civil engineering",
+   "建筑工程"
+  ],
+  [
+   "地下管廊",
+   "underground utility tunnel",
+   "建筑工程"
+  ],
+  [
+   "地基",
+   "foundation",
+   "建筑工程"
+  ],
+  [
+   "地面",
+   "flooring",
+   "建筑工程"
+  ],
+  [
+   "基坑",
+   "foundation pit",
+   "建筑工程"
+  ],
+  [
+   "基础",
+   "foundation",
+   "建筑工程"
+  ],
+  [
+   "墙",
+   "wall",
+   "建筑工程"
+  ],
+  [
+   "安全生产许可证",
+   "work safety license",
+   "建筑工程"
+  ],
+  [
+   "屋顶",
+   "roof",
+   "建筑工程"
+  ],
+  [
+   "履约保函",
+   "performance bond",
+   "建筑工程"
+  ],
+  [
+   "工程监理",
+   "project supervision",
+   "建筑工程"
+  ],
+  [
+   "工程量",
+   "quantities of work",
+   "建筑工程"
+  ],
+  [
+   "工程量清单",
+   "bill of quantities|BOQ",
+   "建筑工程"
+  ],
+  [
+   "幕墙",
+   "curtain wall",
+   "建筑工程"
+  ],
+  [
+   "建筑",
+   "architecture|building",
+   "建筑工程"
+  ],
+  [
+   "建筑设计",
+   "architectural design",
+   "建筑工程"
+  ],
+  [
+   "建筑资质",
+   "construction qualification",
+   "建筑工程"
+  ],
+  [
+   "弱电",
+   "weak current",
+   "建筑工程"
+  ],
+  [
+   "扶梯",
+   "escalator",
+   "建筑工程"
+  ],
+  [
+   "投标",
+   "bidding|tender",
+   "建筑工程"
+  ],
+  [
+   "文明施工",
+   "civilized construction",
+   "建筑工程"
+  ],
+  [
+   "施工",
+   "construction",
+   "建筑工程"
+  ],
+  [
+   "施工图",
+   "construction drawing",
+   "建筑工程"
+  ],
+  [
+   "施工安全",
+   "construction safety",
+   "建筑工程"
+  ],
+  [
+   "施工方案",
+   "construction scheme",
+   "建筑工程"
+  ],
+  [
+   "施工组织设计",
+   "construction organization design",
+   "建筑工程"
+  ],
+  [
+   "施工许可",
+   "construction permit",
+   "建筑工程"
+  ],
+  [
+   "施工进度",
+   "construction schedule",
+   "建筑工程"
+  ],
+  [
+   "智能化",
+   "intelligent building",
+   "建筑工程"
+  ],
+  [
+   "智能建筑",
+   "intelligent building",
+   "建筑工程"
+  ],
+  [
+   "暖通",
+   "HVAC",
+   "建筑工程"
+  ],
+  [
+   "板",
+   "slab",
+   "建筑工程"
+  ],
+  [
+   "柱",
+   "column",
+   "建筑工程"
+  ],
+  [
+   "桩基",
+   "pile foundation",
+   "建筑工程"
+  ],
+  [
+   "梁",
+   "beam",
+   "建筑工程"
+  ],
+  [
+   "楼板",
+   "floor slab",
+   "建筑工程"
+  ],
+  [
+   "楼梯",
+   "stair",
+   "建筑工程"
+  ],
+  [
+   "模板",
+   "formwork",
+   "建筑工程"
+  ],
+  [
+   "水泥",
+   "cement",
+   "建筑工程"
+  ],
+  [
+   "海绵城市",
+   "sponge city",
+   "建筑工程"
+  ],
+  [
+   "消防",
+   "fire protection",
+   "建筑工程"
+  ],
+  [
+   "消防系统",
+   "fire protection system",
+   "建筑工程"
+  ],
+  [
+   "混凝土",
+   "concrete",
+   "建筑工程"
+  ],
+  [
+   "照明",
+   "lighting",
+   "建筑工程"
+  ],
+  [
+   "电梯",
+   "elevator|lift",
+   "建筑工程"
+  ],
+  [
+   "电气",
+   "electrical",
+   "建筑工程"
+  ],
+  [
+   "监理工程师",
+   "supervision engineer",
+   "建筑工程"
+  ],
+  [
+   "石材",
+   "stone",
+   "建筑工程"
+  ],
+  [
+   "砂浆",
+   "mortar",
+   "建筑工程"
+  ],
+  [
+   "砌体",
+   "masonry",
+   "建筑工程"
+  ],
+  [
+   "砖",
+   "brick",
+   "建筑工程"
+  ],
+  [
+   "空调",
+   "air conditioning",
+   "建筑工程"
+  ],
+  [
+   "竣工验收",
+   "completion acceptance",
+   "建筑工程"
+  ],
+  [
+   "结构设计",
+   "structural design",
+   "建筑工程"
+  ],
+  [
+   "给排水",
+   "water supply and drainage",
+   "建筑工程"
+  ],
+  [
+   "绿色建筑",
+   "green building",
+   "建筑工程"
+  ],
+  [
+   "缺陷责任期",
+   "defect liability period",
+   "建筑工程"
+  ],
+  [
+   "脚手架",
+   "scaffold",
+   "建筑工程"
+  ],
+  [
+   "装修",
+   "fit-out|interior decoration",
+   "建筑工程"
+  ],
+  [
+   "装配式建筑",
+   "prefabricated building",
+   "建筑工程"
+  ],
+  [
+   "装饰",
+   "decoration",
+   "建筑工程"
+  ],
+  [
+   "质量保修",
+   "quality warranty",
+   "建筑工程"
+  ],
+  [
+   "通风",
+   "ventilation",
+   "建筑工程"
+  ],
+  [
+   "造价",
+   "cost",
+   "建筑工程"
+  ],
+  [
+   "钢筋",
+   "rebar|steel reinforcement",
+   "建筑工程"
+  ],
+  [
+   "钢筋混凝土",
+   "reinforced concrete",
+   "建筑工程"
+  ],
+  [
+   "钢结构",
+   "steel structure",
+   "建筑工程"
+  ],
+  [
+   "门窗",
+   "doors and windows",
+   "建筑工程"
+  ],
+  [
+   "防水",
+   "waterproofing",
+   "建筑工程"
+  ],
+  [
+   "隔热",
+   "heat insulation",
+   "建筑工程"
+  ],
+  [
+   "不及格",
+   "fail",
+   "教育培训"
+  ],
+  [
+   "人才发展",
+   "talent development",
+   "教育培训"
+  ],
+  [
+   "企业大学",
+   "corporate university",
+   "教育培训"
+  ],
+  [
+   "助学贷款",
+   "student loan",
+   "教育培训"
+  ],
+  [
+   "博士",
+   "doctor|PhD",
+   "教育培训"
+  ],
+  [
+   "及格",
+   "pass",
+   "教育培训"
+  ],
+  [
+   "口试",
+   "oral test",
+   "教育培训"
+  ],
+  [
+   "在线教育",
+   "online education",
+   "教育培训"
+  ],
+  [
+   "在职培训",
+   "on-the-job training",
+   "教育培训"
+  ],
+  [
+   "大纲",
+   "syllabus|outline",
+   "教育培训"
+  ],
+  [
+   "奖学金",
+   "scholarship",
+   "教育培训"
+  ],
+  [
+   "学习管理系统",
+   "LMS|learning management system",
+   "教育培训"
+  ],
+  [
+   "学分",
+   "credit",
+   "教育培训"
+  ],
+  [
+   "学历",
+   "academic qualification",
+   "教育培训"
+  ],
+  [
+   "学士",
+   "bachelor",
+   "教育培训"
+  ],
+  [
+   "学时",
+   "class hour",
+   "教育培训"
+  ],
+  [
+   "学期",
+   "semester|term",
+   "教育培训"
+  ],
+  [
+   "学生",
+   "student",
+   "教育培训"
+  ],
+  [
+   "实习",
+   "internship",
+   "教育培训"
+  ],
+  [
+   "导师",
+   "tutor|supervisor",
+   "教育培训"
+  ],
+  [
+   "岗前培训",
+   "pre-job training",
+   "教育培训"
+  ],
+  [
+   "年级",
+   "grade",
+   "教育培训"
+  ],
+  [
+   "录取",
+   "admission",
+   "教育培训"
+  ],
+  [
+   "慕课",
+   "MOOC",
+   "教育培训"
+  ],
+  [
+   "成绩",
+   "grade|score",
+   "教育培训"
+  ],
+  [
+   "技能培训",
+   "skills training",
+   "教育培训"
+  ],
+  [
+   "招生",
+   "enrollment|admission",
+   "教育培训"
+  ],
+  [
+   "教学",
+   "teaching",
+   "教育培训"
+  ],
+  [
+   "教学方法",
+   "teaching method",
+   "教育培训"
+  ],
+  [
+   "教学目标",
+   "teaching objective",
+   "教育培训"
+  ],
+  [
+   "教师",
+   "teacher",
+   "教育培训"
+  ],
+  [
+   "教材",
+   "teaching material|textbook",
+   "教育培训"
+  ],
+  [
+   "教案",
+   "lesson plan",
+   "教育培训"
+  ],
+  [
+   "教育",
+   "education",
+   "教育培训"
+  ],
+  [
+   "毕业",
+   "graduation",
+   "教育培训"
+  ],
+  [
+   "毕业论文",
+   "graduation thesis",
+   "教育培训"
+  ],
+  [
+   "班级",
+   "class",
+   "教育培训"
+  ],
+  [
+   "留学",
+   "study abroad",
+   "教育培训"
+  ],
+  [
+   "硕士",
+   "master",
+   "教育培训"
+  ],
+  [
+   "笔试",
+   "written test",
+   "教育培训"
+  ],
+  [
+   "答辩",
+   "defense",
+   "教育培训"
+  ],
+  [
+   "继续教育",
+   "continuing education",
+   "教育培训"
+  ],
+  [
+   "考场",
+   "examination room",
+   "教育培训"
+  ],
+  [
+   "考核",
+   "evaluation|assessment",
+   "教育培训"
+  ],
+  [
+   "考试",
+   "exam|examination",
+   "教育培训"
+  ],
+  [
+   "职业培训",
+   "vocational training",
+   "教育培训"
+  ],
+  [
+   "讲师",
+   "lecturer|instructor",
+   "教育培训"
+  ],
+  [
+   "语言培训",
+   "language training",
+   "教育培训"
+  ],
+  [
+   "课件",
+   "courseware",
+   "教育培训"
+  ],
+  [
+   "课程",
+   "course|curriculum",
+   "教育培训"
+  ],
+  [
+   "资格证书",
+   "qualification certificate",
+   "教育培训"
+  ],
+  [
+   "远程教育",
+   "distance education",
+   "教育培训"
+  ],
+  [
+   "3D打印",
+   "3D printing|additive manufacturing",
+   "机械设备"
+  ],
+  [
+   "O型圈",
+   "O-ring",
+   "机械设备"
+  ],
+  [
+   "PLC",
+   "PLC|programmable logic controller",
+   "机械设备"
+  ],
+  [
+   "三坐标测量机",
+   "coordinate measuring machine|CMM",
+   "机械设备"
+  ],
+  [
+   "丝杠",
+   "lead screw|ball screw",
+   "机械设备"
+  ],
+  [
+   "丝锥",
+   "tap",
+   "机械设备"
+  ],
+  [
+   "主轴转速",
+   "spindle speed",
+   "机械设备"
+  ],
+  [
+   "二氧化碳保护焊",
+   "MIG|MAG welding",
+   "机械设备"
+  ],
+  [
+   "传动轴",
+   "drive shaft|transmission shaft",
+   "机械设备"
+  ],
+  [
+   "传感器",
+   "sensor",
+   "机械设备"
+  ],
+  [
+   "传送带",
+   "conveyor",
+   "机械设备"
+  ],
+  [
+   "伺服电机",
+   "servo motor",
+   "机械设备"
+  ],
+  [
+   "保养",
+   "maintenance|servicing",
+   "机械设备"
+  ],
+  [
+   "关节轴承",
+   "spherical bearing",
+   "机械设备"
+  ],
+  [
+   "冲压",
+   "stamping",
+   "机械设备"
+  ],
+  [
+   "冲压机",
+   "press machine",
+   "机械设备"
+  ],
+  [
+   "冲床",
+   "punching machine|press|punch press",
+   "机械设备"
+  ],
+  [
+   "减压阀",
+   "pressure reducing valve",
+   "机械设备"
+  ],
+  [
+   "减速机",
+   "gearbox|reducer|gear reducer",
+   "机械设备"
+  ],
+  [
+   "凸轮",
+   "cam",
+   "机械设备"
+  ],
+  [
+   "刀具",
+   "cutter|tool|cutting tool",
+   "机械设备"
+  ],
+  [
+   "刀片",
+   "blade|insert",
+   "机械设备"
+  ],
+  [
+   "切削深度",
+   "depth of cut",
+   "机械设备"
+  ],
+  [
+   "切削速度",
+   "cutting speed",
+   "机械设备"
+  ],
+  [
+   "刚度",
+   "rigidity|stiffness",
+   "机械设备"
+  ],
+  [
+   "刨床",
+   "planer|shaper",
+   "机械设备"
+  ],
+  [
+   "制动器",
+   "brake",
+   "机械设备"
+  ],
+  [
+   "剪板机",
+   "shearing machine",
+   "机械设备"
+  ],
+  [
+   "加工中心",
+   "machining center",
+   "机械设备"
+  ],
+  [
+   "加工余量",
+   "machining allowance",
+   "机械设备"
+  ],
+  [
+   "千分尺",
+   "micrometer",
+   "机械设备"
+  ],
+  [
+   "卡尺",
+   "caliper",
+   "机械设备"
+  ],
+  [
+   "卷板机",
+   "plate rolling machine",
+   "机械设备"
+  ],
+  [
+   "压力机",
+   "press machine",
+   "机械设备"
+  ],
+  [
+   "压缩机",
+   "compressor",
+   "机械设备"
+  ],
+  [
+   "压铸",
+   "die casting",
+   "机械设备"
+  ],
+  [
+   "压铸机",
+   "die casting machine",
+   "机械设备"
+  ],
+  [
+   "叉车",
+   "forklift",
+   "机械设备"
+  ],
+  [
+   "发动机",
+   "engine",
+   "机械设备"
+  ],
+  [
+   "发电机",
+   "generator",
+   "机械设备"
+  ],
+  [
+   "发黑",
+   "blackening",
+   "机械设备"
+  ],
+  [
+   "变速箱",
+   "gearbox|transmission",
+   "机械设备"
+  ],
+  [
+   "变频器",
+   "frequency converter|inverter",
+   "机械设备"
+  ],
+  [
+   "同心度",
+   "concentricity",
+   "机械设备"
+  ],
+  [
+   "同步带",
+   "timing belt",
+   "机械设备"
+  ],
+  [
+   "同轴度",
+   "coaxiality",
+   "机械设备"
+  ],
+  [
+   "喷丸",
+   "shot blasting",
+   "机械设备"
+  ],
+  [
+   "回火",
+   "tempering",
+   "机械设备"
+  ],
+  [
+   "圆度",
+   "roundness",
+   "机械设备"
+  ],
+  [
+   "圆柱度",
+   "cylindricity",
+   "机械设备"
+  ],
+  [
+   "圆锥滚子轴承",
+   "tapered roller bearing",
+   "机械设备"
+  ],
+  [
+   "垂直度",
+   "perpendicularity",
+   "机械设备"
+  ],
+  [
+   "垫圈",
+   "washer",
+   "机械设备"
+  ],
+  [
+   "垫片",
+   "gasket",
+   "机械设备"
+  ],
+  [
+   "塞尺",
+   "feeler gauge",
+   "机械设备"
+  ],
+  [
+   "备件",
+   "spare part",
+   "机械设备"
+  ],
+  [
+   "夹具",
+   "fixture|clamp",
+   "机械设备"
+  ],
+  [
+   "安全阀",
+   "safety valve|relief valve",
+   "机械设备"
+  ],
+  [
+   "密封件",
+   "seal|sealing element",
+   "机械设备"
+  ],
+  [
+   "导轨",
+   "guide rail|linear guide",
+   "机械设备"
+  ],
+  [
+   "工装夹具",
+   "fixture|jig and fixture",
+   "机械设备"
+  ],
+  [
+   "干燥器",
+   "dryer",
+   "机械设备"
+  ],
+  [
+   "平行度",
+   "parallelism",
+   "机械设备"
+  ],
+  [
+   "平面度",
+   "flatness",
+   "机械设备"
+  ],
+  [
+   "弹簧",
+   "spring",
+   "机械设备"
+  ],
+  [
+   "强度",
+   "strength",
+   "机械设备"
+  ],
+  [
+   "形位公差",
+   "geometric tolerance",
+   "机械设备"
+  ],
+  [
+   "急停按钮",
+   "emergency stop button",
+   "机械设备"
+  ],
+  [
+   "截止阀",
+   "globe valve",
+   "机械设备"
+  ],
+  [
+   "技术参数",
+   "technical parameters|specification",
+   "机械设备"
+  ],
+  [
+   "投影仪",
+   "profile projector|projector",
+   "机械设备"
+  ],
+  [
+   "折弯机",
+   "bending machine",
+   "机械设备"
+  ],
+  [
+   "抛光",
+   "polishing",
+   "机械设备"
+  ],
+  [
+   "拆卸",
+   "disassembly",
+   "机械设备"
+  ],
+  [
+   "拉床",
+   "broaching machine",
+   "机械设备"
+  ],
+  [
+   "换向阀",
+   "directional control valve",
+   "机械设备"
+  ],
+  [
+   "控制面板",
+   "control panel",
+   "机械设备"
+  ],
+  [
+   "推力轴承",
+   "thrust bearing",
+   "机械设备"
+  ],
+  [
+   "提升机",
+   "hoist|elevator",
+   "机械设备"
+  ],
+  [
+   "插床",
+   "slotting machine",
+   "机械设备"
+  ],
+  [
+   "操作规程",
+   "operating procedure",
+   "机械设备"
+  ],
+  [
+   "故障排查",
+   "troubleshooting",
+   "机械设备"
+  ],
+  [
+   "数控机床",
+   "CNC machine tool",
+   "机械设备"
+  ],
+  [
+   "斜齿轮",
+   "helical gear",
+   "机械设备"
+  ],
+  [
+   "易损件",
+   "wearing part|wear part",
+   "机械设备"
+  ],
+  [
+   "曲轴",
+   "crankshaft",
+   "机械设备"
+  ],
+  [
+   "机器",
+   "machine",
+   "机械设备"
+  ],
+  [
+   "机床",
+   "machine tool",
+   "机械设备"
+  ],
+  [
+   "机械",
+   "machinery",
+   "机械设备"
+  ],
+  [
+   "机械手",
+   "manipulator|robotic arm",
+   "机械设备"
+  ],
+  [
+   "机械设备",
+   "machinery and equipment",
+   "机械设备"
+  ],
+  [
+   "板牙",
+   "die",
+   "机械设备"
+  ],
+  [
+   "柴油机",
+   "diesel engine",
+   "机械设备"
+  ],
+  [
+   "检具",
+   "inspection fixture",
+   "机械设备"
+  ],
+  [
+   "止回阀",
+   "check valve",
+   "机械设备"
+  ],
+  [
+   "正火",
+   "normalizing",
+   "机械设备"
+  ],
+  [
+   "步进电机",
+   "stepper motor",
+   "机械设备"
+  ],
+  [
+   "气动元件",
+   "pneumatic component",
+   "机械设备"
+  ],
+  [
+   "气动接头",
+   "pneumatic fitting",
+   "机械设备"
+  ],
+  [
+   "气管",
+   "air hose",
+   "机械设备"
+  ],
+  [
+   "气缸",
+   "cylinder|pneumatic cylinder",
+   "机械设备"
+  ],
+  [
+   "氩弧焊",
+   "TIG welding",
+   "机械设备"
+  ],
+  [
+   "水刀切割",
+   "waterjet cutting",
+   "机械设备"
+  ],
+  [
+   "水泵",
+   "water pump",
+   "机械设备"
+  ],
+  [
+   "汽油机",
+   "gasoline engine",
+   "机械设备"
+  ],
+  [
+   "油封",
+   "oil seal",
+   "机械设备"
+  ],
+  [
+   "法兰",
+   "flange",
+   "机械设备"
+  ],
+  [
+   "注塑",
+   "injection molding",
+   "机械设备"
+  ],
+  [
+   "注塑机",
+   "injection molding machine",
+   "机械设备"
+  ],
+  [
+   "泵",
+   "pump",
+   "机械设备"
+  ],
+  [
+   "活塞",
+   "piston",
+   "机械设备"
+  ],
+  [
+   "润滑",
+   "lubrication",
+   "机械设备"
+  ],
+  [
+   "润滑油",
+   "lubricating oil",
+   "机械设备"
+  ],
+  [
+   "润滑脂",
+   "grease",
+   "机械设备"
+  ],
+  [
+   "液压机",
+   "hydraulic press",
+   "机械设备"
+  ],
+  [
+   "液压油",
+   "hydraulic oil",
+   "机械设备"
+  ],
+  [
+   "液压泵",
+   "hydraulic pump",
+   "机械设备"
+  ],
+  [
+   "液压缸",
+   "hydraulic cylinder",
+   "机械设备"
+  ],
+  [
+   "液压阀",
+   "hydraulic valve",
+   "机械设备"
+  ],
+  [
+   "液压马达",
+   "hydraulic motor",
+   "机械设备"
+  ],
+  [
+   "淬火",
+   "quenching",
+   "机械设备"
+  ],
+  [
+   "游标卡尺",
+   "vernier caliper",
+   "机械设备"
+  ],
+  [
+   "溢流阀",
+   "relief valve",
+   "机械设备"
+  ],
+  [
+   "滑动轴承",
+   "sliding bearing",
+   "机械设备"
+  ],
+  [
+   "滑块",
+   "slider block",
+   "机械设备"
+  ],
+  [
+   "滚动轴承",
+   "rolling bearing",
+   "机械设备"
+  ],
+  [
+   "滚子轴承",
+   "roller bearing",
+   "机械设备"
+  ],
+  [
+   "滚珠轴承",
+   "ball bearing",
+   "机械设备"
+  ],
+  [
+   "激光切割机",
+   "laser cutting machine",
+   "机械设备"
+  ],
+  [
+   "激光焊",
+   "laser welding",
+   "机械设备"
+  ],
+  [
+   "点焊",
+   "spot welding",
+   "机械设备"
+  ],
+  [
+   "热影响区",
+   "heat-affected zone|HAZ",
+   "机械设备"
+  ],
+  [
+   "焊丝",
+   "welding wire",
+   "机械设备"
+  ],
+  [
+   "焊剂",
+   "flux",
+   "机械设备"
+  ],
+  [
+   "焊接机",
+   "welding machine",
+   "机械设备"
+  ],
+  [
+   "焊条",
+   "welding electrode",
+   "机械设备"
+  ],
+  [
+   "焊缝",
+   "weld seam",
+   "机械设备"
+  ],
+  [
+   "环规",
+   "ring gauge",
+   "机械设备"
+  ],
+  [
+   "球阀",
+   "ball valve",
+   "机械设备"
+  ],
+  [
+   "生产线",
+   "production line",
+   "机械设备"
+  ],
+  [
+   "电动机",
+   "electric motor",
+   "机械设备"
+  ],
+  [
+   "电弧焊",
+   "arc welding",
+   "机械设备"
+  ],
+  [
+   "电机",
+   "motor|electric motor",
+   "机械设备"
+  ],
+  [
+   "电火花加工",
+   "electrical discharge machining|EDM",
+   "机械设备"
+  ],
+  [
+   "电磁阀",
+   "solenoid valve",
+   "机械设备"
+  ],
+  [
+   "电解加工",
+   "electrochemical machining",
+   "机械设备"
+  ],
+  [
+   "电镀",
+   "electroplating",
+   "机械设备"
+  ],
+  [
+   "百分表",
+   "dial indicator",
+   "机械设备"
+  ],
+  [
+   "皮带",
+   "belt",
+   "机械设备"
+  ],
+  [
+   "皮带轮",
+   "pulley|belt pulley",
+   "机械设备"
+  ],
+  [
+   "直线度",
+   "straightness",
+   "机械设备"
+  ],
+  [
+   "直齿轮",
+   "spur gear",
+   "机械设备"
+  ],
+  [
+   "砂轮",
+   "grinding wheel",
+   "机械设备"
+  ],
+  [
+   "研磨",
+   "lapping|grinding",
+   "机械设备"
+  ],
+  [
+   "硬度",
+   "hardness",
+   "机械设备"
+  ],
+  [
+   "硬度计",
+   "hardness tester",
+   "机械设备"
+  ],
+  [
+   "硬质合金",
+   "carbide|cemented carbide",
+   "机械设备"
+  ],
+  [
+   "磨床",
+   "grinding machine",
+   "机械设备"
+  ],
+  [
+   "磷化",
+   "phosphating",
+   "机械设备"
+  ],
+  [
+   "离合器",
+   "clutch",
+   "机械设备"
+  ],
+  [
+   "空压机",
+   "air compressor",
+   "机械设备"
+  ],
+  [
+   "管件",
+   "pipe fitting",
+   "机械设备"
+  ],
+  [
+   "管路",
+   "piping|pipeline",
+   "机械设备"
+  ],
+  [
+   "粉末冶金",
+   "powder metallurgy",
+   "机械设备"
+  ],
+  [
+   "粗糙度",
+   "roughness",
+   "机械设备"
+  ],
+  [
+   "粗糙度仪",
+   "roughness tester",
+   "机械设备"
+  ],
+  [
+   "紧固件",
+   "fastener",
+   "机械设备"
+  ],
+  [
+   "线切割",
+   "wire EDM",
+   "机械设备"
+  ],
+  [
+   "绞车",
+   "winch",
+   "机械设备"
+  ],
+  [
+   "维护保养",
+   "maintenance",
+   "机械设备"
+  ],
+  [
+   "编码器",
+   "encoder",
+   "机械设备"
+  ],
+  [
+   "联轴器",
+   "coupling",
+   "机械设备"
+  ],
+  [
+   "节流阀",
+   "throttle valve",
+   "机械设备"
+  ],
+  [
+   "蜗轮蜗杆",
+   "worm gear",
+   "机械设备"
+  ],
+  [
+   "螺丝",
+   "screw",
+   "机械设备"
+  ],
+  [
+   "螺栓",
+   "bolt",
+   "机械设备"
+  ],
+  [
+   "螺母",
+   "nut",
+   "机械设备"
+  ],
+  [
+   "螺钉",
+   "screw",
+   "机械设备"
+  ],
+  [
+   "行星齿轮",
+   "planetary gear",
+   "机械设备"
+  ],
+  [
+   "表面粗糙度",
+   "surface roughness",
+   "机械设备"
+  ],
+  [
+   "装配线",
+   "assembly line",
+   "机械设备"
+  ],
+  [
+   "设备利用率",
+   "equipment utilization",
+   "机械设备"
+  ],
+  [
+   "设备综合效率",
+   "OEE|overall equipment effectiveness",
+   "机械设备"
+  ],
+  [
+   "试运行",
+   "trial run",
+   "机械设备"
+  ],
+  [
+   "起重机",
+   "crane",
+   "机械设备"
+  ],
+  [
+   "超声加工",
+   "ultrasonic machining",
+   "机械设备"
+  ],
+  [
+   "跳动",
+   "runout",
+   "机械设备"
+  ],
+  [
+   "车刀",
+   "turning tool",
+   "机械设备"
+  ],
+  [
+   "车床",
+   "lathe",
+   "机械设备"
+  ],
+  [
+   "轴承",
+   "bearing",
+   "机械设备"
+  ],
+  [
+   "输送带",
+   "conveyor belt",
+   "机械设备"
+  ],
+  [
+   "过渡配合",
+   "transition fit",
+   "机械设备"
+  ],
+  [
+   "过滤器",
+   "filter",
+   "机械设备"
+  ],
+  [
+   "过盈配合",
+   "interference fit",
+   "机械设备"
+  ],
+  [
+   "进给量",
+   "feed rate",
+   "机械设备"
+  ],
+  [
+   "连杆",
+   "connecting rod",
+   "机械设备"
+  ],
+  [
+   "退火",
+   "annealing",
+   "机械设备"
+  ],
+  [
+   "配合",
+   "fit",
+   "机械设备"
+  ],
+  [
+   "量具",
+   "measuring tool",
+   "机械设备"
+  ],
+  [
+   "量块",
+   "gauge block",
+   "机械设备"
+  ],
+  [
+   "金刚石刀具",
+   "diamond tool",
+   "机械设备"
+  ],
+  [
+   "钎焊",
+   "brazing",
+   "机械设备"
+  ],
+  [
+   "钻头",
+   "drill bit",
+   "机械设备"
+  ],
+  [
+   "钻床",
+   "drilling machine",
+   "机械设备"
+  ],
+  [
+   "铆钉",
+   "rivet",
+   "机械设备"
+  ],
+  [
+   "铣刀",
+   "milling cutter",
+   "机械设备"
+  ],
+  [
+   "铣床",
+   "milling machine",
+   "机械设备"
+  ],
+  [
+   "铭牌",
+   "nameplate",
+   "机械设备"
+  ],
+  [
+   "铰刀",
+   "reamer",
+   "机械设备"
+  ],
+  [
+   "铸造机",
+   "casting machine",
+   "机械设备"
+  ],
+  [
+   "链条",
+   "chain",
+   "机械设备"
+  ],
+  [
+   "链轮",
+   "sprocket",
+   "机械设备"
+  ],
+  [
+   "销钉",
+   "pin",
+   "机械设备"
+  ],
+  [
+   "锥齿轮",
+   "bevel gear",
+   "机械设备"
+  ],
+  [
+   "锯床",
+   "sawing machine",
+   "机械设备"
+  ],
+  [
+   "锯片",
+   "saw blade",
+   "机械设备"
+  ],
+  [
+   "锻锤",
+   "forging hammer",
+   "机械设备"
+  ],
+  [
+   "镗床",
+   "boring machine",
+   "机械设备"
+  ],
+  [
+   "间隙配合",
+   "clearance fit",
+   "机械设备"
+  ],
+  [
+   "闸阀",
+   "gate valve",
+   "机械设备"
+  ],
+  [
+   "阀门",
+   "valve",
+   "机械设备"
+  ],
+  [
+   "阳极氧化",
+   "anodizing",
+   "机械设备"
+  ],
+  [
+   "陶瓷刀具",
+   "ceramic tool",
+   "机械设备"
+  ],
+  [
+   "预测性维护",
+   "predictive maintenance",
+   "机械设备"
+  ],
+  [
+   "预防性维护",
+   "preventive maintenance",
+   "机械设备"
+  ],
+  [
+   "风机",
+   "fan|blower",
+   "机械设备"
+  ],
+  [
+   "高速钢",
+   "high-speed steel|HSS",
+   "机械设备"
+  ],
+  [
+   "齿条",
+   "rack",
+   "机械设备"
+  ],
+  [
+   "齿轮",
+   "gear",
+   "机械设备"
+  ],
+  [
+   "齿轮箱",
+   "gearbox",
+   "机械设备"
+  ],
+  [
+   "ABS",
+   "ABS|anti-lock braking system",
+   "汽车制造"
+  ],
+  [
+   "CAN总线",
+   "CAN bus",
+   "汽车制造"
+  ],
+  [
+   "ECU",
+   "ECU|electronic control unit",
+   "汽车制造"
+  ],
+  [
+   "一级供应商",
+   "Tier 1 supplier",
+   "汽车制造"
+  ],
+  [
+   "三包",
+   "three guarantees",
+   "汽车制造"
+  ],
+  [
+   "中控台",
+   "center console",
+   "汽车制造"
+  ],
+  [
+   "乘用车",
+   "passenger car",
+   "汽车制造"
+  ],
+  [
+   "二级供应商",
+   "Tier 2 supplier",
+   "汽车制造"
+  ],
+  [
+   "仪表盘",
+   "dashboard|instrument panel",
+   "汽车制造"
+  ],
+  [
+   "保险杠",
+   "bumper",
+   "汽车制造"
+  ],
+  [
+   "内燃机",
+   "internal combustion engine",
+   "汽车制造"
+  ],
+  [
+   "内饰",
+   "interior",
+   "汽车制造"
+  ],
+  [
+   "制动",
+   "braking",
+   "汽车制造"
+  ],
+  [
+   "刹车",
+   "brake",
+   "汽车制造"
+  ],
+  [
+   "动力电池",
+   "traction battery",
+   "汽车制造"
+  ],
+  [
+   "双离合变速箱",
+   "dual-clutch transmission|DCT",
+   "汽车制造"
+  ],
+  [
+   "召回",
+   "recall",
+   "汽车制造"
+  ],
+  [
+   "台架试验",
+   "bench test",
+   "汽车制造"
+  ],
+  [
+   "商用车",
+   "commercial vehicle",
+   "汽车制造"
+  ],
+  [
+   "国六",
+   "China VI emission standard",
+   "汽车制造"
+  ],
+  [
+   "天窗",
+   "sunroof",
+   "汽车制造"
+  ],
+  [
+   "底盘",
+   "chassis",
+   "汽车制造"
+  ],
+  [
+   "座椅",
+   "seat",
+   "汽车制造"
+  ],
+  [
+   "总装",
+   "final assembly",
+   "汽车制造"
+  ],
+  [
+   "悬挂",
+   "suspension",
+   "汽车制造"
+  ],
+  [
+   "慢充",
+   "slow charging",
+   "汽车制造"
+  ],
+  [
+   "手动变速箱",
+   "manual transmission",
+   "汽车制造"
+  ],
+  [
+   "挡风玻璃",
+   "windshield",
+   "汽车制造"
+  ],
+  [
+   "换电",
+   "battery swapping",
+   "汽车制造"
+  ],
+  [
+   "排放标准",
+   "emission standard",
+   "汽车制造"
+  ],
+  [
+   "插电式混合动力",
+   "plug-in hybrid electric vehicle|PHEV",
+   "汽车制造"
+  ],
+  [
+   "整车",
+   "complete vehicle",
+   "汽车制造"
+  ],
+  [
+   "整车厂",
+   "OEM|original equipment manufacturer",
+   "汽车制造"
+  ],
+  [
+   "方向盘",
+   "steering wheel",
+   "汽车制造"
+  ],
+  [
+   "无人驾驶",
+   "driverless|unmanned driving",
+   "汽车制造"
+  ],
+  [
+   "无级变速箱",
+   "CVT",
+   "汽车制造"
+  ],
+  [
+   "毫米波雷达",
+   "millimeter wave radar",
+   "汽车制造"
+  ],
+  [
+   "汽车",
+   "automobile|car|vehicle",
+   "汽车制造"
+  ],
+  [
+   "汽车电子",
+   "automotive electronics",
+   "汽车制造"
+  ],
+  [
+   "汽车零部件",
+   "auto parts",
+   "汽车制造"
+  ],
+  [
+   "涂装",
+   "painting",
+   "汽车制造"
+  ],
+  [
+   "混合动力汽车",
+   "hybrid electric vehicle|HEV",
+   "汽车制造"
+  ],
+  [
+   "激光雷达",
+   "LiDAR",
+   "汽车制造"
+  ],
+  [
+   "燃料电池汽车",
+   "fuel cell vehicle|FCV",
+   "汽车制造"
+  ],
+  [
+   "燃油经济性",
+   "fuel economy",
+   "汽车制造"
+  ],
+  [
+   "电动汽车",
+   "electric vehicle|EV",
+   "汽车制造"
+  ],
+  [
+   "电控系统",
+   "electronic control system",
+   "汽车制造"
+  ],
+  [
+   "电池包",
+   "battery pack",
+   "汽车制造"
+  ],
+  [
+   "白车身",
+   "body in white|BIW",
+   "汽车制造"
+  ],
+  [
+   "百公里加速",
+   "0-100 km/h acceleration",
+   "汽车制造"
+  ],
+  [
+   "碰撞测试",
+   "crash test",
+   "汽车制造"
+  ],
+  [
+   "线束",
+   "wiring harness",
+   "汽车制造"
+  ],
+  [
+   "续航里程",
+   "driving range",
+   "汽车制造"
+  ],
+  [
+   "耐久性测试",
+   "durability test",
+   "汽车制造"
+  ],
+  [
+   "自动变速箱",
+   "automatic transmission",
+   "汽车制造"
+  ],
+  [
+   "自动驾驶",
+   "autonomous driving",
+   "汽车制造"
+  ],
+  [
+   "节拍",
+   "takt time",
+   "汽车制造"
+  ],
+  [
+   "质保",
+   "warranty",
+   "汽车制造"
+  ],
+  [
+   "质量控制",
+   "quality control|QC",
+   "汽车制造"
+  ],
+  [
+   "质量检测",
+   "quality inspection",
+   "汽车制造"
+  ],
+  [
+   "超声波雷达",
+   "ultrasonic radar",
+   "汽车制造"
+  ],
+  [
+   "车灯",
+   "headlight",
+   "汽车制造"
+  ],
+  [
+   "车身",
+   "body|car body",
+   "汽车制造"
+  ],
+  [
+   "车载信息娱乐系统",
+   "in-vehicle infotainment|IVI",
+   "汽车制造"
+  ],
+  [
+   "车载网络",
+   "vehicle network",
+   "汽车制造"
+  ],
+  [
+   "车载诊断系统",
+   "OBD|on-board diagnostics",
+   "汽车制造"
+  ],
+  [
+   "车门",
+   "car door",
+   "汽车制造"
+  ],
+  [
+   "转向",
+   "steering",
+   "汽车制造"
+  ],
+  [
+   "轮毂",
+   "wheel hub",
+   "汽车制造"
+  ],
+  [
+   "轮毂电机",
+   "in-wheel motor",
+   "汽车制造"
+  ],
+  [
+   "轮胎",
+   "tire|tyre",
+   "汽车制造"
+  ],
+  [
+   "辅助驾驶",
+   "advanced driver assistance|ADAS",
+   "汽车制造"
+  ],
+  [
+   "道路测试",
+   "road test",
+   "汽车制造"
+  ],
+  [
+   "雷达",
+   "radar",
+   "汽车制造"
+  ],
+  [
+   "驱动电机",
+   "drive motor",
+   "汽车制造"
+  ],
+  [
+   "不可抗力",
+   "force majeure",
+   "法律合同"
+  ],
+  [
+   "乙方",
+   "Party B",
+   "法律合同"
+  ],
+  [
+   "争议",
+   "dispute",
+   "法律合同"
+  ],
+  [
+   "保密",
+   "confidentiality",
+   "法律合同"
+  ],
+  [
+   "修订",
+   "amendment",
+   "法律合同"
+  ],
+  [
+   "定金",
+   "deposit|earnest money|down payment",
+   "法律合同"
+  ],
+  [
+   "尽职调查",
+   "due diligence",
+   "法律合同"
+  ],
+  [
+   "授权",
+   "authorization|license|licensing",
+   "法律合同"
+  ],
+  [
+   "有效期",
+   "validity period|validity|expiry date",
+   "法律合同"
+  ],
+  [
+   "条款",
+   "clause|terms",
+   "法律合同"
+  ],
+  [
+   "法人",
+   "legal person",
+   "法律合同"
+  ],
+  [
+   "法定代表人",
+   "legal representative",
+   "法律合同"
+  ],
+  [
+   "法律",
+   "law",
+   "法律合同"
+  ],
+  [
+   "生效",
+   "effective|take effect",
+   "法律合同"
+  ],
+  [
+   "生效日期",
+   "effective date",
+   "法律合同"
+  ],
+  [
+   "甲方",
+   "Party A",
+   "法律合同"
+  ],
+  [
+   "盖章",
+   "seal",
+   "法律合同"
+  ],
+  [
+   "签署",
+   "sign",
+   "法律合同"
+  ],
+  [
+   "管辖",
+   "jurisdiction",
+   "法律合同"
+  ],
+  [
+   "终止",
+   "terminate",
+   "法律合同"
+  ],
+  [
+   "解除",
+   "rescind",
+   "法律合同"
+  ],
+  [
+   "许可证",
+   "license",
+   "法律合同"
+  ],
+  [
+   "诉讼",
+   "litigation",
+   "法律合同"
+  ],
+  [
+   "赔偿",
+   "compensation|indemnity",
+   "法律合同"
+  ],
+  [
+   "违约金",
+   "liquidated damages",
+   "法律合同"
+  ],
+  [
+   "连带责任",
+   "joint liability",
+   "法律合同"
+  ],
+  [
+   "适用法律",
+   "governing law",
+   "法律合同"
+  ],
+  [
+   "附件",
+   "appendix|annex|attachment",
+   "法律合同"
+  ],
+  [
+   "DLC",
+   "DLC|downloadable content",
+   "游戏娱乐"
+  ],
+  [
+   "NPC",
+   "NPC|non-player character",
+   "游戏娱乐"
+  ],
+  [
+   "subscriptions",
+   "subscription",
+   "游戏娱乐"
+  ],
+  [
+   "主播",
+   "streamer|anchor",
+   "游戏娱乐"
+  ],
+  [
+   "主机游戏",
+   "console game",
+   "游戏娱乐"
+  ],
+  [
+   "付费墙",
+   "paywall",
+   "游戏娱乐"
+  ],
+  [
+   "关卡设计",
+   "level design",
+   "游戏娱乐"
+  ],
+  [
+   "内容创作",
+   "content creation",
+   "游戏娱乐"
+  ],
+  [
+   "内购",
+   "in-app purchase",
+   "游戏娱乐"
+  ],
+  [
+   "分级",
+   "age rating|content rating",
+   "游戏娱乐"
+  ],
+  [
+   "匹配",
+   "matchmaking",
+   "游戏娱乐"
+  ],
+  [
+   "单机游戏",
+   "standalone game",
+   "游戏娱乐"
+  ],
+  [
+   "在线对战",
+   "online battle",
+   "游戏娱乐"
+  ],
+  [
+   "多人游戏",
+   "multiplayer game",
+   "游戏娱乐"
+  ],
+  [
+   "存档",
+   "save file|save game",
+   "游戏娱乐"
+  ],
+  [
+   "手机游戏",
+   "mobile game",
+   "游戏娱乐"
+  ],
+  [
+   "排位",
+   "ranked match",
+   "游戏娱乐"
+  ],
+  [
+   "更新包",
+   "update package",
+   "游戏娱乐"
+  ],
+  [
+   "未成年人保护",
+   "minor protection",
+   "游戏娱乐"
+  ],
+  [
+   "段位",
+   "rank|tier",
+   "游戏娱乐"
+  ],
+  [
+   "游戏",
+   "game",
+   "游戏娱乐"
+  ],
+  [
+   "游戏开发",
+   "game development",
+   "游戏娱乐"
+  ],
+  [
+   "游戏引擎",
+   "game engine",
+   "游戏娱乐"
+  ],
+  [
+   "游戏时长",
+   "playtime",
+   "游戏娱乐"
+  ],
+  [
+   "游戏设计",
+   "game design",
+   "游戏娱乐"
+  ],
+  [
+   "玩家",
+   "player",
+   "游戏娱乐"
+  ],
+  [
+   "电子游戏",
+   "video game",
+   "游戏娱乐"
+  ],
+  [
+   "电竞",
+   "esports",
+   "游戏娱乐"
+  ],
+  [
+   "直播",
+   "live streaming",
+   "游戏娱乐"
+  ],
+  [
+   "短视频",
+   "short video",
+   "游戏娱乐"
+  ],
+  [
+   "网络游戏",
+   "online game",
+   "游戏娱乐"
+  ],
+  [
+   "虚拟货币",
+   "virtual currency",
+   "游戏娱乐"
+  ],
+  [
+   "角色",
+   "character",
+   "游戏娱乐"
+  ],
+  [
+   "赛事",
+   "tournament|competition",
+   "游戏娱乐"
+  ],
+  [
+   "赛季",
+   "season",
+   "游戏娱乐"
+  ],
+  [
+   "防沉迷",
+   "anti-addiction system",
+   "游戏娱乐"
+  ],
+  [
+   "AGV",
+   "AGV|automated guided vehicle",
+   "物流供应链"
+  ],
+  [
+   "JIT",
+   "JIT|just-in-time",
+   "物流供应链"
+  ],
+  [
+   "RFID",
+   "RFID",
+   "物流供应链"
+  ],
+  [
+   "二维码",
+   "QR code",
+   "物流供应链"
+  ],
+  [
+   "交付周期",
+   "delivery cycle",
+   "物流供应链"
+  ],
+  [
+   "仓储",
+   "warehousing",
+   "物流供应链"
+  ],
+  [
+   "供应商管理",
+   "supplier management",
+   "物流供应链"
+  ],
+  [
+   "供应商评估",
+   "supplier evaluation",
+   "物流供应链"
+  ],
+  [
+   "供应链协同",
+   "supply chain collaboration",
+   "物流供应链"
+  ],
+  [
+   "供应链金融",
+   "supply chain finance",
+   "物流供应链"
+  ],
+  [
+   "公路运输",
+   "road freight",
+   "物流供应链"
+  ],
+  [
+   "准时交付",
+   "on-time delivery",
+   "物流供应链"
+  ],
+  [
+   "分拣",
+   "sorting",
+   "物流供应链"
+  ],
+  [
+   "到付运费",
+   "freight collect",
+   "物流供应链"
+  ],
+  [
+   "包装",
+   "packaging",
+   "物流供应链"
+  ],
+  [
+   "周转库存",
+   "cycle stock",
+   "物流供应链"
+  ],
+  [
+   "在途",
+   "in transit",
+   "物流供应链"
+  ],
+  [
+   "在途库存",
+   "in-transit inventory",
+   "物流供应链"
+  ],
+  [
+   "城市配送",
+   "urban distribution",
+   "物流供应链"
+  ],
+  [
+   "多式联运",
+   "multimodal transport",
+   "物流供应链"
+  ],
+  [
+   "安全库存",
+   "safety stock",
+   "物流供应链"
+  ],
+  [
+   "干线运输",
+   "line-haul transportation",
+   "物流供应链"
+  ],
+  [
+   "库存周转率",
+   "inventory turnover",
+   "物流供应链"
+  ],
+  [
+   "打包",
+   "packing",
+   "物流供应链"
+  ],
+  [
+   "托盘",
+   "pallet",
+   "物流供应链"
+  ],
+  [
+   "拒收",
+   "rejection",
+   "物流供应链"
+  ],
+  [
+   "拼箱",
+   "LCL|less than container load",
+   "物流供应链"
+  ],
+  [
+   "搬运",
+   "material handling",
+   "物流供应链"
+  ],
+  [
+   "整箱",
+   "FCL|full container load",
+   "物流供应链"
+  ],
+  [
+   "最后一公里",
+   "last mile delivery",
+   "物流供应链"
+  ],
+  [
+   "条码",
+   "barcode",
+   "物流供应链"
+  ],
+  [
+   "滞期费",
+   "demurrage",
+   "物流供应链"
+  ],
+  [
+   "牛鞭效应",
+   "bullwhip effect",
+   "物流供应链"
+  ],
+  [
+   "物流成本",
+   "logistics cost",
+   "物流供应链"
+  ],
+  [
+   "立体仓库",
+   "automated storage and retrieval system|AS|RS",
+   "物流供应链"
+  ],
+  [
+   "签收",
+   "delivery receipt|signed for",
+   "物流供应链"
+  ],
+  [
+   "精益物流",
+   "lean logistics",
+   "物流供应链"
+  ],
+  [
+   "绿色物流",
+   "green logistics",
+   "物流供应链"
+  ],
+  [
+   "舱位",
+   "shipping space",
+   "物流供应链"
+  ],
+  [
+   "补货",
+   "replenishment",
+   "物流供应链"
+  ],
+  [
+   "装卸",
+   "loading and unloading",
+   "物流供应链"
+  ],
+  [
+   "订舱",
+   "booking",
+   "物流供应链"
+  ],
+  [
+   "货代",
+   "freight forwarder",
+   "物流供应链"
+  ],
+  [
+   "货架",
+   "racking|shelf",
+   "物流供应链"
+  ],
+  [
+   "逆向物流",
+   "reverse logistics",
+   "物流供应链"
+  ],
+  [
+   "速遣费",
+   "dispatch money",
+   "物流供应链"
+  ],
+  [
+   "配送中心",
+   "distribution center|DC",
+   "物流供应链"
+  ],
+  [
+   "采购订单",
+   "purchase order|PO",
+   "物流供应链"
+  ],
+  [
+   "铁路运输",
+   "rail freight",
+   "物流供应链"
+  ],
+  [
+   "附加费",
+   "surcharge",
+   "物流供应链"
+  ],
+  [
+   "需求预测",
+   "demand forecasting",
+   "物流供应链"
+  ],
+  [
+   "预付运费",
+   "freight prepaid",
+   "物流供应链"
+  ],
+  [
+   "ESG",
+   "ESG|environmental social and governance",
+   "环保安全"
+  ],
+  [
+   "个人防护用品",
+   "PPE|personal protective equipment",
+   "环保安全"
+  ],
+  [
+   "临时用电",
+   "temporary electricity",
+   "环保安全"
+  ],
+  [
+   "事故",
+   "accident",
+   "环保安全"
+  ],
+  [
+   "事故调查",
+   "accident investigation",
+   "环保安全"
+  ],
+  [
+   "动火作业",
+   "hot work",
+   "环保安全"
+  ],
+  [
+   "化学品安全",
+   "chemical safety",
+   "环保安全"
+  ],
+  [
+   "危险废物",
+   "hazardous waste",
+   "环保安全"
+  ],
+  [
+   "危险源",
+   "hazard source",
+   "环保安全"
+  ],
+  [
+   "可持续发展",
+   "sustainable development",
+   "环保安全"
+  ],
+  [
+   "可降解",
+   "biodegradable",
+   "环保安全"
+  ],
+  [
+   "噪声污染",
+   "noise pollution",
+   "环保安全"
+  ],
+  [
+   "固体废物",
+   "solid waste",
+   "环保安全"
+  ],
+  [
+   "土壤污染",
+   "soil pollution",
+   "环保安全"
+  ],
+  [
+   "垃圾分类",
+   "waste sorting",
+   "环保安全"
+  ],
+  [
+   "大气污染",
+   "air pollution",
+   "环保安全"
+  ],
+  [
+   "安全事故报告",
+   "accident reporting",
+   "环保安全"
+  ],
+  [
+   "安全出口",
+   "exit|emergency exit",
+   "环保安全"
+  ],
+  [
+   "安全制度",
+   "safety regulations",
+   "环保安全"
+  ],
+  [
+   "安全培训",
+   "safety training",
+   "环保安全"
+  ],
+  [
+   "安全帽",
+   "safety helmet",
+   "环保安全"
+  ],
+  [
+   "安全标志",
+   "safety sign",
+   "环保安全"
+  ],
+  [
+   "安全检查",
+   "safety inspection",
+   "环保安全"
+  ],
+  [
+   "安全管理",
+   "safety management",
+   "环保安全"
+  ],
+  [
+   "安全隐患",
+   "safety hazard",
+   "环保安全"
+  ],
+  [
+   "工伤保险",
+   "work injury insurance",
+   "环保安全"
+  ],
+  [
+   "应急演练",
+   "emergency drill",
+   "环保安全"
+  ],
+  [
+   "应急预案",
+   "emergency plan",
+   "环保安全"
+  ],
+  [
+   "废气",
+   "waste gas|exhaust gas",
+   "环保安全"
+  ],
+  [
+   "废水",
+   "wastewater",
+   "环保安全"
+  ],
+  [
+   "循环经济",
+   "circular economy",
+   "环保安全"
+  ],
+  [
+   "排污许可",
+   "discharge permit",
+   "环保安全"
+  ],
+  [
+   "有限空间作业",
+   "confined space work",
+   "环保安全"
+  ],
+  [
+   "机械设备安全",
+   "machine safety",
+   "环保安全"
+  ],
+  [
+   "水污染",
+   "water pollution",
+   "环保安全"
+  ],
+  [
+   "污染",
+   "pollution",
+   "环保安全"
+  ],
+  [
+   "污染治理",
+   "pollution control",
+   "环保安全"
+  ],
+  [
+   "污水处理",
+   "wastewater treatment",
+   "环保安全"
+  ],
+  [
+   "消防通道",
+   "fire exit",
+   "环保安全"
+  ],
+  [
+   "清洁生产",
+   "cleaner production",
+   "环保安全"
+  ],
+  [
+   "灭火器",
+   "fire extinguisher",
+   "环保安全"
+  ],
+  [
+   "环保材料",
+   "environmentally friendly material",
+   "环保安全"
+  ],
+  [
+   "环境",
+   "environment",
+   "环保安全"
+  ],
+  [
+   "环境保护",
+   "environmental protection",
+   "环保安全"
+  ],
+  [
+   "环境影响评估",
+   "EIA|environmental impact assessment",
+   "环保安全"
+  ],
+  [
+   "环境监测",
+   "environmental monitoring",
+   "环保安全"
+  ],
+  [
+   "生态",
+   "ecology",
+   "环保安全"
+  ],
+  [
+   "电气安全",
+   "electrical safety",
+   "环保安全"
+  ],
+  [
+   "疏散",
+   "evacuation",
+   "环保安全"
+  ],
+  [
+   "碳交易",
+   "carbon trading",
+   "环保安全"
+  ],
+  [
+   "碳税",
+   "carbon tax",
+   "环保安全"
+  ],
+  [
+   "碳足迹",
+   "carbon footprint",
+   "环保安全"
+  ],
+  [
+   "职业危害",
+   "occupational hazard",
+   "环保安全"
+  ],
+  [
+   "职业病",
+   "occupational disease",
+   "环保安全"
+  ],
+  [
+   "脱硝",
+   "denitrification",
+   "环保安全"
+  ],
+  [
+   "脱硫",
+   "desulfurization",
+   "环保安全"
+  ],
+  [
+   "资源回收",
+   "resource recovery",
+   "环保安全"
+  ],
+  [
+   "防尘口罩",
+   "dust mask",
+   "环保安全"
+  ],
+  [
+   "防护手套",
+   "protective gloves",
+   "环保安全"
+  ],
+  [
+   "防护眼镜",
+   "safety goggles",
+   "环保安全"
+  ],
+  [
+   "除尘",
+   "dust removal",
+   "环保安全"
+  ],
+  [
+   "风险控制",
+   "risk control",
+   "环保安全"
+  ],
+  [
+   "风险评估",
+   "risk assessment",
+   "环保安全"
+  ],
+  [
+   "高处作业",
+   "work at height",
+   "环保安全"
+  ],
+  [
+   "三相电",
+   "three-phase power",
+   "电力能源"
+  ],
+  [
+   "互感器",
+   "instrument transformer",
+   "电力能源"
+  ],
+  [
+   "供电",
+   "power supply",
+   "电力能源"
+  ],
+  [
+   "保护装置",
+   "protection device",
+   "电力能源"
+  ],
+  [
+   "储能",
+   "energy storage",
+   "电力能源"
+  ],
+  [
+   "充电桩",
+   "charging pile",
+   "电力能源"
+  ],
+  [
+   "光伏电站",
+   "photovoltaic power station",
+   "电力能源"
+  ],
+  [
+   "功率因数",
+   "power factor",
+   "电力能源"
+  ],
+  [
+   "升压变压器",
+   "step-up transformer",
+   "电力能源"
+  ],
+  [
+   "单相电",
+   "single-phase power",
+   "电力能源"
+  ],
+  [
+   "发电",
+   "power generation",
+   "电力能源"
+  ],
+  [
+   "发电厂",
+   "power plant",
+   "电力能源"
+  ],
+  [
+   "变电",
+   "power transformation",
+   "电力能源"
+  ],
+  [
+   "可再生能源",
+   "renewable energy",
+   "电力能源"
+  ],
+  [
+   "售电",
+   "power sales",
+   "电力能源"
+  ],
+  [
+   "地热能",
+   "geothermal energy",
+   "电力能源"
+  ],
+  [
+   "太阳能",
+   "solar energy",
+   "电力能源"
+  ],
+  [
+   "开关柜",
+   "switchgear",
+   "电力能源"
+  ],
+  [
+   "微电网",
+   "microgrid",
+   "电力能源"
+  ],
+  [
+   "抽水蓄能",
+   "pumped storage",
+   "电力能源"
+  ],
+  [
+   "断路器",
+   "circuit breaker",
+   "电力能源"
+  ],
+  [
+   "新能源汽车",
+   "new energy vehicle|NEV",
+   "电力能源"
+  ],
+  [
+   "无功功率",
+   "reactive power",
+   "电力能源"
+  ],
+  [
+   "智能电网",
+   "smart grid",
+   "电力能源"
+  ],
+  [
+   "智能电表",
+   "smart meter",
+   "电力能源"
+  ],
+  [
+   "有功功率",
+   "active power",
+   "电力能源"
+  ],
+  [
+   "杆塔",
+   "tower",
+   "电力能源"
+  ],
+  [
+   "架空线路",
+   "overhead line",
+   "电力能源"
+  ],
+  [
+   "核电站",
+   "nuclear power plant",
+   "电力能源"
+  ],
+  [
+   "母线",
+   "busbar",
+   "电力能源"
+  ],
+  [
+   "水电站",
+   "hydropower station",
+   "电力能源"
+  ],
+  [
+   "水轮机",
+   "hydraulic turbine",
+   "电力能源"
+  ],
+  [
+   "汽轮机",
+   "steam turbine",
+   "电力能源"
+  ],
+  [
+   "清洁能源",
+   "clean energy",
+   "电力能源"
+  ],
+  [
+   "漏电保护",
+   "leakage protection",
+   "电力能源"
+  ],
+  [
+   "潮汐能",
+   "tidal energy",
+   "电力能源"
+  ],
+  [
+   "火电厂",
+   "thermal power plant",
+   "电力能源"
+  ],
+  [
+   "熔断器",
+   "fuse",
+   "电力能源"
+  ],
+  [
+   "燃气轮机",
+   "gas turbine",
+   "电力能源"
+  ],
+  [
+   "生物质能",
+   "biomass energy",
+   "电力能源"
+  ],
+  [
+   "用电",
+   "power consumption",
+   "电力能源"
+  ],
+  [
+   "电价",
+   "electricity price",
+   "电力能源"
+  ],
+  [
+   "电力交易",
+   "power trading",
+   "电力能源"
+  ],
+  [
+   "电力市场",
+   "electricity market",
+   "电力能源"
+  ],
+  [
+   "电力监控系统",
+   "power monitoring system",
+   "电力能源"
+  ],
+  [
+   "电力负荷",
+   "power load",
+   "电力能源"
+  ],
+  [
+   "电压互感器",
+   "voltage transformer|PT",
+   "电力能源"
+  ],
+  [
+   "电压波动",
+   "voltage fluctuation",
+   "电力能源"
+  ],
+  [
+   "电流互感器",
+   "current transformer|CT",
+   "电力能源"
+  ],
+  [
+   "电缆",
+   "cable",
+   "电力能源"
+  ],
+  [
+   "电能质量",
+   "power quality",
+   "电力能源"
+  ],
+  [
+   "短路",
+   "short circuit",
+   "电力能源"
+  ],
+  [
+   "碳中和",
+   "carbon neutrality",
+   "电力能源"
+  ],
+  [
+   "碳排放",
+   "carbon emission",
+   "电力能源"
+  ],
+  [
+   "碳达峰",
+   "carbon peaking",
+   "电力能源"
+  ],
+  [
+   "继电保护",
+   "relay protection",
+   "电力能源"
+  ],
+  [
+   "绿色电力",
+   "green power",
+   "电力能源"
+  ],
+  [
+   "能效管理",
+   "energy efficiency management",
+   "电力能源"
+  ],
+  [
+   "节能",
+   "energy conservation",
+   "电力能源"
+  ],
+  [
+   "视在功率",
+   "apparent power",
+   "电力能源"
+  ],
+  [
+   "谐波",
+   "harmonic",
+   "电力能源"
+  ],
+  [
+   "负荷开关",
+   "load switch",
+   "电力能源"
+  ],
+  [
+   "购电",
+   "power purchase",
+   "电力能源"
+  ],
+  [
+   "输电",
+   "power transmission",
+   "电力能源"
+  ],
+  [
+   "过载",
+   "overload",
+   "电力能源"
+  ],
+  [
+   "远程抄表",
+   "remote meter reading",
+   "电力能源"
+  ],
+  [
+   "避雷器",
+   "surge arrester",
+   "电力能源"
+  ],
+  [
+   "配电",
+   "power distribution",
+   "电力能源"
+  ],
+  [
+   "配电变压器",
+   "distribution transformer",
+   "电力能源"
+  ],
+  [
+   "配电柜",
+   "distribution cabinet",
+   "电力能源"
+  ],
+  [
+   "锂电池储能",
+   "lithium battery energy storage",
+   "电力能源"
+  ],
+  [
+   "降压变压器",
+   "step-down transformer",
+   "电力能源"
+  ],
+  [
+   "隔离开关",
+   "disconnector|isolator",
+   "电力能源"
+  ],
+  [
+   "需求侧管理",
+   "demand side management",
+   "电力能源"
+  ],
+  [
+   "频率偏差",
+   "frequency deviation",
+   "电力能源"
+  ],
+  [
+   "额定电压",
+   "rated voltage",
+   "电力能源"
+  ],
+  [
+   "额定电流",
+   "rated current",
+   "电力能源"
+  ],
+  [
+   "风力涡轮机",
+   "wind turbine",
+   "电力能源"
+  ],
+  [
+   "风电场",
+   "wind farm",
+   "电力能源"
+  ],
+  [
+   "风能",
+   "wind energy",
+   "电力能源"
+  ],
+  [
+   "促销码",
+   "promo code",
+   "电子商务"
+  ],
+  [
+   "商品",
+   "product|merchandise",
+   "电子商务"
+  ],
+  [
+   "库存管理",
+   "inventory management",
+   "电子商务"
+  ],
+  [
+   "支付",
+   "payment",
+   "电子商务"
+  ],
+  [
+   "物流跟踪",
+   "shipping tracking|logistics tracking",
+   "电子商务"
+  ],
+  [
+   "电子商务",
+   "e-commerce",
+   "电子商务"
+  ],
+  [
+   "结账",
+   "checkout",
+   "电子商务"
+  ],
+  [
+   "网店",
+   "online store",
+   "电子商务"
+  ],
+  [
+   "评价",
+   "review|rating",
+   "电子商务"
+  ],
+  [
+   "购物车",
+   "shopping cart",
+   "电子商务"
+  ],
+  [
+   "退款",
+   "refund",
+   "电子商务"
+  ],
+  [
+   "退货",
+   "return",
+   "电子商务"
+  ],
+  [
+   "80 PLUS认证",
+   "80 PLUS certification",
+   "硬件"
+  ],
+  [
+   "BIOS",
+   "BIOS",
+   "硬件"
+  ],
+  [
+   "CE认证",
+   "CE certification",
+   "硬件"
+  ],
+  [
+   "DisplayPort",
+   "DisplayPort",
+   "硬件"
+  ],
+  [
+   "FCC认证",
+   "FCC certification",
+   "硬件"
+  ],
+  [
+   "HDMI",
+   "HDMI",
+   "硬件"
+  ],
+  [
+   "NVMe",
+   "NVMe",
+   "硬件"
+  ],
+  [
+   "OLED",
+   "OLED",
+   "硬件"
+  ],
+  [
+   "RAID",
+   "RAID",
+   "硬件"
+  ],
+  [
+   "RoHS",
+   "RoHS",
+   "硬件"
+  ],
+  [
+   "SAS接口",
+   "SAS",
+   "硬件"
+  ],
+  [
+   "SATA",
+   "SATA",
+   "硬件"
+  ],
+  [
+   "UEFI",
+   "UEFI",
+   "硬件"
+  ],
+  [
+   "UPS",
+   "UPS|uninterruptible power supply",
+   "硬件"
+  ],
+  [
+   "USB-C",
+   "USB-C",
+   "硬件"
+  ],
+  [
+   "USB接口",
+   "USB port",
+   "硬件"
+  ],
+  [
+   "U位",
+   "rack unit|U",
+   "硬件"
+  ],
+  [
+   "VGA",
+   "VGA",
+   "硬件"
+  ],
+  [
+   "一级缓存",
+   "L1 cache",
+   "硬件"
+  ],
+  [
+   "三极管",
+   "transistor",
+   "硬件"
+  ],
+  [
+   "三级缓存",
+   "L3 cache",
+   "硬件"
+  ],
+  [
+   "中央处理器",
+   "CPU|central processing unit",
+   "硬件"
+  ],
+  [
+   "串口",
+   "serial port",
+   "硬件"
+  ],
+  [
+   "主板",
+   "motherboard|mainboard",
+   "硬件"
+  ],
+  [
+   "主板BIOS",
+   "BIOS",
+   "硬件"
+  ],
+  [
+   "主板芯片组",
+   "chipset",
+   "硬件"
+  ],
+  [
+   "主频",
+   "clock speed",
+   "硬件"
+  ],
+  [
+   "二极管",
+   "diode",
+   "硬件"
+  ],
+  [
+   "二级缓存",
+   "L2 cache",
+   "硬件"
+  ],
+  [
+   "交换机",
+   "switch",
+   "硬件"
+  ],
+  [
+   "充电",
+   "charging",
+   "硬件"
+  ],
+  [
+   "充电器",
+   "charger",
+   "硬件"
+  ],
+  [
+   "光纤",
+   "optical fiber",
+   "硬件"
+  ],
+  [
+   "光纤接口",
+   "optical fiber port",
+   "硬件"
+  ],
+  [
+   "光驱",
+   "optical drive",
+   "硬件"
+  ],
+  [
+   "内存",
+   "memory|RAM",
+   "硬件"
+  ],
+  [
+   "内存条",
+   "memory module|RAM stick|DIMM",
+   "硬件"
+  ],
+  [
+   "刀片服务器",
+   "blade server",
+   "硬件"
+  ],
+  [
+   "分辨率",
+   "resolution",
+   "硬件"
+  ],
+  [
+   "刷新率",
+   "refresh rate",
+   "硬件"
+  ],
+  [
+   "功耗",
+   "power consumption",
+   "硬件"
+  ],
+  [
+   "北桥",
+   "northbridge",
+   "硬件"
+  ],
+  [
+   "半导体",
+   "semiconductor",
+   "硬件"
+  ],
+  [
+   "单片机",
+   "microcontroller|MCU",
+   "硬件"
+  ],
+  [
+   "南桥",
+   "southbridge",
+   "硬件"
+  ],
+  [
+   "印制电路板",
+   "PCB|printed circuit board",
+   "硬件"
+  ],
+  [
+   "印刷电路板",
+   "printed circuit board|PCB",
+   "硬件"
+  ],
+  [
+   "即插即用",
+   "plug and play",
+   "硬件"
+  ],
+  [
+   "双通道",
+   "dual channel",
+   "硬件"
+  ],
+  [
+   "变压器",
+   "transformer",
+   "硬件"
+  ],
+  [
+   "台式机",
+   "desktop computer",
+   "硬件"
+  ],
+  [
+   "响应时间",
+   "response time",
+   "硬件"
+  ],
+  [
+   "回收",
+   "recycling",
+   "硬件"
+  ],
+  [
+   "固件",
+   "firmware",
+   "硬件"
+  ],
+  [
+   "固态硬盘",
+   "solid state drive|SSD",
+   "硬件"
+  ],
+  [
+   "图形处理器",
+   "GPU|graphics processing unit",
+   "硬件"
+  ],
+  [
+   "场效应管",
+   "FET",
+   "硬件"
+  ],
+  [
+   "塔式服务器",
+   "tower server",
+   "硬件"
+  ],
+  [
+   "声卡",
+   "sound card",
+   "硬件"
+  ],
+  [
+   "处理器",
+   "processor|CPU",
+   "硬件"
+  ],
+  [
+   "处理器核心",
+   "CPU core",
+   "硬件"
+  ],
+  [
+   "多核",
+   "multi-core",
+   "硬件"
+  ],
+  [
+   "多线程",
+   "multithreading",
+   "硬件"
+  ],
+  [
+   "存储",
+   "storage",
+   "硬件"
+  ],
+  [
+   "存储器",
+   "memory|storage",
+   "硬件"
+  ],
+  [
+   "寄存器",
+   "register",
+   "硬件"
+  ],
+  [
+   "导热垫",
+   "thermal pad",
+   "硬件"
+  ],
+  [
+   "导热硅脂",
+   "thermal paste",
+   "硬件"
+  ],
+  [
+   "封装",
+   "packaging|encapsulation",
+   "硬件"
+  ],
+  [
+   "嵌入式系统",
+   "embedded system",
+   "硬件"
+  ],
+  [
+   "工作站",
+   "workstation",
+   "硬件"
+  ],
+  [
+   "平板电脑",
+   "tablet",
+   "硬件"
+  ],
+  [
+   "并口",
+   "parallel port",
+   "硬件"
+  ],
+  [
+   "开发板",
+   "development board",
+   "硬件"
+  ],
+  [
+   "待机功耗",
+   "standby power",
+   "硬件"
+  ],
+  [
+   "快充",
+   "fast charging",
+   "硬件"
+  ],
+  [
+   "总线",
+   "bus",
+   "硬件"
+  ],
+  [
+   "手机",
+   "mobile phone|smartphone",
+   "硬件"
+  ],
+  [
+   "打印机",
+   "printer",
+   "硬件"
+  ],
+  [
+   "执行器",
+   "actuator",
+   "硬件"
+  ],
+  [
+   "扩展坞",
+   "docking station",
+   "硬件"
+  ],
+  [
+   "扫描仪",
+   "scanner",
+   "硬件"
+  ],
+  [
+   "扬声器",
+   "speaker",
+   "硬件"
+  ],
+  [
+   "接地",
+   "grounding|earthing",
+   "硬件"
+  ],
+  [
+   "摄像头",
+   "camera|webcam",
+   "硬件"
+  ],
+  [
+   "散热",
+   "heat dissipation|cooling",
+   "硬件"
+  ],
+  [
+   "散热器",
+   "heatsink|cooler",
+   "硬件"
+  ],
+  [
+   "数据线",
+   "data cable",
+   "硬件"
+  ],
+  [
+   "无线网卡",
+   "wireless network card",
+   "硬件"
+  ],
+  [
+   "时序",
+   "timing",
+   "硬件"
+  ],
+  [
+   "时钟频率",
+   "clock frequency",
+   "硬件"
+  ],
+  [
+   "显卡",
+   "graphics card|GPU|video card",
+   "硬件"
+  ],
+  [
+   "显存",
+   "video memory|VRAM",
+   "硬件"
+  ],
+  [
+   "显示器",
+   "monitor|display",
+   "硬件"
+  ],
+  [
+   "晶体管",
+   "transistor",
+   "硬件"
+  ],
+  [
+   "晶圆",
+   "wafer",
+   "硬件"
+  ],
+  [
+   "晶振",
+   "crystal oscillator",
+   "硬件"
+  ],
+  [
+   "服务器机箱",
+   "server chassis",
+   "硬件"
+  ],
+  [
+   "机架",
+   "rack",
+   "硬件"
+  ],
+  [
+   "机架式服务器",
+   "rack server",
+   "硬件"
+  ],
+  [
+   "机柜",
+   "cabinet|rack cabinet",
+   "硬件"
+  ],
+  [
+   "机械硬盘",
+   "hard disk drive|HDD",
+   "硬件"
+  ],
+  [
+   "机械键盘",
+   "mechanical keyboard",
+   "硬件"
+  ],
+  [
+   "机箱",
+   "computer case|chassis|case",
+   "硬件"
+  ],
+  [
+   "树莓派",
+   "Raspberry Pi",
+   "硬件"
+  ],
+  [
+   "水冷",
+   "liquid cooling|water cooling",
+   "硬件"
+  ],
+  [
+   "液晶面板",
+   "LCD panel",
+   "硬件"
+  ],
+  [
+   "混合硬盘",
+   "hybrid hard drive|SSHD",
+   "硬件"
+  ],
+  [
+   "热插拔",
+   "hot swap|hot plug",
+   "硬件"
+  ],
+  [
+   "焊点",
+   "solder joint",
+   "硬件"
+  ],
+  [
+   "独立显卡",
+   "discrete graphics card",
+   "硬件"
+  ],
+  [
+   "电容",
+   "capacitor",
+   "硬件"
+  ],
+  [
+   "电感",
+   "inductor",
+   "硬件"
+  ],
+  [
+   "电池",
+   "battery",
+   "硬件"
+  ],
+  [
+   "电池管理系统",
+   "BMS|battery management system",
+   "硬件"
+  ],
+  [
+   "电源",
+   "power supply|PSU",
+   "硬件"
+  ],
+  [
+   "电源线",
+   "power cable",
+   "硬件"
+  ],
+  [
+   "电磁兼容",
+   "EMC|electromagnetic compatibility",
+   "硬件"
+  ],
+  [
+   "电磁干扰",
+   "EMI|electromagnetic interference",
+   "硬件"
+  ],
+  [
+   "电路板",
+   "circuit board|PCB",
+   "硬件"
+  ],
+  [
+   "电阻",
+   "resistor",
+   "硬件"
+  ],
+  [
+   "硅脂",
+   "thermal paste",
+   "硬件"
+  ],
+  [
+   "硬件兼容",
+   "hardware compatibility",
+   "硬件"
+  ],
+  [
+   "硬盘",
+   "hard disk|HDD",
+   "硬件"
+  ],
+  [
+   "硬盘盒",
+   "hard drive enclosure",
+   "硬件"
+  ],
+  [
+   "磁盘阵列",
+   "disk array",
+   "硬件"
+  ],
+  [
+   "笔记本电脑",
+   "laptop|notebook",
+   "硬件"
+  ],
+  [
+   "缓存",
+   "cache",
+   "硬件"
+  ],
+  [
+   "缓存盘",
+   "cache drive",
+   "硬件"
+  ],
+  [
+   "网卡",
+   "network card|NIC|network interface card",
+   "硬件"
+  ],
+  [
+   "网线",
+   "network cable|Ethernet cable",
+   "硬件"
+  ],
+  [
+   "网线接口",
+   "RJ45 port",
+   "硬件"
+  ],
+  [
+   "背光",
+   "backlight",
+   "硬件"
+  ],
+  [
+   "能效",
+   "energy efficiency",
+   "硬件"
+  ],
+  [
+   "色域",
+   "color gamut",
+   "硬件"
+  ],
+  [
+   "芯片",
+   "chip",
+   "硬件"
+  ],
+  [
+   "芯片组",
+   "chipset",
+   "硬件"
+  ],
+  [
+   "表面贴装",
+   "SMT|surface mount technology",
+   "硬件"
+  ],
+  [
+   "计算机硬件",
+   "computer hardware",
+   "硬件"
+  ],
+  [
+   "读卡器",
+   "card reader",
+   "硬件"
+  ],
+  [
+   "调制解调器",
+   "modem",
+   "硬件"
+  ],
+  [
+   "负载均衡器",
+   "load balancer",
+   "硬件"
+  ],
+  [
+   "超频",
+   "overclocking",
+   "硬件"
+  ],
+  [
+   "路由器",
+   "router",
+   "硬件"
+  ],
+  [
+   "转换效率",
+   "efficiency",
+   "硬件"
+  ],
+  [
+   "运放",
+   "operational amplifier",
+   "硬件"
+  ],
+  [
+   "连接器",
+   "connector",
+   "硬件"
+  ],
+  [
+   "迷你主机",
+   "mini PC",
+   "硬件"
+  ],
+  [
+   "适配器",
+   "adapter",
+   "硬件"
+  ],
+  [
+   "锂电池",
+   "lithium battery",
+   "硬件"
+  ],
+  [
+   "键盘",
+   "keyboard",
+   "硬件"
+  ],
+  [
+   "防火墙设备",
+   "firewall appliance",
+   "硬件"
+  ],
+  [
+   "防静电",
+   "ESD|electrostatic discharge",
+   "硬件"
+  ],
+  [
+   "集成显卡",
+   "integrated graphics",
+   "硬件"
+  ],
+  [
+   "集成电路",
+   "integrated circuit|IC",
+   "硬件"
+  ],
+  [
+   "雷电接口",
+   "Thunderbolt",
+   "硬件"
+  ],
+  [
+   "面板",
+   "panel",
+   "硬件"
+  ],
+  [
+   "音频接口",
+   "audio jack",
+   "硬件"
+  ],
+  [
+   "频率",
+   "frequency",
+   "硬件"
+  ],
+  [
+   "额定功率",
+   "rated power",
+   "硬件"
+  ],
+  [
+   "风扇",
+   "fan",
+   "硬件"
+  ],
+  [
+   "麦克风",
+   "microphone",
+   "硬件"
+  ],
+  [
+   "鼠标",
+   "mouse",
+   "硬件"
+  ],
+  [
+   "OEKO-TEX认证",
+   "OEKO-TEX certification",
+   "纺织服装"
+  ],
+  [
+   "T恤",
+   "T-shirt",
+   "纺织服装"
+  ],
+  [
+   "丝绸",
+   "silk",
+   "纺织服装"
+  ],
+  [
+   "克重",
+   "GSM|grams per square meter|grammage",
+   "纺织服装"
+  ],
+  [
+   "印染",
+   "dyeing and printing",
+   "纺织服装"
+  ],
+  [
+   "印花",
+   "printing",
+   "纺织服装"
+  ],
+  [
+   "可持续时尚",
+   "sustainable fashion",
+   "纺织服装"
+  ],
+  [
+   "吊牌",
+   "hang tag",
+   "纺织服装"
+  ],
+  [
+   "外套",
+   "coat|jacket",
+   "纺织服装"
+  ],
+  [
+   "女装",
+   "women's wear",
+   "纺织服装"
+  ],
+  [
+   "尺码",
+   "size",
+   "纺织服装"
+  ],
+  [
+   "尼龙",
+   "nylon",
+   "纺织服装"
+  ],
+  [
+   "布料",
+   "fabric|cloth",
+   "纺织服装"
+  ],
+  [
+   "快时尚",
+   "fast fashion",
+   "纺织服装"
+  ],
+  [
+   "成衣",
+   "ready-made garment",
+   "纺织服装"
+  ],
+  [
+   "拉链",
+   "zipper",
+   "纺织服装"
+  ],
+  [
+   "整理",
+   "finishing",
+   "纺织服装"
+  ],
+  [
+   "服装",
+   "garment|clothing|apparel",
+   "纺织服装"
+  ],
+  [
+   "染色",
+   "dyeing",
+   "纺织服装"
+  ],
+  [
+   "样衣",
+   "sample garment",
+   "纺织服装"
+  ],
+  [
+   "棉",
+   "cotton",
+   "纺织服装"
+  ],
+  [
+   "毛衣",
+   "sweater",
+   "纺织服装"
+  ],
+  [
+   "氨纶",
+   "spandex|elastane",
+   "纺织服装"
+  ],
+  [
+   "水洗标",
+   "wash label|care label",
+   "纺织服装"
+  ],
+  [
+   "涤纶",
+   "polyester",
+   "纺织服装"
+  ],
+  [
+   "漂白",
+   "bleaching",
+   "纺织服装"
+  ],
+  [
+   "版型",
+   "pattern",
+   "纺织服装"
+  ],
+  [
+   "环保染料",
+   "eco-friendly dye",
+   "纺织服装"
+  ],
+  [
+   "男装",
+   "men's wear",
+   "纺织服装"
+  ],
+  [
+   "童装",
+   "children's wear",
+   "纺织服装"
+  ],
+  [
+   "纱支",
+   "yarn count",
+   "纺织服装"
+  ],
+  [
+   "纱线",
+   "yarn",
+   "纺织服装"
+  ],
+  [
+   "纺织",
+   "textile",
+   "纺织服装"
+  ],
+  [
+   "纺织品检测",
+   "textile testing",
+   "纺织服装"
+  ],
+  [
+   "纽扣",
+   "button",
+   "纺织服装"
+  ],
+  [
+   "织造",
+   "weaving",
+   "纺织服装"
+  ],
+  [
+   "织造密度",
+   "fabric density",
+   "纺织服装"
+  ],
+  [
+   "缝纫",
+   "sewing",
+   "纺织服装"
+  ],
+  [
+   "缩水率",
+   "shrinkage rate",
+   "纺织服装"
+  ],
+  [
+   "羊毛",
+   "wool",
+   "纺织服装"
+  ],
+  [
+   "羽绒服",
+   "down jacket",
+   "纺织服装"
+  ],
+  [
+   "腈纶",
+   "acrylic",
+   "纺织服装"
+  ],
+  [
+   "色卡",
+   "color card|swatch",
+   "纺织服装"
+  ],
+  [
+   "色牢度",
+   "color fastness",
+   "纺织服装"
+  ],
+  [
+   "衬衫",
+   "shirt",
+   "纺织服装"
+  ],
+  [
+   "裁剪",
+   "cutting",
+   "纺织服装"
+  ],
+  [
+   "裙子",
+   "skirt|dress",
+   "纺织服装"
+  ],
+  [
+   "裤子",
+   "trousers|pants",
+   "纺织服装"
+  ],
+  [
+   "针织",
+   "knitting",
+   "纺织服装"
+  ],
+  [
+   "门幅",
+   "fabric width",
+   "纺织服装"
+  ],
+  [
+   "面料",
+   "fabric",
+   "纺织服装"
+  ],
+  [
+   "验货",
+   "inspection",
+   "纺织服装"
+  ],
+  [
+   "麻",
+   "linen|hemp",
+   "纺织服装"
+  ],
+  [
+   "3G",
+   "3G",
+   "网络"
+  ],
+  [
+   "4G",
+   "4G|LTE",
+   "网络"
+  ],
+  [
+   "4G LTE",
+   "4G LTE",
+   "网络"
+  ],
+  [
+   "5G",
+   "5G",
+   "网络"
+  ],
+  [
+   "CDN",
+   "CDN|content delivery network",
+   "网络"
+  ],
+  [
+   "CoAP",
+   "CoAP",
+   "网络"
+  ],
+  [
+   "DDoS攻击",
+   "DDoS attack",
+   "网络"
+  ],
+  [
+   "DHCP",
+   "DHCP",
+   "网络"
+  ],
+  [
+   "DNS",
+   "DNS|domain name system",
+   "网络"
+  ],
+  [
+   "DNS服务器",
+   "DNS server",
+   "网络"
+  ],
+  [
+   "FTP",
+   "FTP|file transfer protocol",
+   "网络"
+  ],
+  [
+   "HTTP",
+   "HTTP|hypertext transfer protocol",
+   "网络"
+  ],
+  [
+   "HTTPS",
+   "HTTPS",
+   "网络"
+  ],
+  [
+   "IMAP",
+   "IMAP",
+   "网络"
+  ],
+  [
+   "IPv4",
+   "IPv4",
+   "网络"
+  ],
+  [
+   "IPv6",
+   "IPv6",
+   "网络"
+  ],
+  [
+   "IP地址",
+   "IP address",
+   "网络"
+  ],
+  [
+   "LoRa",
+   "LoRa",
+   "网络"
+  ],
+  [
+   "MAC地址",
+   "MAC address",
+   "网络"
+  ],
+  [
+   "MQTT",
+   "MQTT",
+   "网络"
+  ],
+  [
+   "NAT",
+   "NAT|network address translation",
+   "网络"
+  ],
+  [
+   "NB-IoT",
+   "NB-IoT",
+   "网络"
+  ],
+  [
+   "OSI模型",
+   "OSI model",
+   "网络"
+  ],
+  [
+   "POP3",
+   "POP3",
+   "网络"
+  ],
+  [
+   "QoS",
+   "QoS|quality of service",
+   "网络"
+  ],
+  [
+   "SMTP",
+   "SMTP|simple mail transfer protocol",
+   "网络"
+  ],
+  [
+   "SSL",
+   "SSL|secure sockets layer",
+   "网络"
+  ],
+  [
+   "TCP",
+   "TCP|transmission control protocol",
+   "网络"
+  ],
+  [
+   "TCP/IP协议",
+   "TCP/IP",
+   "网络"
+  ],
+  [
+   "TLS",
+   "TLS|transport layer security",
+   "网络"
+  ],
+  [
+   "UDP",
+   "UDP|user datagram protocol",
+   "网络"
+  ],
+  [
+   "URL",
+   "URL|uniform resource locator",
+   "网络"
+  ],
+  [
+   "VLAN",
+   "VLAN|virtual LAN",
+   "网络"
+  ],
+  [
+   "VPN",
+   "VPN|virtual private network",
+   "网络"
+  ],
+  [
+   "WebSocket",
+   "WebSocket",
+   "网络"
+  ],
+  [
+   "Web服务器",
+   "web server",
+   "网络"
+  ],
+  [
+   "Wi-Fi",
+   "Wi-Fi|wireless fidelity|WiFi",
+   "网络"
+  ],
+  [
+   "Zigbee",
+   "Zigbee",
+   "网络"
+  ],
+  [
+   "万维网",
+   "World Wide Web|WWW",
+   "网络"
+  ],
+  [
+   "三层交换机",
+   "layer 3 switch",
+   "网络"
+  ],
+  [
+   "丢包",
+   "packet loss",
+   "网络"
+  ],
+  [
+   "丢包率",
+   "packet loss rate",
+   "网络"
+  ],
+  [
+   "个人局域网",
+   "PAN|personal area network",
+   "网络"
+  ],
+  [
+   "中继器",
+   "repeater",
+   "网络"
+  ],
+  [
+   "主机托管",
+   "hosting|colocation",
+   "网络"
+  ],
+  [
+   "云服务器",
+   "cloud server",
+   "网络"
+  ],
+  [
+   "云联网",
+   "cloud connectivity",
+   "网络"
+  ],
+  [
+   "互联网",
+   "Internet",
+   "网络"
+  ],
+  [
+   "互联网控制报文协议",
+   "ICMP",
+   "网络"
+  ],
+  [
+   "互联网邮件访问协议",
+   "IMAP",
+   "网络"
+  ],
+  [
+   "交换机",
+   "switch",
+   "网络"
+  ],
+  [
+   "代理",
+   "proxy",
+   "网络"
+  ],
+  [
+   "代理服务器",
+   "proxy server",
+   "网络"
+  ],
+  [
+   "以太网",
+   "Ethernet",
+   "网络"
+  ],
+  [
+   "会话发起协议",
+   "SIP",
+   "网络"
+  ],
+  [
+   "传输层",
+   "transport layer",
+   "网络"
+  ],
+  [
+   "传输控制协议",
+   "TCP",
+   "网络"
+  ],
+  [
+   "信号强度",
+   "signal strength",
+   "网络"
+  ],
+  [
+   "信噪比",
+   "SNR|signal-to-noise ratio",
+   "网络"
+  ],
+  [
+   "信道",
+   "channel",
+   "网络"
+  ],
+  [
+   "光收发器",
+   "optical transceiver",
+   "网络"
+  ],
+  [
+   "光模块",
+   "optical module",
+   "网络"
+  ],
+  [
+   "光猫",
+   "optical modem|ONU",
+   "网络"
+  ],
+  [
+   "光纤通信",
+   "optical fiber communication",
+   "网络"
+  ],
+  [
+   "光缆",
+   "fiber optic cable",
+   "网络"
+  ],
+  [
+   "入侵检测",
+   "intrusion detection",
+   "网络"
+  ],
+  [
+   "入侵检测系统",
+   "IDS",
+   "网络"
+  ],
+  [
+   "入侵防御",
+   "intrusion prevention",
+   "网络"
+  ],
+  [
+   "入侵防御系统",
+   "IPS",
+   "网络"
+  ],
+  [
+   "公钥",
+   "public key",
+   "网络"
+  ],
+  [
+   "内容分发网络",
+   "CDN|content delivery network",
+   "网络"
+  ],
+  [
+   "内网",
+   "intranet",
+   "网络"
+  ],
+  [
+   "内联网",
+   "intranet",
+   "网络"
+  ],
+  [
+   "分布式拒绝服务攻击",
+   "DDoS attack",
+   "网络"
+  ],
+  [
+   "动态主机配置协议",
+   "DHCP",
+   "网络"
+  ],
+  [
+   "协议分析",
+   "protocol analysis",
+   "网络"
+  ],
+  [
+   "卫星通信",
+   "satellite communication",
+   "网络"
+  ],
+  [
+   "双绞线",
+   "twisted pair",
+   "网络"
+  ],
+  [
+   "同轴电缆",
+   "coaxial cable",
+   "网络"
+  ],
+  [
+   "吞吐量",
+   "throughput",
+   "网络"
+  ],
+  [
+   "哈希",
+   "hash",
+   "网络"
+  ],
+  [
+   "因特网",
+   "Internet",
+   "网络"
+  ],
+  [
+   "地址解析协议",
+   "ARP",
+   "网络"
+  ],
+  [
+   "城域网",
+   "MAN|metropolitan area network",
+   "网络"
+  ],
+  [
+   "域名",
+   "domain name",
+   "网络"
+  ],
+  [
+   "域名系统",
+   "DNS",
+   "网络"
+  ],
+  [
+   "域名解析",
+   "domain name resolution",
+   "网络"
+  ],
+  [
+   "基站",
+   "base station",
+   "网络"
+  ],
+  [
+   "复用",
+   "multiplexing",
+   "网络"
+  ],
+  [
+   "外网",
+   "extranet",
+   "网络"
+  ],
+  [
+   "外联网",
+   "extranet",
+   "网络"
+  ],
+  [
+   "多协议标签交换",
+   "MPLS",
+   "网络"
+  ],
+  [
+   "子网掩码",
+   "subnet mask",
+   "网络"
+  ],
+  [
+   "字节",
+   "byte",
+   "网络"
+  ],
+  [
+   "安全外壳协议",
+   "SSH",
+   "网络"
+  ],
+  [
+   "安全超文本传输协议",
+   "HTTPS",
+   "网络"
+  ],
+  [
+   "实时传输协议",
+   "RTP",
+   "网络"
+  ],
+  [
+   "宽带",
+   "broadband",
+   "网络"
+  ],
+  [
+   "局域网",
+   "LAN|local area network",
+   "网络"
+  ],
+  [
+   "带宽管理",
+   "bandwidth management",
+   "网络"
+  ],
+  [
+   "广域网",
+   "WAN|wide area network",
+   "网络"
+  ],
+  [
+   "应用层",
+   "application layer",
+   "网络"
+  ],
+  [
+   "延迟",
+   "latency|delay",
+   "网络"
+  ],
+  [
+   "开放最短路径优先",
+   "OSPF",
+   "网络"
+  ],
+  [
+   "往返时间",
+   "RTT|round-trip time",
+   "网络"
+  ],
+  [
+   "总线拓扑",
+   "bus topology",
+   "网络"
+  ],
+  [
+   "恶意软件",
+   "malware",
+   "网络"
+  ],
+  [
+   "抓包",
+   "packet capture",
+   "网络"
+  ],
+  [
+   "抖动",
+   "jitter",
+   "网络"
+  ],
+  [
+   "报文",
+   "message",
+   "网络"
+  ],
+  [
+   "拓扑",
+   "topology",
+   "网络"
+  ],
+  [
+   "拨号",
+   "dial-up",
+   "网络"
+  ],
+  [
+   "数字证书",
+   "digital certificate",
+   "网络"
+  ],
+  [
+   "数据包",
+   "packet",
+   "网络"
+  ],
+  [
+   "数据帧",
+   "frame",
+   "网络"
+  ],
+  [
+   "数据段",
+   "segment",
+   "网络"
+  ],
+  [
+   "数据链路层",
+   "data link layer",
+   "网络"
+  ],
+  [
+   "文件传输协议",
+   "FTP",
+   "网络"
+  ],
+  [
+   "无源光网络",
+   "PON|passive optical network",
+   "网络"
+  ],
+  [
+   "无线信号",
+   "wireless signal",
+   "网络"
+  ],
+  [
+   "无线接入点",
+   "access point|AP",
+   "网络"
+  ],
+  [
+   "无线控制器",
+   "wireless controller",
+   "网络"
+  ],
+  [
+   "无线路由",
+   "wireless router",
+   "网络"
+  ],
+  [
+   "星型拓扑",
+   "star topology",
+   "网络"
+  ],
+  [
+   "木马",
+   "Trojan horse",
+   "网络"
+  ],
+  [
+   "核心网",
+   "core network",
+   "网络"
+  ],
+  [
+   "比特",
+   "bit",
+   "网络"
+  ],
+  [
+   "水晶头",
+   "RJ45 connector",
+   "网络"
+  ],
+  [
+   "波分复用",
+   "WDM|wavelength division multiplexing",
+   "网络"
+  ],
+  [
+   "流量分析",
+   "traffic analysis",
+   "网络"
+  ],
+  [
+   "浏览器",
+   "browser",
+   "网络"
+  ],
+  [
+   "漫游",
+   "roaming",
+   "网络"
+  ],
+  [
+   "热点",
+   "hotspot",
+   "网络"
+  ],
+  [
+   "物理层",
+   "physical layer",
+   "网络"
+  ],
+  [
+   "物联网",
+   "IoT|Internet of Things",
+   "网络"
+  ],
+  [
+   "环型拓扑",
+   "ring topology",
+   "网络"
+  ],
+  [
+   "生成树协议",
+   "STP|spanning tree protocol",
+   "网络"
+  ],
+  [
+   "用户数据报协议",
+   "UDP",
+   "网络"
+  ],
+  [
+   "病毒",
+   "virus",
+   "网络"
+  ],
+  [
+   "私钥",
+   "private key",
+   "网络"
+  ],
+  [
+   "移动网络",
+   "mobile network",
+   "网络"
+  ],
+  [
+   "端口",
+   "port",
+   "网络"
+  ],
+  [
+   "端口号",
+   "port number",
+   "网络"
+  ],
+  [
+   "简单网络管理协议",
+   "SNMP",
+   "网络"
+  ],
+  [
+   "简单邮件传输协议",
+   "SMTP",
+   "网络"
+  ],
+  [
+   "缓存服务器",
+   "cache server",
+   "网络"
+  ],
+  [
+   "编码",
+   "encoding",
+   "网络"
+  ],
+  [
+   "网关",
+   "gateway",
+   "网络"
+  ],
+  [
+   "网桥",
+   "bridge",
+   "网络"
+  ],
+  [
+   "网状拓扑",
+   "mesh topology",
+   "网络"
+  ],
+  [
+   "网站",
+   "website",
+   "网络"
+  ],
+  [
+   "网络优化",
+   "network optimization",
+   "网络"
+  ],
+  [
+   "网络冗余",
+   "network redundancy",
+   "网络"
+  ],
+  [
+   "网络切片",
+   "network slicing",
+   "网络"
+  ],
+  [
+   "网络功能虚拟化",
+   "NFV|network functions virtualization",
+   "网络"
+  ],
+  [
+   "网络协议",
+   "network protocol",
+   "网络"
+  ],
+  [
+   "网络地址转换",
+   "NAT",
+   "网络"
+  ],
+  [
+   "网络层",
+   "network layer",
+   "网络"
+  ],
+  [
+   "网络拓扑",
+   "network topology",
+   "网络"
+  ],
+  [
+   "网络攻击",
+   "network attack",
+   "网络"
+  ],
+  [
+   "网络监控",
+   "network monitoring",
+   "网络"
+  ],
+  [
+   "网络设备",
+   "network device",
+   "网络"
+  ],
+  [
+   "网络访问控制",
+   "NAC",
+   "网络"
+  ],
+  [
+   "网络隔离",
+   "network segmentation",
+   "网络"
+  ],
+  [
+   "网际协议",
+   "IP",
+   "网络"
+  ],
+  [
+   "网页",
+   "web page",
+   "网络"
+  ],
+  [
+   "蓝牙",
+   "Bluetooth",
+   "网络"
+  ],
+  [
+   "虚拟专用网",
+   "VPN",
+   "网络"
+  ],
+  [
+   "蜂窝网络",
+   "cellular network",
+   "网络"
+  ],
+  [
+   "解密",
+   "decryption",
+   "网络"
+  ],
+  [
+   "解调",
+   "demodulation",
+   "网络"
+  ],
+  [
+   "计算机网络",
+   "computer network",
+   "网络"
+  ],
+  [
+   "访问控制",
+   "access control",
+   "网络"
+  ],
+  [
+   "调制",
+   "modulation",
+   "网络"
+  ],
+  [
+   "调制解调器",
+   "modem",
+   "网络"
+  ],
+  [
+   "负载均衡",
+   "load balancing",
+   "网络"
+  ],
+  [
+   "超文本传输协议",
+   "HTTP",
+   "网络"
+  ],
+  [
+   "路由",
+   "routing",
+   "网络"
+  ],
+  [
+   "路由信息协议",
+   "RIP",
+   "网络"
+  ],
+  [
+   "路由器",
+   "router",
+   "网络"
+  ],
+  [
+   "身份验证",
+   "authentication",
+   "网络"
+  ],
+  [
+   "车联网",
+   "V2X|vehicle-to-everything",
+   "网络"
+  ],
+  [
+   "软件定义网络",
+   "SDN|software-defined networking",
+   "网络"
+  ],
+  [
+   "轻量级目录访问协议",
+   "LDAP",
+   "网络"
+  ],
+  [
+   "边界网关协议",
+   "BGP",
+   "网络"
+  ],
+  [
+   "边缘计算",
+   "edge computing",
+   "网络"
+  ],
+  [
+   "远程登录",
+   "Telnet",
+   "网络"
+  ],
+  [
+   "邮件服务器",
+   "mail server",
+   "网络"
+  ],
+  [
+   "邮局协议",
+   "POP3",
+   "网络"
+  ],
+  [
+   "钓鱼",
+   "phishing",
+   "网络"
+  ],
+  [
+   "链路聚合",
+   "link aggregation",
+   "网络"
+  ],
+  [
+   "集线器",
+   "hub",
+   "网络"
+  ],
+  [
+   "零信任",
+   "zero trust",
+   "网络"
+  ],
+  [
+   "黑客攻击",
+   "hacker attack",
+   "网络"
+  ],
+  [
+   "默认网关",
+   "default gateway",
+   "网络"
+  ],
+  [
+   "主题",
+   "subject",
+   "职场沟通"
+  ],
+  [
+   "出差",
+   "business trip",
+   "职场沟通"
+  ],
+  [
+   "商祺",
+   "Best regards",
+   "职场沟通"
+  ],
+  [
+   "回复",
+   "reply",
+   "职场沟通"
+  ],
+  [
+   "批准",
+   "approve",
+   "职场沟通"
+  ],
+  [
+   "抄送",
+   "CC|carbon copy",
+   "职场沟通"
+  ],
+  [
+   "报销",
+   "expense reimbursement|reimbursement",
+   "职场沟通"
+  ],
+  [
+   "收件人",
+   "recipient",
+   "职场沟通"
+  ],
+  [
+   "敬启者",
+   "Dear Sir|Madam",
+   "职场沟通"
+  ],
+  [
+   "日程",
+   "schedule|agenda",
+   "职场沟通"
+  ],
+  [
+   "此致",
+   "Sincerely|Yours truly",
+   "职场沟通"
+  ],
+  [
+   "确认",
+   "confirm",
+   "职场沟通"
+  ],
+  [
+   "行程",
+   "itinerary",
+   "职场沟通"
+  ],
+  [
+   "请假",
+   "leave of absence",
+   "职场沟通"
+  ],
+  [
+   "跟进",
+   "follow up",
+   "职场沟通"
+  ],
+  [
+   "转发",
+   "forward",
+   "职场沟通"
+  ],
+  [
+   "邮件",
+   "email",
+   "职场沟通"
+  ],
+  [
+   "附件",
+   "attachment",
+   "职场沟通"
+  ],
+  [
+   "5Why分析",
+   "5 Why analysis",
+   "质量管理"
+  ],
+  [
+   "8D报告",
+   "8D report",
+   "质量管理"
+  ],
+  [
+   "CPK",
+   "Cpk|process capability index",
+   "质量管理"
+  ],
+  [
+   "DMAIC",
+   "DMAIC",
+   "质量管理"
+  ],
+  [
+   "FMEA",
+   "FMEA|failure mode and effects analysis",
+   "质量管理"
+  ],
+  [
+   "GR&R",
+   "GR&R|gauge repeatability and reproducibility",
+   "质量管理"
+  ],
+  [
+   "ISO14001",
+   "ISO 14001",
+   "质量管理"
+  ],
+  [
+   "ISO9001",
+   "ISO 9001",
+   "质量管理"
+  ],
+  [
+   "MSA",
+   "MSA|measurement system analysis",
+   "质量管理"
+  ],
+  [
+   "SPC",
+   "SPC|statistical process control",
+   "质量管理"
+  ],
+  [
+   "不合格",
+   "unqualified|rejected",
+   "质量管理"
+  ],
+  [
+   "不合格品控制",
+   "nonconforming product control",
+   "质量管理"
+  ],
+  [
+   "严重度",
+   "severity",
+   "质量管理"
+  ],
+  [
+   "体系审核",
+   "system audit",
+   "质量管理"
+  ],
+  [
+   "体系认证",
+   "system certification",
+   "质量管理"
+  ],
+  [
+   "作业指导书",
+   "work instruction|WI",
+   "质量管理"
+  ],
+  [
+   "保质期",
+   "shelf life",
+   "质量管理"
+  ],
+  [
+   "全检",
+   "full inspection",
+   "质量管理"
+  ],
+  [
+   "内部失效成本",
+   "internal failure cost",
+   "质量管理"
+  ],
+  [
+   "加速老化测试",
+   "accelerated aging test",
+   "质量管理"
+  ],
+  [
+   "发生度",
+   "occurrence",
+   "质量管理"
+  ],
+  [
+   "可追溯性",
+   "traceability",
+   "质量管理"
+  ],
+  [
+   "可靠性",
+   "reliability",
+   "质量管理"
+  ],
+  [
+   "合格",
+   "qualified|accepted",
+   "质量管理"
+  ],
+  [
+   "因果分析",
+   "cause-and-effect analysis",
+   "质量管理"
+  ],
+  [
+   "外部失效成本",
+   "external failure cost",
+   "质量管理"
+  ],
+  [
+   "失效模式",
+   "failure mode",
+   "质量管理"
+  ],
+  [
+   "客户投诉",
+   "customer complaint",
+   "质量管理"
+  ],
+  [
+   "寿命测试",
+   "life test",
+   "质量管理"
+  ],
+  [
+   "巡检",
+   "patrol inspection",
+   "质量管理"
+  ],
+  [
+   "帕累托图",
+   "Pareto chart",
+   "质量管理"
+  ],
+  [
+   "成品检验",
+   "outgoing quality control|OQC|final inspection",
+   "质量管理"
+  ],
+  [
+   "批号",
+   "batch number|lot number",
+   "质量管理"
+  ],
+  [
+   "批次",
+   "batch|lot",
+   "质量管理"
+  ],
+  [
+   "投诉处理",
+   "complaint handling",
+   "质量管理"
+  ],
+  [
+   "报废",
+   "scrap",
+   "质量管理"
+  ],
+  [
+   "抽样方案",
+   "sampling plan",
+   "质量管理"
+  ],
+  [
+   "抽检",
+   "sampling inspection",
+   "质量管理"
+  ],
+  [
+   "持续改进",
+   "continuous improvement",
+   "质量管理"
+  ],
+  [
+   "探测度",
+   "detection",
+   "质量管理"
+  ],
+  [
+   "控制图",
+   "control chart",
+   "质量管理"
+  ],
+  [
+   "散点图",
+   "scatter diagram",
+   "质量管理"
+  ],
+  [
+   "来料检验",
+   "incoming quality control|IQC",
+   "质量管理"
+  ],
+  [
+   "校准",
+   "calibration",
+   "质量管理"
+  ],
+  [
+   "检定",
+   "verification",
+   "质量管理"
+  ],
+  [
+   "检验",
+   "inspection",
+   "质量管理"
+  ],
+  [
+   "测量不确定度",
+   "measurement uncertainty",
+   "质量管理"
+  ],
+  [
+   "直方图",
+   "histogram",
+   "质量管理"
+  ],
+  [
+   "程序文件",
+   "procedure document",
+   "质量管理"
+  ],
+  [
+   "管理评审",
+   "management review",
+   "质量管理"
+  ],
+  [
+   "精益六西格玛",
+   "Lean Six Sigma",
+   "质量管理"
+  ],
+  [
+   "纠正措施",
+   "corrective action|CAPA",
+   "质量管理"
+  ],
+  [
+   "计量",
+   "metrology",
+   "质量管理"
+  ],
+  [
+   "质量事故",
+   "quality incident",
+   "质量管理"
+  ],
+  [
+   "质量体系",
+   "quality system",
+   "质量管理"
+  ],
+  [
+   "质量保证",
+   "quality assurance|QA",
+   "质量管理"
+  ],
+  [
+   "质量审核",
+   "quality audit",
+   "质量管理"
+  ],
+  [
+   "质量成本",
+   "cost of quality",
+   "质量管理"
+  ],
+  [
+   "质量手册",
+   "quality manual",
+   "质量管理"
+  ],
+  [
+   "质量方针",
+   "quality policy",
+   "质量管理"
+  ],
+  [
+   "质量标准",
+   "quality standard",
+   "质量管理"
+  ],
+  [
+   "质量目标",
+   "quality objective",
+   "质量管理"
+  ],
+  [
+   "质量管理体系",
+   "quality management system|QMS",
+   "质量管理"
+  ],
+  [
+   "质量追溯",
+   "quality traceability",
+   "质量管理"
+  ],
+  [
+   "过程审核",
+   "process audit",
+   "质量管理"
+  ],
+  [
+   "过程检验",
+   "in-process quality control|IPQC",
+   "质量管理"
+  ],
+  [
+   "过程能力",
+   "process capability",
+   "质量管理"
+  ],
+  [
+   "返修",
+   "repair",
+   "质量管理"
+  ],
+  [
+   "返工",
+   "rework",
+   "质量管理"
+  ],
+  [
+   "鉴定成本",
+   "appraisal cost",
+   "质量管理"
+  ],
+  [
+   "预防成本",
+   "prevention cost",
+   "质量管理"
+  ],
+  [
+   "预防措施",
+   "preventive action",
+   "质量管理"
+  ],
+  [
+   "风险优先数",
+   "RPN|risk priority number",
+   "质量管理"
+  ],
+  [
+   "首件检验",
+   "first article inspection|FAI",
+   "质量管理"
+  ],
+  [
+   "鱼骨图",
+   "fishbone diagram",
+   "质量管理"
+  ],
+  [
+   "专利",
+   "patent",
+   "贸易进出口"
+  ],
+  [
+   "交货",
+   "delivery",
+   "贸易进出口"
+  ],
+  [
+   "交货期",
+   "delivery time|lead time",
+   "贸易进出口"
+  ],
+  [
+   "仓库",
+   "warehouse|repository",
+   "贸易进出口"
+  ],
+  [
+   "付款方式",
+   "payment terms",
+   "贸易进出口"
+  ],
+  [
+   "保税",
+   "bonded",
+   "贸易进出口"
+  ],
+  [
+   "信用证",
+   "letter of credit|LC|L/C",
+   "贸易进出口"
+  ],
+  [
+   "倾销",
+   "dumping",
+   "贸易进出口"
+  ],
+  [
+   "关税",
+   "tariff|customs duty",
+   "贸易进出口"
+  ],
+  [
+   "出口",
+   "export",
+   "贸易进出口"
+  ],
+  [
+   "分批装运",
+   "partial shipment",
+   "贸易进出口"
+  ],
+  [
+   "即期信用证",
+   "sight letter of credit|sight L/C",
+   "贸易进出口"
+  ],
+  [
+   "原产地",
+   "origin",
+   "贸易进出口"
+  ],
+  [
+   "原产地证书",
+   "certificate of origin",
+   "贸易进出口"
+  ],
+  [
+   "反倾销",
+   "anti-dumping",
+   "贸易进出口"
+  ],
+  [
+   "商标",
+   "trademark",
+   "贸易进出口"
+  ],
+  [
+   "托收",
+   "collection",
+   "贸易进出口"
+  ],
+  [
+   "报关",
+   "customs declaration",
+   "贸易进出口"
+  ],
+  [
+   "提单",
+   "bill of lading|B/L",
+   "贸易进出口"
+  ],
+  [
+   "汇款",
+   "remittance",
+   "贸易进出口"
+  ],
+  [
+   "汇票",
+   "bill of exchange|draft",
+   "贸易进出口"
+  ],
+  [
+   "海关",
+   "customs",
+   "贸易进出口"
+  ],
+  [
+   "清关",
+   "customs clearance",
+   "贸易进出口"
+  ],
+  [
+   "港口",
+   "port",
+   "贸易进出口"
+  ],
+  [
+   "版权",
+   "copyright",
+   "贸易进出口"
+  ],
+  [
+   "知识产权",
+   "intellectual property|IP",
+   "贸易进出口"
+  ],
+  [
+   "自贸区",
+   "free trade zone",
+   "贸易进出口"
+  ],
+  [
+   "补贴",
+   "subsidy",
+   "贸易进出口"
+  ],
+  [
+   "装箱单",
+   "packing list",
+   "贸易进出口"
+  ],
+  [
+   "装运",
+   "shipment",
+   "贸易进出口"
+  ],
+  [
+   "装运期",
+   "shipment period",
+   "贸易进出口"
+  ],
+  [
+   "货到付款",
+   "cash on delivery|COD",
+   "贸易进出口"
+  ],
+  [
+   "货运",
+   "freight|shipping",
+   "贸易进出口"
+  ],
+  [
+   "贸易",
+   "trade",
+   "贸易进出口"
+  ],
+  [
+   "贸易壁垒",
+   "trade barrier",
+   "贸易进出口"
+  ],
+  [
+   "贸易逆差",
+   "trade deficit",
+   "贸易进出口"
+  ],
+  [
+   "贸易顺差",
+   "trade surplus",
+   "贸易进出口"
+  ],
+  [
+   "转运",
+   "transshipment",
+   "贸易进出口"
+  ],
+  [
+   "运费",
+   "freight charges|freight",
+   "贸易进出口"
+  ],
+  [
+   "进出口",
+   "import and export",
+   "贸易进出口"
+  ],
+  [
+   "进口",
+   "import",
+   "贸易进出口"
+  ],
+  [
+   "远期信用证",
+   "usance letter of credit|usance L/C|time L",
+   "贸易进出口"
+  ],
+  [
+   "预付货款",
+   "payment in advance",
+   "贸易进出口"
+  ],
+  [
+   "API接口",
+   "API|interface",
+   "软件"
+  ],
+  [
+   "GraphQL",
+   "GraphQL",
+   "软件"
+  ],
+  [
+   "IaaS",
+   "IaaS|infrastructure as a service",
+   "软件"
+  ],
+  [
+   "PaaS",
+   "PaaS|platform as a service",
+   "软件"
+  ],
+  [
+   "RESTful API",
+   "RESTful API",
+   "软件"
+  ],
+  [
+   "SDK",
+   "SDK|software development kit",
+   "软件"
+  ],
+  [
+   "SaaS",
+   "SaaS|software as a service",
+   "软件"
+  ],
+  [
+   "beta版",
+   "beta version",
+   "软件"
+  ],
+  [
+   "上线",
+   "go live|launch",
+   "软件"
+  ],
+  [
+   "专业版",
+   "professional version|pro",
+   "软件"
+  ],
+  [
+   "严重级别",
+   "severity",
+   "软件"
+  ],
+  [
+   "中间件",
+   "middleware",
+   "软件"
+  ],
+  [
+   "主键",
+   "primary key",
+   "软件"
+  ],
+  [
+   "事务",
+   "transaction",
+   "软件"
+  ],
+  [
+   "代码",
+   "code",
+   "软件"
+  ],
+  [
+   "代码仓库",
+   "code repository",
+   "软件"
+  ],
+  [
+   "代码审查",
+   "code review",
+   "软件"
+  ],
+  [
+   "代码编辑器",
+   "code editor",
+   "软件"
+  ],
+  [
+   "企业版",
+   "enterprise version",
+   "软件"
+  ],
+  [
+   "优先级",
+   "priority",
+   "软件"
+  ],
+  [
+   "免费版",
+   "free version",
+   "软件"
+  ],
+  [
+   "全栈",
+   "full stack",
+   "软件"
+  ],
+  [
+   "关系型数据库",
+   "relational database",
+   "软件"
+  ],
+  [
+   "兼容性",
+   "compatibility",
+   "软件"
+  ],
+  [
+   "内存泄漏",
+   "memory leak",
+   "软件"
+  ],
+  [
+   "内存管理",
+   "memory management",
+   "软件"
+  ],
+  [
+   "内核",
+   "kernel",
+   "软件"
+  ],
+  [
+   "冲突",
+   "conflict",
+   "软件"
+  ],
+  [
+   "函数",
+   "function",
+   "软件"
+  ],
+  [
+   "函数即服务",
+   "FaaS|serverless",
+   "软件"
+  ],
+  [
+   "函数库",
+   "function library",
+   "软件"
+  ],
+  [
+   "分布式系统",
+   "distributed system",
+   "软件"
+  ],
+  [
+   "分支",
+   "branch",
+   "软件"
+  ],
+  [
+   "前端",
+   "frontend",
+   "软件"
+  ],
+  [
+   "单元测试",
+   "unit test|unit testing",
+   "软件"
+  ],
+  [
+   "卸载",
+   "uninstall",
+   "软件"
+  ],
+  [
+   "压力测试",
+   "stress testing",
+   "软件"
+  ],
+  [
+   "参数设置",
+   "parameter setting",
+   "软件"
+  ],
+  [
+   "发布",
+   "release",
+   "软件"
+  ],
+  [
+   "可执行文件",
+   "executable file",
+   "软件"
+  ],
+  [
+   "合并",
+   "merge",
+   "软件"
+  ],
+  [
+   "后端",
+   "backend",
+   "软件"
+  ],
+  [
+   "告警",
+   "alert",
+   "软件"
+  ],
+  [
+   "命令行",
+   "command line|CLI",
+   "软件"
+  ],
+  [
+   "响应式设计",
+   "responsive design",
+   "软件"
+  ],
+  [
+   "回归测试",
+   "regression test|regression testing",
+   "软件"
+  ],
+  [
+   "回滚",
+   "rollback",
+   "软件"
+  ],
+  [
+   "固件升级",
+   "firmware update",
+   "软件"
+  ],
+  [
+   "图形界面",
+   "graphical user interface|GUI",
+   "软件"
+  ],
+  [
+   "基础设施即服务",
+   "IaaS",
+   "软件"
+  ],
+  [
+   "复杂度",
+   "complexity",
+   "软件"
+  ],
+  [
+   "外键",
+   "foreign key",
+   "软件"
+  ],
+  [
+   "多态",
+   "polymorphism",
+   "软件"
+  ],
+  [
+   "大模型",
+   "large model|foundation model",
+   "软件"
+  ],
+  [
+   "字段",
+   "field|column",
+   "软件"
+  ],
+  [
+   "存储过程",
+   "stored procedure",
+   "软件"
+  ],
+  [
+   "安全审计",
+   "security audit",
+   "软件"
+  ],
+  [
+   "安装",
+   "installation",
+   "软件"
+  ],
+  [
+   "安装包",
+   "installation package|installer",
+   "软件"
+  ],
+  [
+   "容器",
+   "container",
+   "软件"
+  ],
+  [
+   "容器编排",
+   "container orchestration",
+   "软件"
+  ],
+  [
+   "容错",
+   "fault tolerance",
+   "软件"
+  ],
+  [
+   "对象",
+   "object",
+   "软件"
+  ],
+  [
+   "导入",
+   "import",
+   "软件"
+  ],
+  [
+   "导出",
+   "export",
+   "软件"
+  ],
+  [
+   "小程序",
+   "mini program",
+   "软件"
+  ],
+  [
+   "崩溃",
+   "crash",
+   "软件"
+  ],
+  [
+   "帮助文档",
+   "help document",
+   "软件"
+  ],
+  [
+   "平台即服务",
+   "PaaS",
+   "软件"
+  ],
+  [
+   "序列号",
+   "serial number",
+   "软件"
+  ],
+  [
+   "库",
+   "library",
+   "软件"
+  ],
+  [
+   "应用程序",
+   "application|app",
+   "软件"
+  ],
+  [
+   "应用程序接口",
+   "API|application programming interface",
+   "软件"
+  ],
+  [
+   "应用软件",
+   "application software",
+   "软件"
+  ],
+  [
+   "开源",
+   "open source",
+   "软件"
+  ],
+  [
+   "异常",
+   "exception",
+   "软件"
+  ],
+  [
+   "引导程序",
+   "bootloader",
+   "软件"
+  ],
+  [
+   "微服务",
+   "microservices",
+   "软件"
+  ],
+  [
+   "性能优化",
+   "performance optimization",
+   "软件"
+  ],
+  [
+   "性能指标",
+   "performance metric",
+   "软件"
+  ],
+  [
+   "性能测试",
+   "performance testing",
+   "软件"
+  ],
+  [
+   "扩展",
+   "extension",
+   "软件"
+  ],
+  [
+   "报错",
+   "error",
+   "软件"
+  ],
+  [
+   "抽象类",
+   "abstract class",
+   "软件"
+  ],
+  [
+   "拉取请求",
+   "pull request|PR",
+   "软件"
+  ],
+  [
+   "持续交付",
+   "CD|continuous delivery",
+   "软件"
+  ],
+  [
+   "持续部署",
+   "continuous deployment",
+   "软件"
+  ],
+  [
+   "持续集成",
+   "CI|continuous integration",
+   "软件"
+  ],
+  [
+   "排序",
+   "sorting",
+   "软件"
+  ],
+  [
+   "接口文档",
+   "API documentation",
+   "软件"
+  ],
+  [
+   "接口调用",
+   "API call",
+   "软件"
+  ],
+  [
+   "推理",
+   "inference",
+   "软件"
+  ],
+  [
+   "提交",
+   "commit",
+   "软件"
+  ],
+  [
+   "插件",
+   "plugin|add-on",
+   "软件"
+  ],
+  [
+   "操作系统",
+   "operating system|OS",
+   "软件"
+  ],
+  [
+   "敏捷开发",
+   "agile development",
+   "软件"
+  ],
+  [
+   "数字签名",
+   "digital signature",
+   "软件"
+  ],
+  [
+   "数据同步",
+   "data synchronization",
+   "软件"
+  ],
+  [
+   "数据备份",
+   "data backup",
+   "软件"
+  ],
+  [
+   "数据库连接池",
+   "connection pool",
+   "软件"
+  ],
+  [
+   "数据恢复",
+   "data recovery",
+   "软件"
+  ],
+  [
+   "数据泄露",
+   "data breach",
+   "软件"
+  ],
+  [
+   "数据结构",
+   "data structure",
+   "软件"
+  ],
+  [
+   "数据表",
+   "data table|table",
+   "软件"
+  ],
+  [
+   "数据迁移",
+   "data migration",
+   "软件"
+  ],
+  [
+   "数据集",
+   "dataset",
+   "软件"
+  ],
+  [
+   "文件系统",
+   "file system",
+   "软件"
+  ],
+  [
+   "服务网格",
+   "service mesh",
+   "软件"
+  ],
+  [
+   "杀毒软件",
+   "antivirus software",
+   "软件"
+  ],
+  [
+   "构建",
+   "build",
+   "软件"
+  ],
+  [
+   "架构设计",
+   "architecture design",
+   "软件"
+  ],
+  [
+   "查找",
+   "searching",
+   "软件"
+  ],
+  [
+   "查询",
+   "query",
+   "软件"
+  ],
+  [
+   "标签",
+   "tag|label",
+   "软件"
+  ],
+  [
+   "框架",
+   "framework",
+   "软件"
+  ],
+  [
+   "桌面应用",
+   "desktop application",
+   "软件"
+  ],
+  [
+   "概要设计",
+   "high-level design",
+   "软件"
+  ],
+  [
+   "模块",
+   "module",
+   "软件"
+  ],
+  [
+   "模型",
+   "model",
+   "软件"
+  ],
+  [
+   "测试用例",
+   "test case",
+   "软件"
+  ],
+  [
+   "消息队列",
+   "message queue",
+   "软件"
+  ],
+  [
+   "深度学习",
+   "deep learning",
+   "软件"
+  ],
+  [
+   "源代码",
+   "source code",
+   "软件"
+  ],
+  [
+   "源代码托管",
+   "source code hosting",
+   "软件"
+  ],
+  [
+   "漏洞",
+   "vulnerability",
+   "软件"
+  ],
+  [
+   "激活码",
+   "activation code",
+   "软件"
+  ],
+  [
+   "灾备",
+   "disaster recovery",
+   "软件"
+  ],
+  [
+   "热更新",
+   "hot update",
+   "软件"
+  ],
+  [
+   "版本号",
+   "version number",
+   "软件"
+  ],
+  [
+   "版本控制",
+   "version control",
+   "软件"
+  ],
+  [
+   "特征",
+   "feature",
+   "软件"
+  ],
+  [
+   "用户协议",
+   "user agreement",
+   "软件"
+  ],
+  [
+   "用户手册",
+   "user manual",
+   "软件"
+  ],
+  [
+   "目标代码",
+   "object code",
+   "软件"
+  ],
+  [
+   "神经网络",
+   "neural network",
+   "软件"
+  ],
+  [
+   "移动应用",
+   "mobile app",
+   "软件"
+  ],
+  [
+   "移动端",
+   "mobile",
+   "软件"
+  ],
+  [
+   "类",
+   "class",
+   "软件"
+  ],
+  [
+   "系统测试",
+   "system testing",
+   "软件"
+  ],
+  [
+   "系统设计",
+   "system design",
+   "软件"
+  ],
+  [
+   "系统调用",
+   "system call",
+   "软件"
+  ],
+  [
+   "系统软件",
+   "system software",
+   "软件"
+  ],
+  [
+   "索引",
+   "index",
+   "软件"
+  ],
+  [
+   "线程",
+   "thread",
+   "软件"
+  ],
+  [
+   "组件",
+   "component",
+   "软件"
+  ],
+  [
+   "结构化查询语言",
+   "SQL",
+   "软件"
+  ],
+  [
+   "继承",
+   "inheritance",
+   "软件"
+  ],
+  [
+   "缓存系统",
+   "caching system",
+   "软件"
+  ],
+  [
+   "编译",
+   "compilation|compile",
+   "软件"
+  ],
+  [
+   "编译器",
+   "compiler",
+   "软件"
+  ],
+  [
+   "缺陷",
+   "defect|bug",
+   "软件"
+  ],
+  [
+   "缺陷跟踪",
+   "bug tracking",
+   "软件"
+  ],
+  [
+   "网页应用",
+   "web application",
+   "软件"
+  ],
+  [
+   "脚本",
+   "script",
+   "软件"
+  ],
+  [
+   "自动化测试",
+   "automated testing",
+   "软件"
+  ],
+  [
+   "自然语言处理",
+   "NLP|natural language processing",
+   "软件"
+  ],
+  [
+   "虚拟内存",
+   "virtual memory",
+   "软件"
+  ],
+  [
+   "虚拟化",
+   "virtualization",
+   "软件"
+  ],
+  [
+   "虚拟机",
+   "virtual machine",
+   "软件"
+  ],
+  [
+   "补丁",
+   "patch",
+   "软件"
+  ],
+  [
+   "视图",
+   "view",
+   "软件"
+  ],
+  [
+   "解释器",
+   "interpreter",
+   "软件"
+  ],
+  [
+   "触发器",
+   "trigger",
+   "软件"
+  ],
+  [
+   "计算机视觉",
+   "computer vision",
+   "软件"
+  ],
+  [
+   "订阅",
+   "subscription",
+   "软件"
+  ],
+  [
+   "训练",
+   "training",
+   "软件"
+  ],
+  [
+   "记录",
+   "record",
+   "软件"
+  ],
+  [
+   "许可证协议",
+   "license agreement",
+   "软件"
+  ],
+  [
+   "设计文档",
+   "design document",
+   "软件"
+  ],
+  [
+   "设计模式",
+   "design pattern",
+   "软件"
+  ],
+  [
+   "证书",
+   "certificate",
+   "软件"
+  ],
+  [
+   "试用版",
+   "trial version",
+   "软件"
+  ],
+  [
+   "详细设计",
+   "detailed design",
+   "软件"
+  ],
+  [
+   "调试",
+   "debugging|debug|commissioning",
+   "软件"
+  ],
+  [
+   "调试器",
+   "debugger",
+   "软件"
+  ],
+  [
+   "跨平台",
+   "cross-platform",
+   "软件"
+  ],
+  [
+   "软件包",
+   "software package",
+   "软件"
+  ],
+  [
+   "软件即服务",
+   "SaaS",
+   "软件"
+  ],
+  [
+   "软件工程",
+   "software engineering",
+   "软件"
+  ],
+  [
+   "软件开发",
+   "software development",
+   "软件"
+  ],
+  [
+   "软件开发工具包",
+   "SDK",
+   "软件"
+  ],
+  [
+   "软件著作权",
+   "software copyright",
+   "软件"
+  ],
+  [
+   "进程",
+   "process",
+   "软件"
+  ],
+  [
+   "递归",
+   "recursion",
+   "软件"
+  ],
+  [
+   "配置文件",
+   "configuration file",
+   "软件"
+  ],
+  [
+   "钓鱼攻击",
+   "phishing",
+   "软件"
+  ],
+  [
+   "链接器",
+   "linker",
+   "软件"
+  ],
+  [
+   "链路追踪",
+   "tracing",
+   "软件"
+  ],
+  [
+   "闭源",
+   "closed source",
+   "软件"
+  ],
+  [
+   "防火墙",
+   "firewall",
+   "软件"
+  ],
+  [
+   "隐私政策",
+   "privacy policy",
+   "软件"
+  ],
+  [
+   "集成开发环境",
+   "IDE|integrated development environment",
+   "软件"
+  ],
+  [
+   "集成测试",
+   "integration test|integration testing",
+   "软件"
+  ],
+  [
+   "需求",
+   "requirement",
+   "软件"
+  ],
+  [
+   "需求分析",
+   "requirement analysis",
+   "软件"
+  ],
+  [
+   "需求文档",
+   "requirement document",
+   "软件"
+  ],
+  [
+   "非关系型数据库",
+   "NoSQL database",
+   "软件"
+  ],
+  [
+   "面向对象",
+   "object-oriented",
+   "软件"
+  ],
+  [
+   "驱动程序",
+   "driver",
+   "软件"
+  ],
+  [
+   "验收测试",
+   "acceptance testing",
+   "软件"
+  ],
+  [
+   "高可用",
+   "high availability",
+   "软件"
+  ],
+  [
+   " CEO",
+   "CEO|chief executive officer",
+   "通用商务"
+  ],
+  [
+   "业绩",
+   "performance",
+   "通用商务"
+  ],
+  [
+   "中标",
+   "win a bid|win the bid",
+   "通用商务"
+  ],
+  [
+   "仲裁",
+   "arbitration",
+   "通用商务"
+  ],
+  [
+   "价值观",
+   "values",
+   "通用商务"
+  ],
+  [
+   "价格",
+   "price",
+   "通用商务"
+  ],
+  [
+   "任务",
+   "task",
+   "通用商务"
+  ],
+  [
+   "企业",
+   "enterprise",
+   "通用商务"
+  ],
+  [
+   "会议",
+   "meeting",
+   "通用商务"
+  ],
+  [
+   "使命",
+   "mission",
+   "通用商务"
+  ],
+  [
+   "供应商",
+   "supplier",
+   "通用商务"
+  ],
+  [
+   "供应链",
+   "supply chain",
+   "通用商务"
+  ],
+  [
+   "公司",
+   "company",
+   "通用商务"
+  ],
+  [
+   "分公司",
+   "branch",
+   "通用商务"
+  ],
+  [
+   "分析",
+   "analysis",
+   "通用商务"
+  ],
+  [
+   "分销",
+   "distribution",
+   "通用商务"
+  ],
+  [
+   "利润",
+   "profit",
+   "通用商务"
+  ],
+  [
+   "协议",
+   "agreement|protocol",
+   "通用商务"
+  ],
+  [
+   "发票",
+   "invoice",
+   "通用商务"
+  ],
+  [
+   "合作伙伴",
+   "partner",
+   "通用商务"
+  ],
+  [
+   "合同",
+   "contract",
+   "通用商务"
+  ],
+  [
+   "员工",
+   "employee",
+   "通用商务"
+  ],
+  [
+   "品牌",
+   "brand",
+   "通用商务"
+  ],
+  [
+   "售后",
+   "after-sales service",
+   "通用商务"
+  ],
+  [
+   "商务",
+   "business|commercial",
+   "通用商务"
+  ],
+  [
+   "团队",
+   "team",
+   "通用商务"
+  ],
+  [
+   "声誉",
+   "reputation",
+   "通用商务"
+  ],
+  [
+   "子公司",
+   "subsidiary",
+   "通用商务"
+  ],
+  [
+   "客户",
+   "client|customer",
+   "通用商务"
+  ],
+  [
+   "客服",
+   "customer service",
+   "通用商务"
+  ],
+  [
+   "市场份额",
+   "market share",
+   "通用商务"
+  ],
+  [
+   "库存",
+   "inventory|stock",
+   "通用商务"
+  ],
+  [
+   "总经理",
+   "general manager",
+   "通用商务"
+  ],
+  [
+   "总裁",
+   "president",
+   "通用商务"
+  ],
+  [
+   "总部",
+   "headquarters",
+   "通用商务"
+  ],
+  [
+   "愿景",
+   "vision",
+   "通用商务"
+  ],
+  [
+   "成本",
+   "cost",
+   "通用商务"
+  ],
+  [
+   "战略",
+   "strategy",
+   "通用商务"
+  ],
+  [
+   "执行",
+   "execute|implementation",
+   "通用商务"
+  ],
+  [
+   "批发",
+   "wholesale",
+   "通用商务"
+  ],
+  [
+   "报价",
+   "quotation|quote",
+   "通用商务"
+  ],
+  [
+   "报告",
+   "report",
+   "通用商务"
+  ],
+  [
+   "招标",
+   "tender|bidding|tendering",
+   "通用商务"
+  ],
+  [
+   "提案",
+   "proposal",
+   "通用商务"
+  ],
+  [
+   "收入",
+   "revenue|income",
+   "通用商务"
+  ],
+  [
+   "收据",
+   "receipt",
+   "通用商务"
+  ],
+  [
+   "效率",
+   "efficiency",
+   "通用商务"
+  ],
+  [
+   "数据",
+   "data",
+   "通用商务"
+  ],
+  [
+   "方案",
+   "solution|scheme",
+   "通用商务"
+  ],
+  [
+   "标准",
+   "standard",
+   "通用商务"
+  ],
+  [
+   "流程",
+   "process",
+   "通用商务"
+  ],
+  [
+   "物流",
+   "logistics",
+   "通用商务"
+  ],
+  [
+   "生意",
+   "business",
+   "通用商务"
+  ],
+  [
+   "目标",
+   "goal|objective|target",
+   "通用商务"
+  ],
+  [
+   "竞争力",
+   "competitiveness",
+   "通用商务"
+  ],
+  [
+   "管理层",
+   "management",
+   "通用商务"
+  ],
+  [
+   "索赔",
+   "claim",
+   "通用商务"
+  ],
+  [
+   "股东",
+   "shareholder|stakeholder",
+   "通用商务"
+  ],
+  [
+   "董事会",
+   "board of directors",
+   "通用商务"
+  ],
+  [
+   "计划",
+   "plan",
+   "通用商务"
+  ],
+  [
+   "订单",
+   "order",
+   "通用商务"
+  ],
+  [
+   "评估",
+   "evaluate|assessment",
+   "通用商务"
+  ],
+  [
+   "谈判",
+   "negotiation",
+   "通用商务"
+  ],
+  [
+   "财务总监",
+   "CFO|chief financial officer",
+   "通用商务"
+  ],
+  [
+   "质量",
+   "quality",
+   "通用商务"
+  ],
+  [
+   "运营",
+   "operations",
+   "通用商务"
+  ],
+  [
+   "违约",
+   "breach of contract",
+   "通用商务"
+  ],
+  [
+   "部门",
+   "department",
+   "通用商务"
+  ],
+  [
+   "采购",
+   "procurement|purchasing",
+   "通用商务"
+  ],
+  [
+   "销售额",
+   "sales",
+   "通用商务"
+  ],
+  [
+   "集团",
+   "group|conglomerate",
+   "通用商务"
+  ],
+  [
+   "雇主",
+   "employer",
+   "通用商务"
+  ],
+  [
+   "零售",
+   "retail",
+   "通用商务"
+  ],
+  [
+   "项目",
+   "project",
+   "通用商务"
+  ],
+  [
+   "顾客",
+   "customer",
+   "通用商务"
+  ],
+  [
+   "预算",
+   "budget",
+   "通用商务"
+  ],
+  [
+   "风险",
+   "risk",
+   "通用商务"
+  ],
+  [
+   "CPI",
+   "CPI|consumer price index",
+   "金融投资"
+  ],
+  [
+   "GDP",
+   "GDP|gross domestic product",
+   "金融投资"
+  ],
+  [
+   "IPO",
+   "IPO|initial public offering",
+   "金融投资"
+  ],
+  [
+   "K线图",
+   "candlestick chart",
+   "金融投资"
+  ],
+  [
+   "PPI",
+   "PPI|producer price index",
+   "金融投资"
+  ],
+  [
+   "Portfolio",
+   "portfolio",
+   "金融投资"
+  ],
+  [
+   "上市公司",
+   "listed company",
+   "金融投资"
+  ],
+  [
+   "交易所交易基金",
+   "ETF|exchange-traded fund",
+   "金融投资"
+  ],
+  [
+   "人民币",
+   "CNY|RMB|yuan",
+   "金融投资"
+  ],
+  [
+   "人身保险",
+   "life insurance",
+   "金融投资"
+  ],
+  [
+   "保单",
+   "policy",
+   "金融投资"
+  ],
+  [
+   "保证金",
+   "margin",
+   "金融投资"
+  ],
+  [
+   "保费",
+   "premium",
+   "金融投资"
+  ],
+  [
+   "保险",
+   "insurance",
+   "金融投资"
+  ],
+  [
+   "保险公司",
+   "insurance company",
+   "金融投资"
+  ],
+  [
+   "信用风险",
+   "credit risk",
+   "金融投资"
+  ],
+  [
+   "做多",
+   "long position",
+   "金融投资"
+  ],
+  [
+   "做空",
+   "short position",
+   "金融投资"
+  ],
+  [
+   "共同基金",
+   "mutual fund",
+   "金融投资"
+  ],
+  [
+   "再保险",
+   "reinsurance",
+   "金融投资"
+  ],
+  [
+   "分散投资",
+   "diversification",
+   "金融投资"
+  ],
+  [
+   "分红",
+   "dividend payout",
+   "金融投资"
+  ],
+  [
+   "利率互换",
+   "interest rate swap",
+   "金融投资"
+  ],
+  [
+   "即期汇率",
+   "spot rate",
+   "金融投资"
+  ],
+  [
+   "商业银行",
+   "commercial bank",
+   "金融投资"
+  ],
+  [
+   "基准利率",
+   "benchmark interest rate",
+   "金融投资"
+  ],
+  [
+   "基金公司",
+   "fund management company",
+   "金融投资"
+  ],
+  [
+   "基金净值",
+   "NAV|net asset value",
+   "金融投资"
+  ],
+  [
+   "央行",
+   "central bank",
+   "金融投资"
+  ],
+  [
+   "失业率",
+   "unemployment rate",
+   "金融投资"
+  ],
+  [
+   "套利",
+   "arbitrage",
+   "金融投资"
+  ],
+  [
+   "存款利率",
+   "deposit rate",
+   "金融投资"
+  ],
+  [
+   "季报",
+   "quarterly report",
+   "金融投资"
+  ],
+  [
+   "定投",
+   "regular investment plan",
+   "金融投资"
+  ],
+  [
+   "对冲",
+   "hedging",
+   "金融投资"
+  ],
+  [
+   "市净率",
+   "P/B ratio",
+   "金融投资"
+  ],
+  [
+   "市场风险",
+   "market risk",
+   "金融投资"
+  ],
+  [
+   "市盈率",
+   "P/E ratio",
+   "金融投资"
+  ],
+  [
+   "年报",
+   "annual report",
+   "金融投资"
+  ],
+  [
+   "开盘价",
+   "opening price",
+   "金融投资"
+  ],
+  [
+   "成交量",
+   "trading volume",
+   "金融投资"
+  ],
+  [
+   "投保人",
+   "policyholder",
+   "金融投资"
+  ],
+  [
+   "投机",
+   "speculation",
+   "金融投资"
+  ],
+  [
+   "投资组合",
+   "investment portfolio",
+   "金融投资"
+  ],
+  [
+   "投资银行",
+   "investment bank",
+   "金融投资"
+  ],
+  [
+   "指数基金",
+   "index fund",
+   "金融投资"
+  ],
+  [
+   "掉期",
+   "swap",
+   "金融投资"
+  ],
+  [
+   "操作风险",
+   "operational risk",
+   "金融投资"
+  ],
+  [
+   "收盘价",
+   "closing price",
+   "金融投资"
+  ],
+  [
+   "日元",
+   "JPY|Japanese yen",
+   "金融投资"
+  ],
+  [
+   "最低价",
+   "low price",
+   "金融投资"
+  ],
+  [
+   "最高价",
+   "high price",
+   "金融投资"
+  ],
+  [
+   "杠杆",
+   "leverage",
+   "金融投资"
+  ],
+  [
+   "欧元",
+   "EUR|euro",
+   "金融投资"
+  ],
+  [
+   "止损",
+   "stop loss",
+   "金融投资"
+  ],
+  [
+   "止盈",
+   "take profit",
+   "金融投资"
+  ],
+  [
+   "每股收益",
+   "EPS|earnings per share",
+   "金融投资"
+  ],
+  [
+   "流动性风险",
+   "liquidity risk",
+   "金融投资"
+  ],
+  [
+   "涨",
+   "rise|gain",
+   "金融投资"
+  ],
+  [
+   "熊市",
+   "bear market",
+   "金融投资"
+  ],
+  [
+   "牛市",
+   "bull market",
+   "金融投资"
+  ],
+  [
+   "申购",
+   "subscription",
+   "金融投资"
+  ],
+  [
+   "美元",
+   "USD|US dollar",
+   "金融投资"
+  ],
+  [
+   "股价",
+   "share price",
+   "金融投资"
+  ],
+  [
+   "英镑",
+   "GBP|British pound",
+   "金融投资"
+  ],
+  [
+   "衍生品",
+   "derivative",
+   "金融投资"
+  ],
+  [
+   "被保险人",
+   "insured",
+   "金融投资"
+  ],
+  [
+   "证券公司",
+   "securities company",
+   "金融投资"
+  ],
+  [
+   "财产保险",
+   "property insurance",
+   "金融投资"
+  ],
+  [
+   "财报",
+   "financial report",
+   "金融投资"
+  ],
+  [
+   "责任保险",
+   "liability insurance",
+   "金融投资"
+  ],
+  [
+   "货币基金",
+   "money market fund",
+   "金融投资"
+  ],
+  [
+   "货币对",
+   "currency pair",
+   "金融投资"
+  ],
+  [
+   "贷款利率",
+   "lending rate",
+   "金融投资"
+  ],
+  [
+   "资产配置",
+   "asset allocation",
+   "金融投资"
+  ],
+  [
+   "赎回",
+   "redemption",
+   "金融投资"
+  ],
+  [
+   "跌",
+   "fall|decline",
+   "金融投资"
+  ],
+  [
+   "远期",
+   "forward",
+   "金融投资"
+  ],
+  [
+   "远期汇率",
+   "forward rate",
+   "金融投资"
+  ],
+  [
+   "通缩",
+   "deflation",
+   "金融投资"
+  ],
+  [
+   "通胀",
+   "inflation",
+   "金融投资"
+  ],
+  [
+   "风险管理",
+   "risk management",
+   "金融投资"
+  ],
+  [
+   "中央银行",
+   "central bank",
+   "金融财务"
+  ],
+  [
+   "会计",
+   "accounting",
+   "金融财务"
+  ],
+  [
+   "信贷",
+   "credit",
+   "金融财务"
+  ],
+  [
+   "债券",
+   "bonds|bond",
+   "金融财务"
+  ],
+  [
+   "准备金",
+   "reserve",
+   "金融财务"
+  ],
+  [
+   "利息",
+   "interest",
+   "金融财务"
+  ],
+  [
+   "利润表",
+   "income statement|profit and loss statement",
+   "金融财务"
+  ],
+  [
+   "利率",
+   "interest rate",
+   "金融财务"
+  ],
+  [
+   "国内生产总值",
+   "GDP",
+   "金融财务"
+  ],
+  [
+   "基金",
+   "fund",
+   "金融财务"
+  ],
+  [
+   "增值税",
+   "VAT|value added tax",
+   "金融财务"
+  ],
+  [
+   "外汇",
+   "foreign exchange|FX",
+   "金融财务"
+  ],
+  [
+   "审计",
+   "audit",
+   "金融财务"
+  ],
+  [
+   "市值",
+   "market value|market capitalization",
+   "金融财务"
+  ],
+  [
+   "所得税",
+   "income tax",
+   "金融财务"
+  ],
+  [
+   "投资",
+   "investment",
+   "金融财务"
+  ],
+  [
+   "折旧",
+   "depreciation",
+   "金融财务"
+  ],
+  [
+   "抵押",
+   "mortgage",
+   "金融财务"
+  ],
+  [
+   "损益",
+   "profit and loss|P&L",
+   "金融财务"
+  ],
+  [
+   "摊销",
+   "amortization",
+   "金融财务"
+  ],
+  [
+   "期权",
+   "options|option",
+   "金融财务"
+  ],
+  [
+   "期货",
+   "futures",
+   "金融财务"
+  ],
+  [
+   "权益",
+   "equity",
+   "金融财务"
+  ],
+  [
+   "核算",
+   "accounting|calculation",
+   "金融财务"
+  ],
+  [
+   "汇率",
+   "exchange rate",
+   "金融财务"
+  ],
+  [
+   "现金流",
+   "cash flow",
+   "金融财务"
+  ],
+  [
+   "现金流量表",
+   "cash flow statement",
+   "金融财务"
+  ],
+  [
+   "税率",
+   "tax rate",
+   "金融财务"
+  ],
+  [
+   "结算",
+   "settlement",
+   "金融财务"
+  ],
+  [
+   "股息",
+   "dividend",
+   "金融财务"
+  ],
+  [
+   "股票",
+   "stocks|shares|stock|share",
+   "金融财务"
+  ],
+  [
+   "融资",
+   "financing",
+   "金融财务"
+  ],
+  [
+   "证券",
+   "securities",
+   "金融财务"
+  ],
+  [
+   "负债",
+   "liabilities",
+   "金融财务"
+  ],
+  [
+   "财务",
+   "finance",
+   "金融财务"
+  ],
+  [
+   "财政政策",
+   "fiscal policy",
+   "金融财务"
+  ],
+  [
+   "货币政策",
+   "monetary policy",
+   "金融财务"
+  ],
+  [
+   "贷款",
+   "loan",
+   "金融财务"
+  ],
+  [
+   "资产",
+   "assets",
+   "金融财务"
+  ],
+  [
+   "资产负债表",
+   "balance sheet",
+   "金融财务"
+  ],
+  [
+   "通货紧缩",
+   "deflation",
+   "金融财务"
+  ],
+  [
+   "通货膨胀",
+   "inflation",
+   "金融财务"
+  ],
+  [
+   "交付物",
+   "deliverable",
+   "项目管理"
+  ],
+  [
+   "关键路径",
+   "critical path",
+   "项目管理"
+  ],
+  [
+   "冲刺",
+   "sprint",
+   "项目管理"
+  ],
+  [
+   "启动",
+   "initiation",
+   "项目管理"
+  ],
+  [
+   "干系人",
+   "stakeholder",
+   "项目管理"
+  ],
+  [
+   "执行",
+   "execution",
+   "项目管理"
+  ],
+  [
+   "收尾",
+   "closure",
+   "项目管理"
+  ],
+  [
+   "敏捷",
+   "agile",
+   "项目管理"
+  ],
+  [
+   "每日站会",
+   "daily standup",
+   "项目管理"
+  ],
+  [
+   "沟通计划",
+   "communication plan",
+   "项目管理"
+  ],
+  [
+   "甘特图",
+   "Gantt chart",
+   "项目管理"
+  ],
+  [
+   "监控",
+   "monitoring|surveillance",
+   "项目管理"
+  ],
+  [
+   "看板",
+   "kanban",
+   "项目管理"
+  ],
+  [
+   "范围",
+   "scope",
+   "项目管理"
+  ],
+  [
+   "规划",
+   "planning",
+   "项目管理"
+  ],
+  [
+   "质量管理",
+   "quality management",
+   "项目管理"
+  ],
+  [
+   "资源",
+   "resource",
+   "项目管理"
+  ],
+  [
+   "进度",
+   "schedule|progress",
+   "项目管理"
+  ],
+  [
+   "迭代",
+   "iteration",
+   "项目管理"
+  ],
+  [
+   "里程碑",
+   "milestone",
+   "项目管理"
+  ],
+  [
+   "项目管理",
+   "project management",
+   "项目管理"
+  ],
+  [
+   "验收",
+   "acceptance",
+   "项目管理"
+  ],
+  [
+   "HACCP",
+   "HACCP|hazard analysis and critical control points",
+   "食品农业"
+  ],
+  [
+   "ISO22000",
+   "ISO 22000",
+   "食品农业"
+  ],
+  [
+   "乳制品",
+   "dairy product",
+   "食品农业"
+  ],
+  [
+   "养殖",
+   "breeding|aquaculture",
+   "食品农业"
+  ],
+  [
+   "农业",
+   "agriculture",
+   "食品农业"
+  ],
+  [
+   "农产品",
+   "agricultural product",
+   "食品农业"
+  ],
+  [
+   "农药",
+   "pesticide",
+   "食品农业"
+  ],
+  [
+   "冷冻",
+   "freezing",
+   "食品农业"
+  ],
+  [
+   "冷藏",
+   "refrigeration",
+   "食品农业"
+  ],
+  [
+   "冷链",
+   "cold chain",
+   "食品农业"
+  ],
+  [
+   "出口检疫",
+   "export quarantine",
+   "食品农业"
+  ],
+  [
+   "动物检疫",
+   "animal quarantine",
+   "食品农业"
+  ],
+  [
+   "化肥",
+   "fertilizer",
+   "食品农业"
+  ],
+  [
+   "发酵",
+   "fermentation",
+   "食品农业"
+  ],
+  [
+   "可追溯体系",
+   "traceability system",
+   "食品农业"
+  ],
+  [
+   "大米",
+   "rice",
+   "食品农业"
+  ],
+  [
+   "大豆",
+   "soybean",
+   "食品农业"
+  ],
+  [
+   "小麦",
+   "wheat",
+   "食品农业"
+  ],
+  [
+   "巴氏杀菌",
+   "pasteurization",
+   "食品农业"
+  ],
+  [
+   "常温",
+   "ambient temperature",
+   "食品农业"
+  ],
+  [
+   "收割",
+   "harvest",
+   "食品农业"
+  ],
+  [
+   "有机食品",
+   "organic food",
+   "食品农业"
+  ],
+  [
+   "杂交",
+   "hybrid",
+   "食品农业"
+  ],
+  [
+   "林业",
+   "forestry",
+   "食品农业"
+  ],
+  [
+   "植物检疫",
+   "phytosanitary",
+   "食品农业"
+  ],
+  [
+   "水产品",
+   "aquatic product",
+   "食品农业"
+  ],
+  [
+   "水果",
+   "fruit",
+   "食品农业"
+  ],
+  [
+   "渔业",
+   "fishery",
+   "食品农业"
+  ],
+  [
+   "灌溉",
+   "irrigation",
+   "食品农业"
+  ],
+  [
+   "灭菌",
+   "sterilization",
+   "食品农业"
+  ],
+  [
+   "烘焙",
+   "baking",
+   "食品农业"
+  ],
+  [
+   "玉米",
+   "corn|maize",
+   "食品农业"
+  ],
+  [
+   "甜味剂",
+   "sweetener",
+   "食品农业"
+  ],
+  [
+   "生产日期",
+   "production date",
+   "食品农业"
+  ],
+  [
+   "畜牧业",
+   "livestock farming",
+   "食品农业"
+  ],
+  [
+   "真空包装",
+   "vacuum packaging",
+   "食品农业"
+  ],
+  [
+   "禽肉",
+   "poultry",
+   "食品农业"
+  ],
+  [
+   "种子",
+   "seed",
+   "食品农业"
+  ],
+  [
+   "种植",
+   "planting|cultivation",
+   "食品农业"
+  ],
+  [
+   "绿色食品",
+   "green food",
+   "食品农业"
+  ],
+  [
+   "肉类",
+   "meat",
+   "食品农业"
+  ],
+  [
+   "育种",
+   "breeding",
+   "食品农业"
+  ],
+  [
+   "色素",
+   "colorant",
+   "食品农业"
+  ],
+  [
+   "营养成分",
+   "nutritional information",
+   "食品农业"
+  ],
+  [
+   "蔬菜",
+   "vegetable",
+   "食品农业"
+  ],
+  [
+   "谷物",
+   "grain|cereal",
+   "食品农业"
+  ],
+  [
+   "转基因",
+   "genetically modified|GM",
+   "食品农业"
+  ],
+  [
+   "配料表",
+   "ingredient list",
+   "食品农业"
+  ],
+  [
+   "防腐剂",
+   "preservative",
+   "食品农业"
+  ],
+  [
+   "食品",
+   "food",
+   "食品农业"
+  ],
+  [
+   "食品加工",
+   "food processing",
+   "食品农业"
+  ],
+  [
+   "食品安全",
+   "food safety",
+   "食品农业"
+  ],
+  [
+   "食品机械",
+   "food machinery",
+   "食品农业"
+  ],
+  [
+   "食品检验",
+   "food inspection",
+   "食品农业"
+  ],
+  [
+   "食品添加剂",
+   "food additive",
+   "食品农业"
+  ],
+  [
+   "食品认证",
+   "food certification",
+   "食品农业"
+  ],
+  [
+   "食品质量",
+   "food quality",
+   "食品农业"
+  ],
+  [
+   "香精",
+   "flavoring",
+   "食品农业"
+  ],
+  [
+   "与",
+   "with",
+   "高频商务词"
+  ],
+  [
+   "为",
+   "for",
+   "高频商务词"
+  ],
+  [
+   "从",
+   "from",
+   "高频商务词"
+  ],
+  [
+   "发送",
+   "send",
+   "高频商务词"
+  ],
+  [
+   "在",
+   "in",
+   "高频商务词"
+  ],
+  [
+   "型号",
+   "model",
+   "高频商务词"
+  ],
+  [
+   "如下",
+   "as follows",
+   "高频商务词"
+  ],
+  [
+   "尊敬的",
+   "dear",
+   "高频商务词"
+  ],
+  [
+   "提供",
+   "provide",
+   "高频商务词"
+  ],
+  [
+   "文件",
+   "file|document",
+   "高频商务词"
+  ],
+  [
+   "是",
+   "is|are",
+   "高频商务词"
+  ],
+  [
+   "本",
+   "this",
+   "高频商务词"
+  ],
+  [
+   "由",
+   "by",
+   "高频商务词"
+  ],
+  [
+   "的",
+   "of",
+   "高频商务词"
+  ],
+  [
+   "至",
+   "to",
+   "高频商务词"
+  ],
+  [
+   "该",
+   "the",
+   "高频商务词"
+  ],
+  [
+   "请",
+   "please",
+   "高频商务词"
+  ],
+  [
+   "谨启",
+   "regards",
+   "高频商务词"
+  ],
+  [
+   "那个",
+   "that",
+   "高频商务词"
+  ],
+  [
+   "随附的",
+   "attached",
+   "高频商务词"
+  ],
+  [
+   "且",
+   "and",
+   "高频搭配"
+  ],
+  [
+   "为了",
+   "in order to",
+   "高频搭配"
+  ],
+  [
+   "买方",
+   "buyer",
+   "高频搭配"
+  ],
+  [
+   "以及",
+   "as well as",
+   "高频搭配"
+  ],
+  [
+   "但",
+   "but",
+   "高频搭配"
+  ],
+  [
+   "关于",
+   "regarding",
+   "高频搭配"
+  ],
+  [
+   "卖方",
+   "seller",
+   "高频搭配"
+  ],
+  [
+   "尽快",
+   "as soon as possible|asap",
+   "高频搭配"
+  ],
+  [
+   "并",
+   "and",
+   "高频搭配"
+  ],
+  [
+   "我方",
+   "we|our side",
+   "高频搭配"
+  ],
+  [
+   "或者",
+   "or",
+   "高频搭配"
+  ],
+  [
+   "期待",
+   "look forward to",
+   "高频搭配"
+  ],
+  [
+   "根据",
+   "according to",
+   "高频搭配"
+  ],
+  [
+   "然后",
+   "then",
+   "高频搭配"
+  ],
+  [
+   "由于",
+   "due to",
+   "高频搭配"
+  ],
+  [
+   "请告知",
+   "please advise",
+   "高频搭配"
+  ],
+  [
+   "请回复",
+   "please reply",
+   "高频搭配"
+  ],
+  [
+   "请安排",
+   "please arrange",
+   "高频搭配"
+  ],
+  [
+   "请审阅",
+   "please review",
+   "高频搭配"
+  ],
+  [
+   "请提供",
+   "please provide",
+   "高频搭配"
+  ],
+  [
+   "请查收",
+   "please find",
+   "高频搭配"
+  ],
+  [
+   "请查看",
+   "please see",
+   "高频搭配"
+  ],
+  [
+   "请确认",
+   "please confirm",
+   "高频搭配"
+  ],
+  [
+   "贵方",
+   "your side",
+   "高频搭配"
+  ],
+  [
+   "附件中",
+   "in the attachment",
+   "高频搭配"
+  ],
+  [
+   "随时",
+   "at any time",
+   "高频搭配"
+  ],
+  [
+   "提货单",
+   "delivery order|D/O",
+   "单证"
+  ],
+  [
+   "仓单",
+   "warehouse receipt",
+   "单证"
+  ],
+  [
+   "送货单",
+   "delivery note",
+   "单证"
+  ],
+  [
+   "装船通知",
+   "shipping advice",
+   "单证"
+  ],
+  [
+   "到货通知",
+   "arrival notice",
+   "单证"
+  ],
+  [
+   "电放提单",
+   "telex release bill of lading|express release B/L",
+   "单证"
+  ],
+  [
+   "不记名提单",
+   "bearer bill of lading",
+   "单证"
+  ],
+  [
+   "清洁已装船提单",
+   "clean on-board bill of lading",
+   "单证"
+  ],
+  [
+   "多式联运提单",
+   "multimodal transport bill of lading",
+   "单证"
+  ],
+  [
+   "领事发票",
+   "consular invoice",
+   "单证"
+  ],
+  [
+   "海关发票",
+   "customs invoice",
+   "单证"
+  ],
+  [
+   "商业汇票",
+   "commercial bill of exchange|commercial draft",
+   "单证"
+  ],
+  [
+   "银行汇票",
+   "banker's draft|bank draft",
+   "单证"
+  ],
+  [
+   "付款凭证",
+   "payment voucher|proof of payment",
+   "单证"
+  ],
+  [
+   "报关委托书",
+   "power of attorney for customs declaration",
+   "单证"
+  ],
+  [
+   "舱单",
+   "cargo manifest",
+   "单证"
+  ],
+  [
+   "装货清单",
+   "loading list",
+   "单证"
+  ],
+  [
+   "卸货清单",
+   "unloading list",
+   "单证"
+  ],
+  [
+   "质量证明书",
+   "quality certificate|certificate of quality",
+   "单证"
+  ],
+  [
+   "装箱证明",
+   "packing certificate",
+   "单证"
+  ],
+  [
+   "运费账单",
+   "freight bill|freight invoice",
+   "单证"
+  ],
+  [
+   "提单副本",
+   "copy bill of lading",
+   "单证"
+  ],
+  [
+   "进口货物报关单",
+   "import customs declaration",
+   "单证"
+  ],
+  [
+   "出口货物报关单",
+   "export customs declaration",
+   "单证"
+  ],
+  [
+   "国际贸易术语解释通则",
+   "Incoterms|International Commercial Terms",
+   "外贸"
+  ],
+  [
+   "银行保函",
+   "bank guarantee|letter of guarantee",
+   "外贸"
+  ],
+  [
+   "预付款保函",
+   "advance payment guarantee",
+   "外贸"
+  ],
+  [
+   "投标保函",
+   "bid bond|bid guarantee",
+   "外贸"
+  ],
+  [
+   "质量保函",
+   "quality guarantee",
+   "外贸"
+  ],
+  [
+   "关税税率",
+   "customs duty rate",
+   "外贸"
+  ],
+  [
+   "完税凭证",
+   "tax payment certificate",
+   "外贸"
+  ],
+  [
+   "出口退税率",
+   "export rebate rate",
+   "外贸"
+  ],
+  [
+   "出口管制",
+   "export control",
+   "外贸"
+  ],
+  [
+   "制裁合规",
+   "sanctions compliance",
+   "外贸"
+  ],
+  [
+   "最终用户证明",
+   "end-user statement",
+   "外贸"
+  ],
+  [
+   "最终用途证明",
+   "end-use statement",
+   "外贸"
+  ],
+  [
+   "两用物项",
+   "dual-use items",
+   "外贸"
+  ],
+  [
+   "贸易融资",
+   "trade finance",
+   "外贸"
+  ],
+  [
+   "出口信用保险",
+   "export credit insurance",
+   "外贸"
+  ],
+  [
+   "共同海损",
+   "general average",
+   "外贸"
+  ],
+  [
+   "单独海损",
+   "particular average",
+   "外贸"
+  ],
+  [
+   "水渍险",
+   "with particular average|WPA",
+   "外贸"
+  ],
+  [
+   "平安险",
+   "free from particular average|FPA",
+   "外贸"
+  ],
+  [
+   "一切险",
+   "all risks",
+   "外贸"
+  ],
+  [
+   "保险金额",
+   "sum insured|insurance amount",
+   "外贸"
+  ],
+  [
+   "保险费率",
+   "insurance premium rate",
+   "外贸"
+  ],
+  [
+   "品质条款",
+   "quality clause",
+   "外贸"
+  ],
+  [
+   "数量条款",
+   "quantity clause",
+   "外贸"
+  ],
+  [
+   "包装条款",
+   "packing clause",
+   "外贸"
+  ],
+  [
+   "管辖权条款",
+   "jurisdiction clause",
+   "外贸"
+  ],
+  [
+   "赔偿条款",
+   "indemnity clause",
+   "外贸"
+  ],
+  [
+   "信用证议付",
+   "negotiation under L/C",
+   "外贸"
+  ],
+  [
+   "不符点通知",
+   "discrepancy notice",
+   "外贸"
+  ],
+  [
+   "应付账款",
+   "accounts payable",
+   "金融财务"
+  ],
+  [
+   "应收账款",
+   "accounts receivable",
+   "金融财务"
+  ],
+  [
+   "预付账款",
+   "prepayments|prepaid accounts",
+   "金融财务"
+  ],
+  [
+   "预收账款",
+   "contract liabilities|advances from customers",
+   "金融财务"
+  ],
+  [
+   "固定资产",
+   "fixed assets",
+   "金融财务"
+  ],
+  [
+   "无形资产",
+   "intangible assets",
+   "金融财务"
+  ],
+  [
+   "流动资产",
+   "current assets",
+   "金融财务"
+  ],
+  [
+   "流动负债",
+   "current liabilities",
+   "金融财务"
+  ],
+  [
+   "所有者权益",
+   "owner's equity|shareholders' equity",
+   "金融财务"
+  ],
+  [
+   "营业收入",
+   "operating revenue|revenue",
+   "金融财务"
+  ],
+  [
+   "营业成本",
+   "operating cost",
+   "金融财务"
+  ],
+  [
+   "营业利润",
+   "operating profit",
+   "金融财务"
+  ],
+  [
+   "净利润",
+   "net profit",
+   "金融财务"
+  ],
+  [
+   "毛利润",
+   "gross profit",
+   "金融财务"
+  ],
+  [
+   "毛利率",
+   "gross margin|gross profit margin",
+   "金融财务"
+  ],
+  [
+   "净利率",
+   "net profit margin",
+   "金融财务"
+  ],
+  [
+   "运营成本",
+   "operating expenses|operating costs",
+   "金融财务"
+  ],
+  [
+   "管理费用",
+   "administrative expenses",
+   "金融财务"
+  ],
+  [
+   "销售费用",
+   "selling expenses",
+   "金融财务"
+  ],
+  [
+   "财务费用",
+   "finance costs",
+   "金融财务"
+  ],
+  [
+   "应纳税所得额",
+   "taxable income",
+   "金融财务"
+  ],
+  [
+   "进项税额",
+   "input VAT|input tax",
+   "金融财务"
+  ],
+  [
+   "销项税额",
+   "output VAT|output tax",
+   "金融财务"
+  ],
+  [
+   "对账单",
+   "statement of account|reconciliation statement",
+   "金融财务"
+  ],
+  [
+   "银行流水",
+   "bank statement",
+   "金融财务"
+  ],
+  [
+   "账期",
+   "payment term|account period",
+   "金融财务"
+  ],
+  [
+   "坏账准备",
+   "allowance for doubtful accounts|bad debt provision",
+   "金融财务"
+  ],
+  [
+   "合并报表",
+   "consolidated financial statements",
+   "金融财务"
+  ],
+  [
+   "内部审计",
+   "internal audit",
+   "金融财务"
+  ],
+  [
+   "汇兑损益",
+   "exchange gains and losses",
+   "金融财务"
+  ],
+  [
+   "资本支出",
+   "capital expenditure|CAPEX",
+   "金融财务"
+  ],
+  [
+   "营运资金",
+   "working capital",
+   "金融财务"
+  ],
+  [
+   "盈亏平衡点",
+   "break-even point",
+   "金融财务"
+  ],
+  [
+   "报价有效期",
+   "quotation validity",
+   "通用商务"
+  ],
+  [
+   "比价",
+   "price comparison",
+   "通用商务"
+  ],
+  [
+   "议价",
+   "price negotiation|bargaining",
+   "通用商务"
+  ],
+  [
+   "降本增效",
+   "cost reduction and efficiency improvement",
+   "通用商务"
+  ],
+  [
+   "审批流程",
+   "approval process",
+   "通用商务"
+  ],
+  [
+   "立项",
+   "project initiation",
+   "通用商务"
+  ],
+  [
+   "结项",
+   "project closure",
+   "通用商务"
+  ],
+  [
+   "复盘",
+   "retrospective|post-project review",
+   "通用商务"
+  ],
+  [
+   "商业秘密",
+   "trade secret",
+   "通用商务"
+  ],
+  [
+   "授权书",
+   "power of attorney|letter of authorization",
+   "通用商务"
+  ],
+  [
+   "资质",
+   "qualification|credentials",
+   "通用商务"
+  ],
+  [
+   "标书",
+   "bid document|tender document",
+   "通用商务"
+  ],
+  [
+   "中标通知书",
+   "notice of award|letter of acceptance",
+   "通用商务"
+  ],
+  [
+   "成交",
+   "deal concluded|transaction completed",
+   "通用商务"
+  ],
+  [
+   "框架协议",
+   "framework agreement",
+   "通用商务"
+  ],
+  [
+   "补充协议",
+   "supplemental agreement",
+   "通用商务"
+  ],
+  [
+   "谅解备忘录",
+   "memorandum of understanding|MOU",
+   "通用商务"
+  ],
+  [
+   "会议纪要",
+   "meeting minutes",
+   "通用商务"
+  ],
+  [
+   "商务函电",
+   "business correspondence",
+   "通用商务"
+  ],
+  [
+   "客户拜访",
+   "client visit",
+   "通用商务"
+  ],
+  [
+   "交付验收",
+   "delivery acceptance",
+   "通用商务"
+  ],
+  [
+   "关键绩效指标",
+   "key performance indicator|KPI",
+   "通用商务"
+  ],
+  [
+   "服务级别协议",
+   "service level agreement|SLA",
+   "通用商务"
+  ],
+  [
+   "招聘计划",
+   "recruitment plan",
+   "人力资源"
+  ],
+  [
+   "试用期",
+   "probation period",
+   "人力资源"
+  ],
+  [
+   "转正",
+   "confirmation of employment",
+   "人力资源"
+  ],
+  [
+   "工资单",
+   "payslip|payroll",
+   "人力资源"
+  ],
+  [
+   "个税",
+   "individual income tax",
+   "人力资源"
+  ],
+  [
+   "绩效奖金",
+   "performance bonus",
+   "人力资源"
+  ],
+  [
+   "岗位说明书",
+   "job description",
+   "人力资源"
+  ],
+  [
+   "员工手册",
+   "employee handbook",
+   "人力资源"
+  ],
+  [
+   "竞业限制",
+   "non-compete restriction",
+   "人力资源"
+  ],
+  [
+   "保密协议",
+   "non-disclosure agreement|NDA",
+   "人力资源"
+  ],
+  [
+   "背景调查",
+   "background check",
+   "人力资源"
+  ],
+  [
+   "入职培训",
+   "onboarding training",
+   "人力资源"
+  ],
+  [
+   "离职证明",
+   "certificate of employment termination",
+   "人力资源"
+  ],
+  [
+   "品牌知名度",
+   "brand awareness",
+   "市场营销"
+  ],
+  [
+   "品牌定位",
+   "brand positioning",
+   "市场营销"
+  ],
+  [
+   "目标受众",
+   "target audience",
+   "市场营销"
+  ],
+  [
+   "用户画像",
+   "user persona|customer persona",
+   "市场营销"
+  ],
+  [
+   "获客成本",
+   "customer acquisition cost|CAC",
+   "市场营销"
+  ],
+  [
+   "客户生命周期价值",
+   "customer lifetime value|CLV",
+   "市场营销"
+  ],
+  [
+   "营销漏斗",
+   "marketing funnel",
+   "市场营销"
+  ],
+  [
+   "点击率",
+   "click-through rate|CTR",
+   "市场营销"
+  ],
+  [
+   "每次点击成本",
+   "cost per click|CPC",
+   "市场营销"
+  ],
+  [
+   "展示量",
+   "impressions",
+   "市场营销"
+  ],
+  [
+   "广告投放",
+   "ad placement|advertising campaign",
+   "市场营销"
+  ],
+  [
+   "内容策略",
+   "content strategy",
+   "市场营销"
+  ],
+  [
+   "竞品分析",
+   "competitor analysis",
+   "市场营销"
+  ],
+  [
+   "市场渗透",
+   "market penetration",
+   "市场营销"
+  ],
+  [
+   "独特卖点",
+   "unique selling proposition|USP",
+   "市场营销"
+  ],
+  [
+   "库存盘点",
+   "stocktaking|inventory count",
+   "物流供应链"
+  ],
+  [
+   "库存周转天数",
+   "days inventory outstanding|DIO",
+   "物流供应链"
+  ],
+  [
+   "缺货率",
+   "stockout rate",
+   "物流供应链"
+  ],
+  [
+   "准时交付率",
+   "on-time delivery rate|OTD",
+   "物流供应链"
+  ],
+  [
+   "运输合同",
+   "contract of carriage",
+   "物流供应链"
+  ],
+  [
+   "承运商",
+   "carrier",
+   "物流供应链"
+  ],
+  [
+   "危险品运输",
+   "dangerous goods transport",
+   "物流供应链"
+  ],
+  [
+   "冷链物流",
+   "cold chain logistics",
+   "物流供应链"
+  ],
+  [
+   "跨境物流",
+   "cross-border logistics",
+   "物流供应链"
+  ],
+  [
+   "退换货",
+   "returns and exchanges",
+   "物流供应链"
+  ],
+  [
+   "货损",
+   "cargo damage",
+   "物流供应链"
+  ],
+  [
+   "货差",
+   "cargo shortage",
+   "物流供应链"
+  ],
+  [
+   "清关代理",
+   "customs clearance agent",
+   "物流供应链"
+  ],
+  [
+   "回单",
+   "proof of delivery|POD",
+   "物流供应链"
+  ],
+  [
+   "仓储成本",
+   "warehousing cost",
+   "物流供应链"
+  ],
+  [
+   "加工精度",
+   "machining accuracy",
+   "机械设备"
+  ],
+  [
+   "装配图",
+   "assembly drawing",
+   "机械设备"
+  ],
+  [
+   "零件图",
+   "part drawing",
+   "机械设备"
+  ],
+  [
+   "技术图纸",
+   "technical drawing",
+   "机械设备"
+  ],
+  [
+   "工位",
+   "workstation",
+   "机械设备"
+  ],
+  [
+   "废品率",
+   "scrap rate",
+   "机械设备"
+  ],
+  [
+   "工装",
+   "tooling",
+   "机械设备"
+  ],
+  [
+   "切削液",
+   "cutting fluid",
+   "机械设备"
+  ],
+  [
+   "润滑点",
+   "lubrication point",
+   "机械设备"
+  ],
+  [
+   "气动系统",
+   "pneumatic system",
+   "机械设备"
+  ],
+  [
+   "液压系统",
+   "hydraulic system",
+   "机械设备"
+  ],
+  [
+   "电气原理图",
+   "electrical schematic diagram",
+   "机械设备"
+  ],
+  [
+   "传动系统",
+   "transmission system",
+   "机械设备"
+  ],
+  [
+   "内存容量",
+   "memory capacity",
+   "硬件"
+  ],
+  [
+   "存储容量",
+   "storage capacity",
+   "硬件"
+  ],
+  [
+   "接口类型",
+   "interface type",
+   "硬件"
+  ],
+  [
+   "供电电压",
+   "supply voltage",
+   "硬件"
+  ],
+  [
+   "工作温度",
+   "operating temperature",
+   "硬件"
+  ],
+  [
+   "防护等级",
+   "ingress protection rating|IP rating",
+   "硬件"
+  ],
+  [
+   "信号完整性",
+   "signal integrity",
+   "硬件"
+  ],
+  [
+   "电磁屏蔽",
+   "electromagnetic shielding",
+   "硬件"
+  ],
+  [
+   "表面贴装技术",
+   "surface mount technology|SMT",
+   "硬件"
+  ],
+  [
+   "老化测试",
+   "burn-in test",
+   "硬件"
+  ],
+  [
+   "可靠性测试",
+   "reliability test",
+   "硬件"
+  ],
+  [
+   "量产",
+   "mass production",
+   "硬件"
+  ],
+  [
+   "灰度发布",
+   "canary release|phased rollout",
+   "软件"
+  ],
+  [
+   "蓝绿部署",
+   "blue-green deployment",
+   "软件"
+  ],
+  [
+   "熔断",
+   "circuit breaker",
+   "软件"
+  ],
+  [
+   "限流",
+   "rate limiting",
+   "软件"
+  ],
+  [
+   "服务降级",
+   "service degradation",
+   "软件"
+  ],
+  [
+   "幂等性",
+   "idempotency",
+   "软件"
+  ],
+  [
+   "分布式事务",
+   "distributed transaction",
+   "软件"
+  ],
+  [
+   "冒烟测试",
+   "smoke test",
+   "软件"
+  ],
+  [
+   "需求评审",
+   "requirement review",
+   "软件"
+  ],
+  [
+   "技术债务",
+   "technical debt",
+   "软件"
+  ],
+  [
+   "应用性能监控",
+   "application performance monitoring|APM",
+   "软件"
+  ],
+  [
+   "数据脱敏",
+   "data masking",
+   "软件"
+  ],
+  [
+   "单点登录",
+   "single sign-on|SSO",
+   "软件"
+  ],
+  [
+   "电子签名",
+   "electronic signature",
+   "软件"
+  ],
+  [
+   "权限管理",
+   "access control|permission management",
+   "软件"
+  ],
+  [
+   "网络拥塞",
+   "network congestion",
+   "网络"
+  ],
+  [
+   "子网",
+   "subnet",
+   "网络"
+  ],
+  [
+   "端口映射",
+   "port forwarding",
+   "网络"
+  ],
+  [
+   "蜜罐",
+   "honeypot",
+   "网络"
+  ],
+  [
+   "多因素认证",
+   "multi-factor authentication|MFA",
+   "网络"
+  ],
+  [
+   "端到端加密",
+   "end-to-end encryption",
+   "网络"
+  ],
+  [
+   "网络嗅探",
+   "network sniffing",
+   "网络"
+  ],
+  [
+   "网速",
+   "network speed",
+   "网络"
+  ],
+  [
+   "上行速率",
+   "upload speed",
+   "网络"
+  ],
+  [
+   "下行速率",
+   "download speed",
+   "网络"
+  ],
+  [
+   "违约责任",
+   "liability for breach of contract",
+   "法律合同"
+  ],
+  [
+   "损害赔偿",
+   "damages",
+   "法律合同"
+  ],
+  [
+   "间接损失",
+   "indirect losses|consequential damages",
+   "法律合同"
+  ],
+  [
+   "责任限额",
+   "limitation of liability",
+   "法律合同"
+  ],
+  [
+   "知识产权保护",
+   "intellectual property protection",
+   "法律合同"
+  ],
+  [
+   "商标权",
+   "trademark right",
+   "法律合同"
+  ],
+  [
+   "专利权",
+   "patent right",
+   "法律合同"
+  ],
+  [
+   "著作权",
+   "copyright",
+   "法律合同"
+  ],
+  [
+   "保密义务",
+   "confidentiality obligation",
+   "法律合同"
+  ],
+  [
+   "诉讼管辖",
+   "litigation jurisdiction",
+   "法律合同"
+  ],
+  [
+   "仲裁裁决",
+   "arbitral award",
+   "法律合同"
+  ],
+  [
+   "调解",
+   "mediation",
+   "法律合同"
+  ],
+  [
+   "律师函",
+   "lawyer's letter",
+   "法律合同"
+  ]
+ ],
+ "phrases": [
+  [
+   "员工培训计划已制定。",
+   "The employee training plan has been formulated.",
+   "人力资源"
+  ],
+  [
+   "年度绩效考核将于下月进行。",
+   "The annual performance appraisal will be held next month.",
+   "人力资源"
+  ],
+  [
+   "招聘流程已经开始。",
+   "The recruitment process has begun.",
+   "人力资源"
+  ],
+  [
+   "请安排面试。",
+   "Please arrange the interview.",
+   "人力资源"
+  ],
+  [
+   "新版本已部署。",
+   "The new version has been deployed.",
+   "信息技术"
+  ],
+  [
+   "服务器发生故障。",
+   "The server has failed.",
+   "信息技术"
+  ],
+  [
+   "系统需要升级。",
+   "The system needs to be upgraded.",
+   "信息技术"
+  ],
+  [
+   "请备份重要数据。",
+   "Please back up important data.",
+   "信息技术"
+  ],
+  [
+   "临床试验结果良好。",
+   "The clinical trial results are promising.",
+   "医疗健康"
+  ],
+  [
+   "患者需要进一步检查。",
+   "The patient needs further examination.",
+   "医疗健康"
+  ],
+  [
+   "药品每日服用两次。",
+   "Take the medication twice a day.",
+   "医疗健康"
+  ],
+  [
+   "请注意药品副作用。",
+   "Please note the side effects of the drug.",
+   "医疗健康"
+  ],
+  [
+   "不可抗力除外。",
+   "Force majeure is excepted.",
+   "商务谈判"
+  ],
+  [
+   "交货时间是下个月。",
+   "The delivery time is next month.",
+   "商务谈判"
+  ],
+  [
+   "仅供参考。",
+   "For your reference.",
+   "商务谈判"
+  ],
+  [
+   "付款方式是即期信用证。",
+   "The payment terms are sight letter of credit.",
+   "商务谈判"
+  ],
+  [
+   "合同已经签署。",
+   "The contract has been signed.",
+   "商务谈判"
+  ],
+  [
+   "很高兴与您合作。",
+   "It is a pleasure to work with you.",
+   "商务谈判"
+  ],
+  [
+   "我们对您的提案很感兴趣。",
+   "We are very interested in your proposal.",
+   "商务谈判"
+  ],
+  [
+   "我们希望与您建立长期合作关系。",
+   "We hope to establish a long-term cooperative relationship with you.",
+   "商务谈判"
+  ],
+  [
+   "我们抱歉地通知您。",
+   "We are sorry to inform you that...",
+   "商务谈判"
+  ],
+  [
+   "我方保留索赔权利。",
+   "We reserve the right to claim.",
+   "商务谈判"
+  ],
+  [
+   "我方接受这个价格。",
+   "We accept this price.",
+   "商务谈判"
+  ],
+  [
+   "根据我们的协议。",
+   "According to our agreement,...",
+   "商务谈判"
+  ],
+  [
+   "由于市场变化。",
+   "Due to market changes,...",
+   "商务谈判"
+  ],
+  [
+   "请提供最优惠报价。",
+   "Please provide your best quotation.",
+   "商务谈判"
+  ],
+  [
+   "请提供详细信息。",
+   "Please provide detailed information.",
+   "商务谈判"
+  ],
+  [
+   "请注意。",
+   "Please note that...",
+   "商务谈判"
+  ],
+  [
+   "请确认订单。",
+   "Please confirm the order.",
+   "商务谈判"
+  ],
+  [
+   "这个价格我们可以考虑。",
+   "We can consider this price.",
+   "商务谈判"
+  ],
+  [
+   "逾期付款将产生利息。",
+   "Overdue payment will incur interest.",
+   "商务谈判"
+  ],
+  [
+   "研究结果显示显著改善。",
+   "The research results show significant improvement.",
+   "学术研究"
+  ],
+  [
+   "论文已提交期刊评审。",
+   "The paper has been submitted for peer review.",
+   "学术研究"
+  ],
+  [
+   "产品已通过质量检验。",
+   "The product has passed quality inspection.",
+   "工程制造"
+  ],
+  [
+   "设备需要定期维护。",
+   "The equipment requires regular maintenance.",
+   "工程制造"
+  ],
+  [
+   "请提供技术参数。",
+   "Please provide the technical parameters.",
+   "工程制造"
+  ],
+  [
+   "质量必须符合规格要求。",
+   "The quality must meet the specification requirements.",
+   "工程制造"
+  ],
+  [
+   "争议提交仲裁解决。",
+   "Disputes shall be submitted to arbitration.",
+   "法律合同"
+  ],
+  [
+   "任何一方不得单方终止协议。",
+   "Neither party may unilaterally terminate the agreement.",
+   "法律合同"
+  ],
+  [
+   "保密条款仍然有效。",
+   "The confidentiality clause remains in effect.",
+   "法律合同"
+  ],
+  [
+   "本合同自签署之日起生效。",
+   "This contract takes effect from the date of signing.",
+   "法律合同"
+  ],
+  [
+   "请审阅附件中的条款。",
+   "Please review the terms in the attachment.",
+   "法律合同"
+  ],
+  [
+   "信用证已开出。",
+   "The letter of credit has been issued.",
+   "贸易进出口"
+  ],
+  [
+   "关税由买方承担。",
+   "The tariff shall be borne by the buyer.",
+   "贸易进出口"
+  ],
+  [
+   "报关手续已办理完毕。",
+   "Customs declaration has been completed.",
+   "贸易进出口"
+  ],
+  [
+   "第二批货物将分批装运。",
+   "The second batch will be shipped in partial shipments.",
+   "贸易进出口"
+  ],
+  [
+   "请安排发货。",
+   "Please arrange shipment.",
+   "贸易进出口"
+  ],
+  [
+   "请寄送原产地证书。",
+   "Please send the certificate of origin.",
+   "贸易进出口"
+  ],
+  [
+   "请提供提单副本。",
+   "Please provide a copy of the bill of lading.",
+   "贸易进出口"
+  ],
+  [
+   "请确认装箱单。",
+   "Please confirm the packing list.",
+   "贸易进出口"
+  ],
+  [
+   "货物已于昨日装运。",
+   "The goods were shipped yesterday.",
+   "贸易进出口"
+  ],
+  [
+   "如有任何问题，请随时与我联系。",
+   "Please feel free to contact me if you have any questions.",
+   "邮件沟通"
+  ],
+  [
+   "如需更多信息，请告知。",
+   "Please let me know if you need further information.",
+   "邮件沟通"
+  ],
+  [
+   "感谢您的合作与支持。",
+   "Thank you for your cooperation and support.",
+   "邮件沟通"
+  ],
+  [
+   "期待您的回复。",
+   "Looking forward to your reply.",
+   "邮件沟通"
+  ],
+  [
+   "此致，敬礼。",
+   "Yours sincerely.",
+   "邮件沟通"
+  ],
+  [
+   "请在您方便时回复。",
+   "Please reply at your convenience.",
+   "邮件沟通"
+  ],
+  [
+   "请尽快回复。",
+   "Please reply as soon as possible.",
+   "邮件沟通"
+  ],
+  [
+   "请查收附件。",
+   "Please find the attached file.",
+   "邮件沟通"
+  ],
+  [
+   "请查看以下信息。",
+   "Please see the information below.",
+   "邮件沟通"
+  ],
+  [
+   "顺祝商祺。",
+   "Best regards.",
+   "邮件沟通"
+  ],
+  [
+   "现金流状况良好。",
+   "The cash flow is in good condition.",
+   "金融财务"
+  ],
+  [
+   "税率已调整。",
+   "The tax rate has been adjusted.",
+   "金融财务"
+  ],
+  [
+   "请提交季度报告。",
+   "Please submit the quarterly report.",
+   "金融财务"
+  ],
+  [
+   "请核对发票金额。",
+   "Please verify the invoice amount.",
+   "金融财务"
+  ],
+  [
+   "财务报表已审计完毕。",
+   "The financial statements have been audited.",
+   "金融财务"
+  ],
+  [
+   "下次会议定在周一。",
+   "The next meeting is scheduled for Monday.",
+   "项目管理"
+  ],
+  [
+   "我们已达成里程碑目标。",
+   "We have achieved the milestone.",
+   "项目管理"
+  ],
+  [
+   "请将此事项加入议程。",
+   "Please add this item to the agenda.",
+   "项目管理"
+  ],
+  [
+   "请确认交付物。",
+   "Please confirm the deliverables.",
+   "项目管理"
+  ],
+  [
+   "项目进度符合计划。",
+   "The project progress is on schedule.",
+   "项目管理"
+  ],
+  [
+   "预算已获批准。",
+   "The budget has been approved.",
+   "项目管理"
+  ],
+  [
+   "请报最优惠价格。",
+   "Please quote your best price.",
+   "商务谈判"
+  ],
+  [
+   "我方对贵方产品很感兴趣。",
+   "We are very interested in your products.",
+   "商务谈判"
+  ],
+  [
+   "请提供产品目录和价目表。",
+   "Please provide your catalogue and price list.",
+   "商务谈判"
+  ],
+  [
+   "能否给予数量折扣？",
+   "Could you offer a quantity discount?",
+   "商务谈判"
+  ],
+  [
+   "付款条件可否改为即期信用证？",
+   "Could the payment terms be changed to sight L/C?",
+   "商务谈判"
+  ],
+  [
+   "我方同意分批装运。",
+   "We agree to partial shipment.",
+   "商务谈判"
+  ],
+  [
+   "请在装运后发送装运通知。",
+   "Please send the shipping advice after shipment.",
+   "商务谈判"
+  ],
+  [
+   "货物与合同规定不符。",
+   "The goods do not conform to the contract.",
+   "商务谈判"
+  ],
+  [
+   "请尽快处理索赔。",
+   "Please handle the claim as soon as possible.",
+   "商务谈判"
+  ],
+  [
+   "请把报价单发给我。",
+   "Please send me the quotation.",
+   "商务谈判"
+  ],
+  [
+   "请确认交货日期。",
+   "Please confirm the delivery date.",
+   "商务谈判"
+  ],
+  [
+   "合同将于下周生效。",
+   "The contract will take effect next week.",
+   "商务谈判"
+  ],
+  [
+   "请签署并盖章后回传。",
+   "Please sign, stamp and return the document.",
+   "商务谈判"
+  ],
+  [
+   "如需修改，请及时通知我方。",
+   "Please notify us promptly if any amendment is required.",
+   "商务谈判"
+  ],
+  [
+   "我方无法接受该价格。",
+   "We cannot accept this price.",
+   "商务谈判"
+  ],
+  [
+   "希望达成长期合作。",
+   "We hope to establish long-term cooperation.",
+   "商务谈判"
+  ],
+  [
+   "请提供样品。",
+   "Please provide samples.",
+   "商务谈判"
+  ],
+  [
+   "样品已通过检验。",
+   "The samples have passed inspection.",
+   "商务谈判"
+  ],
+  [
+   "请安排验货。",
+   "Please arrange the inspection.",
+   "商务谈判"
+  ],
+  [
+   "发票金额有误。",
+   "The invoice amount is incorrect.",
+   "商务谈判"
+  ],
+  [
+   "请安排付款。",
+   "Please arrange payment.",
+   "商务谈判"
+  ],
+  [
+   "货款已汇出。",
+   "The payment has been remitted.",
+   "商务谈判"
+  ],
+  [
+   "如需更多信息，请与我联系。",
+   "Please contact me if you need more information.",
+   "邮件沟通"
+  ],
+  [
+   "请确认收到此邮件。",
+   "Please confirm receipt of this email.",
+   "邮件沟通"
+  ],
+  [
+   "会议纪要见附件。",
+   "Please find the meeting minutes attached.",
+   "邮件沟通"
+  ],
+  [
+   "请在本周五前回复。",
+   "Please reply by this Friday.",
+   "邮件沟通"
+  ],
+  [
+   "由于原材料涨价，我方需调整价格。",
+   "Due to rising raw material costs, we need to adjust our prices.",
+   "商务谈判"
+  ],
+  [
+   "付款后将立即发货。",
+   "Goods will be shipped immediately after payment.",
+   "商务谈判"
+  ]
+ ],
+ "sources": [
+  "self-curated"
+ ]
+}
