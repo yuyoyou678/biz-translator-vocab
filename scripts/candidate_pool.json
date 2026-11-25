@@ -1,0 +1,1922 @@
+[
+ [
+  "合同解除",
+  "termination of contract",
+  "通用商务"
+ ],
+ [
+  "管辖法院",
+  "court of competent jurisdiction",
+  "通用商务"
+ ],
+ [
+  "排他性条款",
+  "exclusivity clause",
+  "通用商务"
+ ],
+ [
+  "合同变更单",
+  "change order",
+  "通用商务"
+ ],
+ [
+  "验收标准",
+  "acceptance criteria",
+  "通用商务"
+ ],
+ [
+  "交付里程碑",
+  "delivery milestone",
+  "通用商务"
+ ],
+ [
+  "项目章程",
+  "project charter",
+  "通用商务"
+ ],
+ [
+  "可行性研究",
+  "feasibility study",
+  "通用商务"
+ ],
+ [
+  "股权转让",
+  "equity transfer",
+  "通用商务"
+ ],
+ [
+  "股东大会",
+  "general meeting of shareholders",
+  "通用商务"
+ ],
+ [
+  "营业执照",
+  "business license",
+  "通用商务"
+ ],
+ [
+  "请付款通知",
+  "debit note",
+  "外贸"
+ ],
+ [
+  "贷记通知",
+  "credit note",
+  "外贸"
+ ],
+ [
+  "海关编码",
+  "HS code|customs code",
+  "外贸"
+ ],
+ [
+  "原产地规则",
+  "rules of origin",
+  "外贸"
+ ],
+ [
+  "一般原产地证",
+  "certificate of origin (general)",
+  "外贸"
+ ],
+ [
+  "检疫证书",
+  "quarantine certificate",
+  "外贸"
+ ],
+ [
+  "报关委托",
+  "customs declaration authorization",
+  "外贸"
+ ],
+ [
+  "滞箱费",
+  "detention charge",
+  "物流供应链"
+ ],
+ [
+  "拼箱货",
+  "less than container load|LCL",
+  "物流供应链"
+ ],
+ [
+  "整箱货",
+  "full container load|FCL",
+  "物流供应链"
+ ],
+ [
+  "箱号",
+  "container number",
+  "物流供应链"
+ ],
+ [
+  "封条号",
+  "seal number",
+  "物流供应链"
+ ],
+ [
+  "提单号",
+  "bill of lading number",
+  "物流供应链"
+ ],
+ [
+  "经济订货量",
+  "economic order quantity|EOQ",
+  "物流供应链"
+ ],
+ [
+  "准时制生产",
+  "just-in-time|JIT",
+  "物流供应链"
+ ],
+ [
+  "供应商管理库存",
+  "vendor-managed inventory|VMI",
+  "物流供应链"
+ ],
+ [
+  "履行中心",
+  "fulfillment center",
+  "物流供应链"
+ ],
+ [
+  "最后一公里配送",
+  "last-mile delivery",
+  "物流供应链"
+ ],
+ [
+  "超尺寸货物",
+  "out-of-gauge cargo",
+  "物流供应链"
+ ],
+ [
+  "折旧与摊销",
+  "depreciation and amortization",
+  "财务金融"
+ ],
+ [
+  "息税折旧摊销前利润",
+  "EBITDA",
+  "财务金融"
+ ],
+ [
+  "投资回报率",
+  "return on investment|ROI",
+  "财务金融"
+ ],
+ [
+  "内部收益率",
+  "internal rate of return|IRR",
+  "财务金融"
+ ],
+ [
+  "净现值",
+  "net present value|NPV",
+  "财务金融"
+ ],
+ [
+  "汇率风险",
+  "exchange rate risk",
+  "财务金融"
+ ],
+ [
+  "信用证贴现",
+  "letter of credit discounting",
+  "财务金融"
+ ],
+ [
+  "保理",
+  "factoring",
+  "财务金融"
+ ],
+ [
+  "转让定价",
+  "transfer pricing",
+  "财务金融"
+ ],
+ [
+  "版本回滚",
+  "version rollback",
+  "软件"
+ ],
+ [
+  "高并发",
+  "high concurrency",
+  "软件"
+ ],
+ [
+  "微服务架构",
+  "microservices architecture",
+  "软件"
+ ],
+ [
+  "缓存穿透",
+  "cache penetration",
+  "软件"
+ ],
+ [
+  "数据库索引",
+  "database index",
+  "软件"
+ ],
+ [
+  "事务回滚",
+  "transaction rollback",
+  "软件"
+ ],
+ [
+  "代码重构",
+  "code refactoring",
+  "软件"
+ ],
+ [
+  "上线部署",
+  "production deployment",
+  "软件"
+ ],
+ [
+  "电源管理芯片",
+  "power management IC",
+  "硬件"
+ ],
+ [
+  "静电放电防护",
+  "electrostatic discharge protection|ESD",
+  "硬件"
+ ],
+ [
+  "焊盘",
+  "solder pad",
+  "硬件"
+ ],
+ [
+  "过孔",
+  "via",
+  "硬件"
+ ],
+ [
+  "贴片元件",
+  "SMD component",
+  "硬件"
+ ],
+ [
+  "通孔元件",
+  "through-hole component",
+  "硬件"
+ ],
+ [
+  "模数转换器",
+  "analog-to-digital converter|ADC",
+  "硬件"
+ ],
+ [
+  "数模转换器",
+  "digital-to-analog converter|DAC",
+  "硬件"
+ ],
+ [
+  "现场可编程门阵列",
+  "FPGA",
+  "硬件"
+ ],
+ [
+  "防火墙规则",
+  "firewall rule",
+  "网络"
+ ],
+ [
+  "网络延迟",
+  "network latency",
+  "网络"
+ ],
+ [
+  "拥塞控制",
+  "congestion control",
+  "网络"
+ ],
+ [
+  "光纤收发器",
+  "fiber transceiver",
+  "网络"
+ ],
+ [
+  "交换机端口",
+  "switch port",
+  "网络"
+ ],
+ [
+  "路由表",
+  "routing table",
+  "网络"
+ ],
+ [
+  "五元组",
+  "five-tuple",
+  "网络"
+ ],
+ [
+  "对价",
+  "consideration",
+  "法律合同"
+ ],
+ [
+  "缔约过失",
+  "culpa in contrahendo",
+  "法律合同"
+ ],
+ [
+  "格式条款",
+  "standard terms",
+  "法律合同"
+ ],
+ [
+  "留置权",
+  "lien",
+  "法律合同"
+ ],
+ [
+  "质押",
+  "pledge",
+  "法律合同"
+ ],
+ [
+  "保证",
+  "guarantee",
+  "法律合同"
+ ],
+ [
+  "知识产权归属",
+  "ownership of intellectual property",
+  "法律合同"
+ ],
+ [
+  "侵权",
+  "infringement",
+  "法律合同"
+ ],
+ [
+  "诉讼时效",
+  "statute of limitations",
+  "法律合同"
+ ],
+ [
+  "管辖权异议",
+  "objection to jurisdiction",
+  "法律合同"
+ ],
+ [
+  "和解协议",
+  "settlement agreement",
+  "法律合同"
+ ],
+ [
+  "强制执行",
+  "enforcement",
+  "法律合同"
+ ],
+ [
+  "不可抗力证明",
+  "force majeure certificate",
+  "法律合同"
+ ],
+ [
+  "合规审查",
+  "compliance review",
+  "法律合同"
+ ],
+ [
+  "全面质量管理",
+  "total quality management|TQM",
+  "质量管理"
+ ],
+ [
+  "过程能力指数",
+  "process capability index|Cpk",
+  "质量管理"
+ ],
+ [
+  "统计过程控制",
+  "statistical process control|SPC",
+  "质量管理"
+ ],
+ [
+  "不合格品",
+  "nonconforming product",
+  "质量管理"
+ ],
+ [
+  "根本原因分析",
+  "root cause analysis|RCA",
+  "质量管理"
+ ],
+ [
+  "AQL抽样",
+  "acceptable quality level|AQL",
+  "质量管理"
+ ],
+ [
+  "校准证书",
+  "calibration certificate",
+  "质量管理"
+ ],
+ [
+  "质量体系认证",
+  "quality system certification",
+  "质量管理"
+ ],
+ [
+  "ISO9001认证",
+  "ISO 9001 certification",
+  "质量管理"
+ ],
+ [
+  "出货检验",
+  "outgoing quality control|OQC",
+  "质量管理"
+ ],
+ [
+  "制程检验",
+  "in-process quality control|IPQC",
+  "质量管理"
+ ],
+ [
+  "医疗器械注册",
+  "medical device registration",
+  "医疗健康"
+ ],
+ [
+  "不良事件",
+  "adverse event",
+  "医疗健康"
+ ],
+ [
+  "生物等效性",
+  "bioequivalence",
+  "医疗健康"
+ ],
+ [
+  "无菌",
+  "sterile",
+  "医疗健康"
+ ],
+ [
+  "灭菌验证",
+  "sterilization validation",
+  "医疗健康"
+ ],
+ [
+  "医用耗材",
+  "medical consumables",
+  "医疗健康"
+ ],
+ [
+  "辐射灭菌",
+  "radiation sterilization",
+  "医疗健康"
+ ],
+ [
+  "接地电阻",
+  "ground resistance",
+  "电力能源"
+ ],
+ [
+  "绝缘电阻",
+  "insulation resistance",
+  "电力能源"
+ ],
+ [
+  "光伏发电",
+  "photovoltaic power generation",
+  "电力能源"
+ ],
+ [
+  "风力发电",
+  "wind power generation",
+  "电力能源"
+ ],
+ [
+  "储能系统",
+  "energy storage system",
+  "电力能源"
+ ],
+ [
+  "监理",
+  "supervision",
+  "建筑工程"
+ ],
+ [
+  "总承包",
+  "general contracting",
+  "建筑工程"
+ ],
+ [
+  "分包",
+  "subcontracting",
+  "建筑工程"
+ ],
+ [
+  "建筑面积",
+  "floor area",
+  "建筑工程"
+ ],
+ [
+  "混凝土标号",
+  "concrete grade",
+  "建筑工程"
+ ],
+ [
+  "冲压车间",
+  "stamping workshop",
+  "汽车制造"
+ ],
+ [
+  "焊接车间",
+  "welding workshop",
+  "汽车制造"
+ ],
+ [
+  "涂装车间",
+  "painting workshop",
+  "汽车制造"
+ ],
+ [
+  "总装车间",
+  "final assembly workshop",
+  "汽车制造"
+ ],
+ [
+  "质保期",
+  "warranty period",
+  "汽车制造"
+ ],
+ [
+  "四轮定位",
+  "wheel alignment",
+  "汽车制造"
+ ],
+ [
+  "发动机排量",
+  "engine displacement",
+  "汽车制造"
+ ],
+ [
+  "分子量",
+  "molecular weight",
+  "化工材料"
+ ],
+ [
+  "腐蚀速率",
+  "corrosion rate",
+  "化工材料"
+ ],
+ [
+  "材料的拉伸强度",
+  "tensile strength",
+  "化工材料"
+ ],
+ [
+  "品牌资产",
+  "brand equity",
+  "市场营销"
+ ],
+ [
+  "客户获取成本",
+  "customer acquisition cost|CAC",
+  "市场营销"
+ ],
+ [
+  "复购率",
+  "repurchase rate",
+  "市场营销"
+ ],
+ [
+  "渠道管理",
+  "channel management",
+  "市场营销"
+ ],
+ [
+  "公关活动",
+  "public relations campaign",
+  "市场营销"
+ ],
+ [
+  "录用通知书",
+  "offer letter",
+  "人力资源"
+ ],
+ [
+  "住房公积金",
+  "housing provident fund",
+  "人力资源"
+ ],
+ [
+  "培训与发展",
+  "training and development",
+  "人力资源"
+ ],
+ [
+  "经济补偿金",
+  "economic compensation",
+  "人力资源"
+ ],
+ [
+  "劳动争议",
+  "labor dispute",
+  "人力资源"
+ ],
+ [
+  "薪酬体系",
+  "compensation system",
+  "人力资源"
+ ],
+ [
+  "教学评估",
+  "teaching evaluation",
+  "教育培训"
+ ],
+ [
+  "职业资格",
+  "professional qualification",
+  "教育培训"
+ ],
+ [
+  "认证考试",
+  "certification exam",
+  "教育培训"
+ ],
+ [
+  "培训计划",
+  "training plan",
+  "教育培训"
+ ],
+ [
+  "学习目标",
+  "learning objective",
+  "教育培训"
+ ],
+ [
+  "在线学习平台",
+  "online learning platform",
+  "教育培训"
+ ],
+ [
+  "订单履约",
+  "order fulfillment",
+  "电子商务"
+ ],
+ [
+  "支付网关",
+  "payment gateway",
+  "电子商务"
+ ],
+ [
+  "退货政策",
+  "return policy",
+  "电子商务"
+ ],
+ [
+  "客户评价",
+  "customer review",
+  "电子商务"
+ ],
+ [
+  "商品详情页",
+  "product detail page",
+  "电子商务"
+ ],
+ [
+  "库存同步",
+  "inventory synchronization",
+  "电子商务"
+ ],
+ [
+  "电子面单",
+  "electronic waybill",
+  "电子商务"
+ ],
+ [
+  "店铺评分",
+  "store rating",
+  "电子商务"
+ ],
+ [
+  "工作分解结构",
+  "work breakdown structure|WBS",
+  "项目管理"
+ ],
+ [
+  "风险登记册",
+  "risk register",
+  "项目管理"
+ ],
+ [
+  "变更请求",
+  "change request",
+  "项目管理"
+ ],
+ [
+  "范围蔓延",
+  "scope creep",
+  "项目管理"
+ ],
+ [
+  "挣值管理",
+  "earned value management|EVM",
+  "项目管理"
+ ],
+ [
+  "谢谢您的合作",
+  "thank you for your cooperation",
+  "高频商务词"
+ ],
+ [
+  "期待与您合作",
+  "look forward to cooperating with you",
+  "高频商务词"
+ ],
+ [
+  "如有任何问题请随时联系",
+  "please feel free to contact us if you have any questions",
+  "高频商务词"
+ ],
+ [
+  "我们会尽快回复",
+  "we will reply as soon as possible",
+  "高频商务词"
+ ],
+ [
+  "供您参考",
+  "for your reference",
+  "高频商务词"
+ ],
+ [
+  "如有疑问请告知",
+  "please let us know if you have any questions",
+  "高频商务词"
+ ],
+ [
+  "感谢您的理解与支持",
+  "thank you for your understanding and support",
+  "高频商务词"
+ ],
+ [
+  "利益冲突",
+  "conflict of interest",
+  "通用商务"
+ ],
+ [
+  "关联交易",
+  "related-party transaction",
+  "通用商务"
+ ],
+ [
+  "重大事项披露",
+  "material disclosure",
+  "通用商务"
+ ],
+ [
+  "合规承诺",
+  "compliance commitment",
+  "通用商务"
+ ],
+ [
+  "反贿赂条款",
+  "anti-bribery clause",
+  "通用商务"
+ ],
+ [
+  "数据保护条款",
+  "data protection clause",
+  "通用商务"
+ ],
+ [
+  "服务水平协议",
+  "service level agreement|SLA",
+  "通用商务"
+ ],
+ [
+  "标杆管理",
+  "benchmarking",
+  "通用商务"
+ ],
+ [
+  "业务流程重组",
+  "business process reengineering|BPR",
+  "通用商务"
+ ],
+ [
+  "战略合作备忘录",
+  "memorandum of understanding|MOU",
+  "通用商务"
+ ],
+ [
+  "意向书",
+  "letter of intent|LOI",
+  "通用商务"
+ ],
+ [
+  "卸货港",
+  "port of discharge",
+  "外贸"
+ ],
+ [
+  "投保金额",
+  "insured amount",
+  "外贸"
+ ],
+ [
+  "应收账款周转率",
+  "accounts receivable turnover",
+  "财务金融"
+ ],
+ [
+  "存货周转天数",
+  "days inventory outstanding|DIO",
+  "财务金融"
+ ],
+ [
+  "应收账款天数",
+  "days sales outstanding|DSO",
+  "财务金融"
+ ],
+ [
+  "应付账款天数",
+  "days payable outstanding|DPO",
+  "财务金融"
+ ],
+ [
+  "现金周期",
+  "cash conversion cycle",
+  "财务金融"
+ ],
+ [
+  "息税前利润",
+  "EBIT",
+  "财务金融"
+ ],
+ [
+  "税盾",
+  "tax shield",
+  "财务金融"
+ ],
+ [
+  "资本结构",
+  "capital structure",
+  "财务金融"
+ ],
+ [
+  "加权平均资本成本",
+  "weighted average cost of capital|WACC",
+  "财务金融"
+ ],
+ [
+  "股权融资",
+  "equity financing",
+  "财务金融"
+ ],
+ [
+  "债权融资",
+  "debt financing",
+  "财务金融"
+ ],
+ [
+  "并购",
+  "merger and acquisition|M&A",
+  "财务金融"
+ ],
+ [
+  "资产剥离",
+  "divestiture",
+  "财务金融"
+ ],
+ [
+  "商誉减值",
+  "goodwill impairment",
+  "财务金融"
+ ],
+ [
+  "或有负债",
+  "contingent liability",
+  "财务金融"
+ ],
+ [
+  "网络安全等级保护",
+  "classified protection of cybersecurity",
+  "网络"
+ ],
+ [
+  "零信任架构",
+  "zero trust architecture",
+  "网络"
+ ],
+ [
+  "数据仓库",
+  "data warehouse",
+  "软件"
+ ],
+ [
+  "数据挖掘",
+  "data mining",
+  "软件"
+ ],
+ [
+  "容器化",
+  "containerization",
+  "软件"
+ ],
+ [
+  "编排",
+  "orchestration",
+  "软件"
+ ],
+ [
+  "无服务器架构",
+  "serverless architecture",
+  "软件"
+ ],
+ [
+  "配合公差",
+  "fit tolerance",
+  "机械设备"
+ ],
+ [
+  "刀具寿命",
+  "tool life",
+  "机械设备"
+ ],
+ [
+  "润滑系统",
+  "lubrication system",
+  "机械设备"
+ ],
+ [
+  "冷却系统",
+  "cooling system",
+  "机械设备"
+ ],
+ [
+  "监视和测量资源",
+  "monitoring and measuring resources",
+  "质量管理"
+ ],
+ [
+  "计量溯源",
+  "metrological traceability",
+  "质量管理"
+ ],
+ [
+  "机会改进",
+  "opportunity for improvement",
+  "质量管理"
+ ],
+ [
+  "产品审核",
+  "product audit",
+  "质量管理"
+ ],
+ [
+  "防护",
+  "preservation",
+  "质量管理"
+ ],
+ [
+  "合同效力",
+  "validity of contract",
+  "法律合同"
+ ],
+ [
+  "合同备案",
+  "contract filing",
+  "法律合同"
+ ],
+ [
+  "合同转让",
+  "assignment of contract",
+  "法律合同"
+ ],
+ [
+  "债权债务抵销",
+  "set-off",
+  "法律合同"
+ ],
+ [
+  "提存",
+  "deposit/escrow",
+  "法律合同"
+ ],
+ [
+  "不安抗辩权",
+  "right to suspend performance",
+  "法律合同"
+ ],
+ [
+  "先履行抗辩权",
+  "defense of prior performance",
+  "法律合同"
+ ],
+ [
+  "同时履行抗辩权",
+  "defense of simultaneous performance",
+  "法律合同"
+ ],
+ [
+  "代位权",
+  "subrogation right",
+  "法律合同"
+ ],
+ [
+  "撤销权",
+  "revocation right",
+  "法律合同"
+ ],
+ [
+  "表见代理",
+  "apparent agency",
+  "法律合同"
+ ],
+ [
+  "无权代理",
+  "unauthorized agency",
+  "法律合同"
+ ],
+ [
+  "善意第三人",
+  "bona fide third party",
+  "法律合同"
+ ],
+ [
+  "意思表示",
+  "expression of intent",
+  "法律合同"
+ ],
+ [
+  "补货周期",
+  "replenishment lead time",
+  "物流供应链"
+ ],
+ [
+  "仓库布局",
+  "warehouse layout",
+  "物流供应链"
+ ],
+ [
+  "拣货效率",
+  "picking efficiency",
+  "物流供应链"
+ ],
+ [
+  "库存准确率",
+  "inventory accuracy",
+  "物流供应链"
+ ],
+ [
+  "货损率",
+  "damage rate",
+  "物流供应链"
+ ],
+ [
+  "订单满足率",
+  "order fill rate",
+  "物流供应链"
+ ],
+ [
+  "消费者行为",
+  "consumer behavior",
+  "市场营销"
+ ],
+ [
+  "购买决策过程",
+  "buying decision process",
+  "市场营销"
+ ],
+ [
+  "品牌形象",
+  "brand image",
+  "市场营销"
+ ],
+ [
+  "品牌忠诚度",
+  "brand loyalty",
+  "市场营销"
+ ],
+ [
+  "市场开发",
+  "market development",
+  "市场营销"
+ ],
+ [
+  "产品开发",
+  "product development",
+  "市场营销"
+ ],
+ [
+  "多元化战略",
+  "diversification strategy",
+  "市场营销"
+ ],
+ [
+  "SWOT分析",
+  "SWOT analysis",
+  "市场营销"
+ ],
+ [
+  "4P营销组合",
+  "4P marketing mix",
+  "市场营销"
+ ],
+ [
+  "营销自动化",
+  "marketing automation",
+  "市场营销"
+ ],
+ [
+  "人才招聘",
+  "talent acquisition",
+  "人力资源"
+ ],
+ [
+  "人才盘点",
+  "talent review",
+  "人力资源"
+ ],
+ [
+  "继任计划",
+  "succession planning",
+  "人力资源"
+ ],
+ [
+  "员工敬业度",
+  "employee engagement",
+  "人力资源"
+ ],
+ [
+  "组织发展",
+  "organization development|OD",
+  "人力资源"
+ ],
+ [
+  "工作岗位分析",
+  "job analysis",
+  "人力资源"
+ ],
+ [
+  "薪酬调研",
+  "salary survey",
+  "人力资源"
+ ],
+ [
+  "绩效面谈",
+  "performance interview",
+  "人力资源"
+ ],
+ [
+  "360度评估",
+  "360-degree evaluation",
+  "人力资源"
+ ],
+ [
+  "培训需求分析",
+  "training needs analysis",
+  "人力资源"
+ ],
+ [
+  "员工关系",
+  "employee relations",
+  "人力资源"
+ ],
+ [
+  "劳动合同解除",
+  "termination of labor contract",
+  "人力资源"
+ ],
+ [
+  "竞业补偿",
+  "non-compete compensation",
+  "人力资源"
+ ],
+ [
+  "劳务派遣",
+  "labor dispatch",
+  "人力资源"
+ ],
+ [
+  "工时制度",
+  "working hour system",
+  "人力资源"
+ ],
+ [
+  "技术交底",
+  "technical disclosure",
+  "建筑工程"
+ ],
+ [
+  "隐蔽工程验收",
+  "acceptance of concealed works",
+  "建筑工程"
+ ],
+ [
+  "工程变更",
+  "engineering change",
+  "建筑工程"
+ ],
+ [
+  "工程款支付",
+  "progress payment",
+  "建筑工程"
+ ],
+ [
+  "竣工结算",
+  "final account settlement",
+  "建筑工程"
+ ],
+ [
+  "工程质量保证金",
+  "quality retention money",
+  "建筑工程"
+ ],
+ [
+  "建筑工程施工许可证",
+  "building construction permit",
+  "建筑工程"
+ ],
+ [
+  "桩基工程",
+  "pile foundation works",
+  "建筑工程"
+ ],
+ [
+  "基坑支护",
+  "foundation pit support",
+  "建筑工程"
+ ],
+ [
+  "混凝土浇筑",
+  "concrete pouring",
+  "建筑工程"
+ ],
+ [
+  "养护",
+  "curing",
+  "建筑工程"
+ ],
+ [
+  "防水工程",
+  "waterproofing works",
+  "建筑工程"
+ ],
+ [
+  "继电保护装置",
+  "protective relay device",
+  "电力能源"
+ ],
+ [
+  "变电站",
+  "substation",
+  "电力能源"
+ ],
+ [
+  "输电线",
+  "transmission line",
+  "电力能源"
+ ],
+ [
+  "配电系统",
+  "distribution system",
+  "电力能源"
+ ],
+ [
+  "UPS不间断电源",
+  "uninterruptible power supply|UPS",
+  "电力能源"
+ ],
+ [
+  "柴油发电机",
+  "diesel generator",
+  "电力能源"
+ ],
+ [
+  "汇流箱",
+  "combiner box",
+  "电力能源"
+ ],
+ [
+  "功率因数校正",
+  "power factor correction|PFC",
+  "电力能源"
+ ],
+ [
+  "整车装配",
+  "vehicle assembly",
+  "汽车制造"
+ ],
+ [
+  "车身制造",
+  "body manufacturing",
+  "汽车制造"
+ ],
+ [
+  "动力总成",
+  "powertrain",
+  "汽车制造"
+ ],
+ [
+  "制动系统",
+  "braking system",
+  "汽车制造"
+ ],
+ [
+  "悬挂系统",
+  "suspension system",
+  "汽车制造"
+ ],
+ [
+  "转向系统",
+  "steering system",
+  "汽车制造"
+ ],
+ [
+  "安全气囊",
+  "airbag",
+  "汽车制造"
+ ],
+ [
+  "电子稳定程序",
+  "ESP/ESC",
+  "汽车制造"
+ ],
+ [
+  "化学品安全技术说明书",
+  "SDS/MSDS",
+  "化工材料"
+ ],
+ [
+  "通风橱",
+  "fume hood",
+  "化工材料"
+ ],
+ [
+  "精馏塔",
+  "distillation column",
+  "化工材料"
+ ],
+ [
+  "压力表",
+  "pressure gauge",
+  "化工材料"
+ ],
+ [
+  "温度计",
+  "thermometer",
+  "化工材料"
+ ],
+ [
+  "流量计",
+  "flow meter",
+  "化工材料"
+ ],
+ [
+  "玻璃钢",
+  "fiberglass",
+  "化工材料"
+ ],
+ [
+  "环氧树脂",
+  "epoxy resin",
+  "化工材料"
+ ],
+ [
+  "药品说明书",
+  "package insert",
+  "医疗健康"
+ ],
+ [
+  "适应症和用法用量",
+  "indications and dosage",
+  "医疗健康"
+ ],
+ [
+  "药敏试验",
+  "drug susceptibility test",
+  "医疗健康"
+ ],
+ [
+  "临床试验方案",
+  "clinical trial protocol",
+  "医疗健康"
+ ],
+ [
+  "知情同意书",
+  "informed consent form",
+  "医疗健康"
+ ],
+ [
+  "病例报告表",
+  "case report form|CRF",
+  "医疗健康"
+ ],
+ [
+  "GMP认证",
+  "GMP certification",
+  "医疗健康"
+ ],
+ [
+  "冷链运输",
+  "cold chain transport",
+  "医疗健康"
+ ],
+ [
+  "生物制品",
+  "biological product",
+  "医疗健康"
+ ],
+ [
+  "诊断试剂",
+  "diagnostic reagent",
+  "医疗健康"
+ ],
+ [
+  "手术室",
+  "operating room",
+  "医疗健康"
+ ],
+ [
+  "消毒供应中心",
+  "central sterile supply department|CSSD",
+  "医疗健康"
+ ],
+ [
+  "废气排放",
+  "exhaust emission",
+  "环境安全"
+ ],
+ [
+  "职业健康安全",
+  "occupational health and safety",
+  "环境安全"
+ ],
+ [
+  "ISO14001认证",
+  "ISO 14001 certification",
+  "环境安全"
+ ],
+ [
+  "环境管理体系",
+  "environmental management system",
+  "环境安全"
+ ],
+ [
+  "事故报告",
+  "incident report",
+  "环境安全"
+ ],
+ [
+  "食品安全标准",
+  "food safety standard",
+  "食品农业"
+ ],
+ [
+  "HACCP认证",
+  "HACCP certification",
+  "食品农业"
+ ],
+ [
+  "营养成分表",
+  "nutrition facts",
+  "食品农业"
+ ],
+ [
+  "农药残留",
+  "pesticide residue",
+  "食品农业"
+ ],
+ [
+  "兽药残留",
+  "veterinary drug residue",
+  "食品农业"
+ ],
+ [
+  "有机认证",
+  "organic certification",
+  "食品农业"
+ ],
+ [
+  "冷链仓储",
+  "cold chain storage",
+  "食品农业"
+ ],
+ [
+  "灌溉系统",
+  "irrigation system",
+  "食品农业"
+ ],
+ [
+  "温室大棚",
+  "greenhouse",
+  "食品农业"
+ ],
+ [
+  "农产品溯源",
+  "agricultural product traceability",
+  "食品农业"
+ ],
+ [
+  "瓦楞纸箱",
+  "corrugated carton",
+  "印刷包装"
+ ],
+ [
+  "再生纸",
+  "recycled paper",
+  "印刷包装"
+ ],
+ [
+  "防潮包装",
+  "moisture-proof packaging",
+  "印刷包装"
+ ],
+ [
+  "水洗",
+  "washing",
+  "纺织服装"
+ ],
+ [
+  "尺码表",
+  "size chart",
+  "纺织服装"
+ ],
+ [
+  "安防系统",
+  "security system",
+  "军事安防"
+ ],
+ [
+  "视频监控",
+  "video surveillance",
+  "军事安防"
+ ],
+ [
+  "门禁系统",
+  "access control system",
+  "军事安防"
+ ],
+ [
+  "入侵报警",
+  "intrusion alarm",
+  "军事安防"
+ ],
+ [
+  "值班",
+  "duty shift",
+  "军事安防"
+ ],
+ [
+  "应急响应",
+  "emergency response",
+  "军事安防"
+ ],
+ [
+  "疏散通道",
+  "evacuation route",
+  "军事安防"
+ ],
+ [
+  "实时渲染",
+  "real-time rendering",
+  "游戏娱乐"
+ ],
+ [
+  "用户留存率",
+  "user retention rate",
+  "游戏娱乐"
+ ],
+ [
+  "日活跃用户",
+  "daily active users|DAU",
+  "游戏娱乐"
+ ],
+ [
+  "月活跃用户",
+  "monthly active users|MAU",
+  "游戏娱乐"
+ ],
+ [
+  "游戏本地化",
+  "game localization",
+  "游戏娱乐"
+ ],
+ [
+  "反作弊系统",
+  "anti-cheat system",
+  "游戏娱乐"
+ ],
+ [
+  "服务器架构",
+  "server architecture",
+  "游戏娱乐"
+ ],
+ [
+  "内容审核",
+  "content moderation",
+  "游戏娱乐"
+ ],
+ [
+  "文献综述",
+  "literature review",
+  "学术研究"
+ ],
+ [
+  "研究方法",
+  "research methodology",
+  "学术研究"
+ ],
+ [
+  "数据采集",
+  "data collection",
+  "学术研究"
+ ],
+ [
+  "统计分析",
+  "statistical analysis",
+  "学术研究"
+ ],
+ [
+  "学术引用",
+  "academic citation",
+  "学术研究"
+ ],
+ [
+  "实验设计",
+  "experimental design",
+  "学术研究"
+ ],
+ [
+  "假设检验",
+  "hypothesis testing",
+  "学术研究"
+ ],
+ [
+  "问卷调查",
+  "questionnaire survey",
+  "学术研究"
+ ],
+ [
+  "研究伦理",
+  "research ethics",
+  "学术研究"
+ ],
+ [
+  "保密条款",
+  "confidentiality clause",
+  "合同法律"
+ ],
+ [
+  "合同生效",
+  "effective date of contract",
+  "合同法律"
+ ],
+ [
+  "通知条款",
+  "notices clause",
+  "合同法律"
+ ],
+ [
+  "完整协议",
+  "entire agreement",
+  "合同法律"
+ ],
+ [
+  "可分割性",
+  "severability",
+  "合同法律"
+ ],
+ [
+  "权利保留",
+  "no waiver",
+  "合同法律"
+ ],
+ [
+  "履约保证",
+  "performance guarantee",
+  "合同法律"
+ ],
+ [
+  "赔偿责任",
+  "indemnity",
+  "合同法律"
+ ],
+ [
+  "许可使用",
+  "licensed use",
+  "合同法律"
+ ],
+ [
+  "禁止招揽",
+  "non-solicitation",
+  "合同法律"
+ ],
+ [
+  "反商业贿赂",
+  "anti-bribery",
+  "合同法律"
+ ],
+ [
+  "挤出机",
+  "extruder",
+  "机械设备"
+ ],
+ [
+  "密封圈",
+  "seal ring",
+  "机械设备"
+ ],
+ [
+  "贴片",
+  "SMT mounting",
+  "电气电子"
+ ],
+ [
+  "继电器",
+  "relay",
+  "电气电子"
+ ],
+ [
+  "整流器",
+  "rectifier",
+  "电气电子"
+ ],
+ [
+  "逆变器",
+  "inverter",
+  "电气电子"
+ ],
+ [
+  "控制器",
+  "controller",
+  "电气电子"
+ ],
+ [
+  "显示屏",
+  "display screen",
+  "电气电子"
+ ],
+ [
+  "静电防护",
+  "ESD protection",
+  "电气电子"
+ ],
+ [
+  "开源协议",
+  "open source license",
+  "软件网络"
+ ],
+ [
+  "系统架构",
+  "system architecture",
+  "软件网络"
+ ],
+ [
+  "日志审计",
+  "log audit",
+  "软件网络"
+ ],
+ [
+  "漏洞修复",
+  "vulnerability patching",
+  "软件网络"
+ ],
+ [
+  "计量器具",
+  "measuring instrument",
+  "质量认证"
+ ],
+ [
+  "拣货",
+  "order picking",
+  "物流仓储"
+ ],
+ [
+  "备货",
+  "stock preparation",
+  "物流仓储"
+ ],
+ [
+  "装柜",
+  "container loading",
+  "物流仓储"
+ ],
+ [
+  "仓储费",
+  "storage fee",
+  "物流仓储"
+ ],
+ [
+  "运单号",
+  "waybill number",
+  "物流仓储"
+ ],
+ [
+  "成本核算",
+  "cost accounting",
+  "财务税务"
+ ],
+ [
+  "税务申报",
+  "tax filing",
+  "财务税务"
+ ],
+ [
+  "范围变更",
+  "scope change",
+  "项目管理"
+ ],
+ [
+  "项目交付",
+  "project delivery",
+  "项目管理"
+ ],
+ [
+  "周报",
+  "weekly report",
+  "项目管理"
+ ],
+ [
+  "进度跟踪",
+  "progress tracking",
+  "项目管理"
+ ],
+ [
+  "资源分配",
+  "resource allocation",
+  "项目管理"
+ ],
+ [
+  "目标客户",
+  "target customer",
+  "市场营销"
+ ],
+ [
+  "客户细分",
+  "customer segmentation",
+  "市场营销"
+ ],
+ [
+  "定价策略",
+  "pricing strategy",
+  "市场营销"
+ ],
+ [
+  "促销活动",
+  "promotion campaign",
+  "市场营销"
+ ],
+ [
+  "销售线索",
+  "sales lead",
+  "市场营销"
+ ],
+ [
+  "工单",
+  "service ticket",
+  "客户服务"
+ ],
+ [
+  "满意度调查",
+  "satisfaction survey",
+  "客户服务"
+ ],
+ [
+  "客户回访",
+  "customer follow-up",
+  "客户服务"
+ ],
+ [
+  "技术支持",
+  "technical support",
+  "客户服务"
+ ],
+ [
+  "实用新型",
+  "utility model",
+  "知识产权"
+ ],
+ [
+  "外观设计",
+  "industrial design",
+  "知识产权"
+ ],
+ [
+  "专利许可",
+  "patent license",
+  "知识产权"
+ ],
+ [
+  "优先权",
+  "priority right",
+  "知识产权"
+ ],
+ [
+  "年费",
+  "annual fee",
+  "知识产权"
+ ]
+]
