@@ -1,6 +1,6 @@
 {
- "version": 2026112503,
- "updatedAt": "2026-11-25",
+ "version": 2026112701,
+ "updatedAt": "2026-11-27",
  "terms": [
   [
    "快递",
@@ -13676,6 +13676,106 @@
    "经济订货量",
    "economic order quantity|EOQ",
    "物流供应链"
+  ],
+  [
+   "供应商管理库存",
+   "vendor-managed inventory|VMI",
+   "物流供应链"
+  ],
+  [
+   "履行中心",
+   "fulfillment center",
+   "物流供应链"
+  ],
+  [
+   "最后一公里配送",
+   "last-mile delivery",
+   "物流供应链"
+  ],
+  [
+   "超尺寸货物",
+   "out-of-gauge cargo",
+   "物流供应链"
+  ],
+  [
+   "折旧与摊销",
+   "depreciation and amortization",
+   "财务金融"
+  ],
+  [
+   "内部收益率",
+   "internal rate of return|IRR",
+   "财务金融"
+  ],
+  [
+   "净现值",
+   "net present value|NPV",
+   "财务金融"
+  ],
+  [
+   "汇率风险",
+   "exchange rate risk",
+   "财务金融"
+  ],
+  [
+   "信用证贴现",
+   "letter of credit discounting",
+   "财务金融"
+  ],
+  [
+   "保理",
+   "factoring",
+   "财务金融"
+  ],
+  [
+   "转让定价",
+   "transfer pricing",
+   "财务金融"
+  ],
+  [
+   "版本回滚",
+   "version rollback",
+   "软件"
+  ],
+  [
+   "高并发",
+   "high concurrency",
+   "软件"
+  ],
+  [
+   "微服务架构",
+   "microservices architecture",
+   "软件"
+  ],
+  [
+   "缓存穿透",
+   "cache penetration",
+   "软件"
+  ],
+  [
+   "数据库索引",
+   "database index",
+   "软件"
+  ],
+  [
+   "事务回滚",
+   "transaction rollback",
+   "软件"
+  ],
+  [
+   "代码重构",
+   "code refactoring",
+   "软件"
+  ],
+  [
+   "上线部署",
+   "production deployment",
+   "软件"
+  ],
+  [
+   "电源管理芯片",
+   "power management IC",
+   "硬件"
   ]
  ],
  "phrases": [
