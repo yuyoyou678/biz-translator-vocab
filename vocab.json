@@ -1,5 +1,5 @@
 {
- "version": 2026112701,
+ "version": 2026112702,
  "updatedAt": "2026-11-27",
  "terms": [
   [
@@ -13776,6 +13776,106 @@
    "电源管理芯片",
    "power management IC",
    "硬件"
+  ],
+  [
+   "静电放电防护",
+   "electrostatic discharge protection|ESD",
+   "硬件"
+  ],
+  [
+   "焊盘",
+   "solder pad",
+   "硬件"
+  ],
+  [
+   "过孔",
+   "via",
+   "硬件"
+  ],
+  [
+   "贴片元件",
+   "SMD component",
+   "硬件"
+  ],
+  [
+   "通孔元件",
+   "through-hole component",
+   "硬件"
+  ],
+  [
+   "模数转换器",
+   "analog-to-digital converter|ADC",
+   "硬件"
+  ],
+  [
+   "数模转换器",
+   "digital-to-analog converter|DAC",
+   "硬件"
+  ],
+  [
+   "现场可编程门阵列",
+   "FPGA",
+   "硬件"
+  ],
+  [
+   "防火墙规则",
+   "firewall rule",
+   "网络"
+  ],
+  [
+   "网络延迟",
+   "network latency",
+   "网络"
+  ],
+  [
+   "拥塞控制",
+   "congestion control",
+   "网络"
+  ],
+  [
+   "光纤收发器",
+   "fiber transceiver",
+   "网络"
+  ],
+  [
+   "交换机端口",
+   "switch port",
+   "网络"
+  ],
+  [
+   "路由表",
+   "routing table",
+   "网络"
+  ],
+  [
+   "五元组",
+   "five-tuple",
+   "网络"
+  ],
+  [
+   "缔约过失",
+   "culpa in contrahendo",
+   "法律合同"
+  ],
+  [
+   "格式条款",
+   "standard terms",
+   "法律合同"
+  ],
+  [
+   "知识产权归属",
+   "ownership of intellectual property",
+   "法律合同"
+  ],
+  [
+   "侵权",
+   "infringement",
+   "法律合同"
+  ],
+  [
+   "诉讼时效",
+   "statute of limitations",
+   "法律合同"
   ]
  ],
  "phrases": [
